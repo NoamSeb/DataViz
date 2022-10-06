@@ -360,7 +360,7 @@
                             "description": "https://www.facebook.com/events/977068802639818/?ti=cl",
                             "styleUrl": "#icon-1541-F9A825",
                             "Point": {
-                                "coordinates": "\n            4.83696910000003,45.7685295,0\n          "
+                                "coordinates": "4.83696910000003,45.7685295,0\n          "
                             }
                         },
                         {
@@ -370,7 +370,7 @@
                             },
                             "styleUrl": "#icon-1541-F9A825",
                             "Point": {
-                                "coordinates": "\n            -0.368480599999998,43.295492,0\n          "
+                                "coordinates": "-0.368480599999998,43.295492,0\n          "
                             }
                         },
                         {
@@ -380,7 +380,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            -2.18772139999999,47.3178183,0\n          "
+                                "coordinates": "-2.18772139999999,47.3178183,0\n          "
                             }
                         },
                         {
@@ -390,7 +390,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.33208569999999,48.8706366,0\n          "
+                                "coordinates": "2.33208569999999,48.8706366,0\n          "
                             }
                         },
                         {
@@ -400,7 +400,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.35222190000002,48.856614,0\n          "
+                                "coordinates": "2.35222190000002,48.856614,0\n          "
                             }
                         },
                         {
@@ -412,7 +412,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            5.37317200000007,43.29278,0\n          "
+                                "coordinates": "5.37317200000007,43.29278,0\n          "
                             }
                         },
                         {
@@ -422,7 +422,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            4.83156580000002,45.7566874,0\n          "
+                                "coordinates": "4.83156580000002,45.7566874,0\n          "
                             }
                         },
                         {
@@ -432,7 +432,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            1.44844079999996,43.5940347,0\n          "
+                                "coordinates": "1.44844079999996,43.5940347,0\n          "
                             }
                         },
                         {
@@ -440,7 +440,7 @@
                             "description": "Samedi 23 novembre 2019 à 11h30 sur le parvis de la gare de Toulon dans le Var. Divers syndicats, associations et artistes co-organisent ce rassemblement.",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            5.92945800000007,43.128315,0\n          "
+                                "coordinates": "5.92945800000007,43.128315,0\n          "
                             }
                         },
                         {
@@ -450,7 +450,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            4.80549110000004,43.9440303,0\n          "
+                                "coordinates": "4.80549110000004,43.9440303,0\n          "
                             }
                         },
                         {
@@ -460,7 +460,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            6.12602790000005,43.1194064,0\n          "
+                                "coordinates": "6.12602790000005,43.1194064,0\n          "
                             }
                         },
                         {
@@ -470,7 +470,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            6.12942899999996,45.899267,0\n          "
+                                "coordinates": "6.12942899999996,45.899267,0\n          "
                             }
                         },
                         {
@@ -482,7 +482,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.74292890000004,47.9977951,0\n          "
+                                "coordinates": "2.74292890000004,47.9977951,0\n          "
                             }
                         },
                         {
@@ -492,7 +492,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            1.26055199999996,45.826377,0\n          "
+                                "coordinates": "1.26055199999996,45.826377,0\n          "
                             }
                         },
                         {
@@ -502,7 +502,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            3.88316869999994,45.0414851,0\n          "
+                                "coordinates": "3.88316869999994,45.0414851,0\n          "
                             }
                         },
                         {
@@ -512,7 +512,7 @@
                             },
                             "styleUrl": "#icon-1502-424242",
                             "Point": {
-                                "coordinates": "\n            7.86352,48.782918,0\n          "
+                                "coordinates": "7.86352,48.782918,0\n          "
                             }
                         },
                         {
@@ -522,7 +522,7 @@
                             },
                             "styleUrl": "#icon-1502-757575",
                             "Point": {
-                                "coordinates": "\n            2.4783913,49.2576872,0\n          "
+                                "coordinates": "2.4783913,49.2576872,0\n          "
                             }
                         },
                         {
@@ -532,7 +532,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            3.52370070000006,50.3569196,0\n          "
+                                "coordinates": "3.52370070000006,50.3569196,0\n          "
                             }
                         },
                         {
@@ -542,7 +542,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            2.08935659999997,48.8748257,0\n          "
+                                "coordinates": "2.08935659999997,48.8748257,0\n          "
                             }
                         },
                         {
@@ -550,7 +550,7 @@
                             "description": "https://www.facebook.com/events/2596937717203234/",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.36444400000005,48.9239259,0\n          "
+                                "coordinates": "2.36444400000005,48.9239259,0\n          "
                             }
                         },
                         {
@@ -560,7 +560,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.35190720000003,43.2129562,0\n          "
+                                "coordinates": "2.35190720000003,43.2129562,0\n          "
                             }
                         },
                         {
@@ -568,7 +568,7 @@
                             "description": "Le lieu du rassemblement à Paris sera diffusé prochainement sur la page de l\u2019événement)    https://www.facebook.com/events/438482597011596/",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.35222190000002,48.856614,0\n          "
+                                "coordinates": "2.35222190000002,48.856614,0\n          "
                             }
                         },
                         {
@@ -578,7 +578,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            5.37317200000007,43.29278,0\n          "
+                                "coordinates": "5.37317200000007,43.29278,0\n          "
                             }
                         },
                         {
@@ -586,7 +586,7 @@
                             "description": "https://www.leetchi.com/c/pour-salome-21-ans-100eme-feminicide-2019?fbclid=IwAR1QzpU47bMy9xXbHyt0TVOKf1dJATn8xujKSkb5VtbaXS19WaoaLbVP2KE",
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            7.14882,43.663739,0\n          "
+                                "coordinates": "7.14882,43.663739,0\n          "
                             }
                         },
                         {
@@ -596,7 +596,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            0.648943000000031,43.620103,0\n          "
+                                "coordinates": "0.648943000000031,43.620103,0\n          "
                             }
                         },
                         {
@@ -606,7 +606,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            0.109189900000047,49.4923442,0\n          "
+                                "coordinates": "0.109189900000047,49.4923442,0\n          "
                             }
                         },
                         {
@@ -618,7 +618,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.41965300000004,48.9458965,0\n          "
+                                "coordinates": "2.41965300000004,48.9458965,0\n          "
                             }
                         },
                         {
@@ -630,7 +630,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            0.648813399999995,43.6201365,0\n          "
+                                "coordinates": "0.648813399999995,43.6201365,0\n          "
                             }
                         },
                         {
@@ -638,7 +638,7 @@
                             "description": "https://www.facebook.com/events/977068802639818/?ti=cl",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            4.8368469,45.7685079,0\n          "
+                                "coordinates": "4.8368469,45.7685079,0\n          "
                             }
                         },
                         {
@@ -648,7 +648,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            7.74816880000003,48.5812331,0\n          "
+                                "coordinates": "7.74816880000003,48.5812331,0\n          "
                             }
                         },
                         {
@@ -658,7 +658,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            6.35487999999998,46.904086,0\n          "
+                                "coordinates": "6.35487999999998,46.904086,0\n          "
                             }
                         },
                         {
@@ -668,7 +668,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            7.28009529999997,43.7009301,0\n          "
+                                "coordinates": "7.28009529999997,43.7009301,0\n          "
                             }
                         },
                         {
@@ -678,7 +678,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            2.88781610000001,42.6980588,0\n          "
+                                "coordinates": "2.88781610000001,42.6980588,0\n          "
                             }
                         },
                         {
@@ -688,7 +688,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            0.338898900000004,45.2491677,0\n          "
+                                "coordinates": "0.338898900000004,45.2491677,0\n          "
                             }
                         },
                         {
@@ -698,7 +698,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.14767430000006,43.9269768,0\n          "
+                                "coordinates": "2.14767430000006,43.9269768,0\n          "
                             }
                         },
                         {
@@ -706,7 +706,7 @@
                             "description": "https://www.facebook.com/events/2269163449798674/",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            3.0838741,45.7760089,0\n          "
+                                "coordinates": "3.0838741,45.7760089,0\n          "
                             }
                         },
                         {
@@ -716,7 +716,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            1.45127500000001,43.6075329,0\n          "
+                                "coordinates": "1.45127500000001,43.6075329,0\n          "
                             }
                         },
                         {
@@ -726,7 +726,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            7.33838739999999,47.7467098,0\n          "
+                                "coordinates": "7.33838739999999,47.7467098,0\n          "
                             }
                         },
                         {
@@ -736,7 +736,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.27934809999999,48.8408995,0\n          "
+                                "coordinates": "2.27934809999999,48.8408995,0\n          "
                             }
                         },
                         {
@@ -746,7 +746,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            7.14819450000005,43.6577801,0\n          "
+                                "coordinates": "7.14819450000005,43.6577801,0\n          "
                             }
                         },
                         {
@@ -756,7 +756,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            0.358947899999976,46.5890608,0\n          "
+                                "coordinates": "0.358947899999976,46.5890608,0\n          "
                             }
                         },
                         {
@@ -766,7 +766,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.351687,48.856551,0\n          "
+                                "coordinates": "2.351687,48.856551,0\n          "
                             }
                         },
                         {
@@ -778,7 +778,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            0.154394,45.649384,0\n          "
+                                "coordinates": "0.154394,45.649384,0\n          "
                             }
                         },
                         {
@@ -786,7 +786,7 @@
                             "description": "https://www.larep.fr/malesherbois-45330/actualites/une-centaine-de-personnes-a-la-marche-blanche-pour-irina-a-malesherbes_13626645/?fbclid=IwAR1H-kpW5x11dlPylwMKKkLnU4tcWrp2Yoog3Sr7xEYQdMm6TnEBHXhlq3U",
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            2.41485299999999,48.295417,0\n          "
+                                "coordinates": "2.41485299999999,48.295417,0\n          "
                             }
                         },
                         {
@@ -796,7 +796,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            5.2056319,43.4135501,0\n          "
+                                "coordinates": "5.2056319,43.4135501,0\n          "
                             }
                         },
                         {
@@ -806,7 +806,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            5.21833200000003,43.4212739,0\n          "
+                                "coordinates": "5.21833200000003,43.4212739,0\n          "
                             }
                         },
                         {
@@ -816,7 +816,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            5.37222199999997,43.2936266,0\n          "
+                                "coordinates": "5.37222199999997,43.2936266,0\n          "
                             }
                         },
                         {
@@ -826,7 +826,7 @@
                             },
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            4.80675489999999,43.946662,0\n          "
+                                "coordinates": "4.80675489999999,43.946662,0\n          "
                             }
                         },
                         {
@@ -834,7 +834,7 @@
                             "description": "https://cagnotte.me/merci-laura/fr?fbclid=IwAR0Scf_kbB0tOmVe-pLoJ8-3y9H8SjrpnSxVhP2i9Ft6xNJ0x1wAQhzOB_A",
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            2.3239463,48.8552832,0\n          "
+                                "coordinates": "2.3239463,48.8552832,0\n          "
                             }
                         },
                         {
@@ -842,7 +842,7 @@
                             "description": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/marmande/marmande-marche-contre-feminicides-reunit-200-personnes-1699104.html?fbclid=IwAR2QpxEyLBt_icanRST4DTeQY7Jdo2SMhmw_trxTdfcuV6K85XMtnm0_DYw",
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            0.159868999999958,44.500484,0\n          "
+                                "coordinates": "0.159868999999958,44.500484,0\n          "
                             }
                         },
                         {
@@ -852,7 +852,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            2.35163060000002,48.8794013,0\n          "
+                                "coordinates": "2.35163060000002,48.8794013,0\n          "
                             }
                         },
                         {
@@ -860,7 +860,7 @@
                             "description": "https://www.facebook.com/events/340658613280305/",
                             "styleUrl": "#icon-1541-757575",
                             "Point": {
-                                "coordinates": "\n            2.3640304,48.8676635,0\n          "
+                                "coordinates": "2.3640304,48.8676635,0\n          "
                             }
                         },
                         {
@@ -870,7 +870,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            -1.20333000000005,43.4754549,0\n          "
+                                "coordinates": "-1.20333000000005,43.4754549,0\n          "
                             }
                         },
                         {
@@ -880,7 +880,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            6.11480489999997,49.214295,0\n          "
+                                "coordinates": "6.11480489999997,49.214295,0\n          "
                             }
                         },
                         {
@@ -890,7 +890,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            7.74886700000002,48.5745237,0\n          "
+                                "coordinates": "7.74886700000002,48.5745237,0\n          "
                             }
                         },
                         {
@@ -900,7 +900,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            4.65751999999998,43.806044,0\n          "
+                                "coordinates": "4.65751999999998,43.806044,0\n          "
                             }
                         },
                         {
@@ -910,7 +910,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            8.93764540000006,42.6342277,0\n          "
+                                "coordinates": "8.93764540000006,42.6342277,0\n          "
                             }
                         },
                         {
@@ -922,7 +922,7 @@
                             },
                             "styleUrl": "#icon-1502-BDBDBD",
                             "Point": {
-                                "coordinates": "\n            165.6353564,-21.278946,0\n          "
+                                "coordinates": "165.6353564,-21.278946,0\n          "
                             }
                         },
                         {
@@ -932,7 +932,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            4.92266100000006,45.782029,0\n          "
+                                "coordinates": "4.92266100000006,45.782029,0\n          "
                             }
                         },
                         {
@@ -942,7 +942,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            2.384894,49.875919,0\n          "
+                                "coordinates": "2.384894,49.875919,0\n          "
                             }
                         },
                         {
@@ -952,7 +952,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            1.82907899999998,48.643868,0\n          "
+                                "coordinates": "1.82907899999998,48.643868,0\n          "
                             }
                         },
                         {
@@ -962,7 +962,7 @@
                             },
                             "styleUrl": "#icon-1592-673AB7",
                             "Point": {
-                                "coordinates": "\n            3.07833299999993,49.138556,0\n          "
+                                "coordinates": "3.07833299999993,49.138556,0\n          "
                             }
                         }
                     ]
@@ -976,7 +976,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.428848,50.927467,0\n          "
+                                "coordinates": "2.428848,50.927467,0\n          "
                             }
                         },
                         {
@@ -986,7 +986,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.679413,43.890841,0\n          "
+                                "coordinates": "4.679413,43.890841,0\n          "
                             }
                         },
                         {
@@ -996,7 +996,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.400724,48.97178,0\n          "
+                                "coordinates": "2.400724,48.97178,0\n          "
                             }
                         },
                         {
@@ -1006,7 +1006,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.28409141302109,49.1413839356005,0\n          "
+                                "coordinates": "2.28409141302109,49.1413839356005,0\n          "
                             }
                         },
                         {
@@ -1016,7 +1016,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.86816,47.566574,0\n          "
+                                "coordinates": "6.86816,47.566574,0\n          "
                             }
                         },
                         {
@@ -1026,7 +1026,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.67938525974751,49.3080181799152,0\n          "
+                                "coordinates": "3.67938525974751,49.3080181799152,0\n          "
                             }
                         },
                         {
@@ -1036,7 +1036,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.452524700000026,46.4812643,0\n          "
+                                "coordinates": "0.452524700000026,46.4812643,0\n          "
                             }
                         },
                         {
@@ -1046,7 +1046,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.313835,45.548905,0\n          "
+                                "coordinates": "2.313835,45.548905,0\n          "
                             }
                         },
                         {
@@ -1056,7 +1056,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.374221,50.9987629,0\n          "
+                                "coordinates": "2.374221,50.9987629,0\n          "
                             }
                         },
                         {
@@ -1066,7 +1066,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.726553,45.822746,0\n          "
+                                "coordinates": "6.726553,45.822746,0\n          "
                             }
                         },
                         {
@@ -1076,7 +1076,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.0833925604820251,47.2590615086004,0\n          "
+                                "coordinates": "-0.0833925604820251,47.2590615086004,0\n          "
                             }
                         },
                         {
@@ -1086,7 +1086,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.37101174890995,43.4930204432513,0\n          "
+                                "coordinates": "2.37101174890995,43.4930204432513,0\n          "
                             }
                         },
                         {
@@ -1096,7 +1096,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -54.0248906,5.4838804,0\n          "
+                                "coordinates": "-54.0248906,5.4838804,0\n          "
                             }
                         },
                         {
@@ -1106,7 +1106,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.34313555061817,49.8719724295177,0\n          "
+                                "coordinates": "2.34313555061817,49.8719724295177,0\n          "
                             }
                         },
                         {
@@ -1116,7 +1116,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.637517,45.298156,0\n          "
+                                "coordinates": "5.637517,45.298156,0\n          "
                             }
                         },
                         {
@@ -1126,7 +1126,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -61.5778481,16.0387004,0\n          "
+                                "coordinates": "-61.5778481,16.0387004,0\n          "
                             }
                         },
                         {
@@ -1136,7 +1136,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.38706086575985,49.1853614272616,0\n          "
+                                "coordinates": "-0.38706086575985,49.1853614272616,0\n          "
                             }
                         },
                         {
@@ -1146,7 +1146,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -2.103568,47.248117,0\n          "
+                                "coordinates": "-2.103568,47.248117,0\n          "
                             }
                         },
                         {
@@ -1156,7 +1156,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.7398749,46.6491929,0\n          "
+                                "coordinates": "-0.7398749,46.6491929,0\n          "
                             }
                         },
                         {
@@ -1166,7 +1166,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.909251,47.902964,0\n          "
+                                "coordinates": "1.909251,47.902964,0\n          "
                             }
                         },
                         {
@@ -1176,7 +1176,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.542867,48.960226,0\n          "
+                                "coordinates": "2.542867,48.960226,0\n          "
                             }
                         },
                         {
@@ -1186,7 +1186,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.48407299999997,43.334972,0\n          "
+                                "coordinates": "5.48407299999997,43.334972,0\n          "
                             }
                         },
                         {
@@ -1196,7 +1196,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -61.06859,14.6157961,0\n          "
+                                "coordinates": "-61.06859,14.6157961,0\n          "
                             }
                         },
                         {
@@ -1206,7 +1206,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.81394425034523,43.9856188693892,0\n          "
+                                "coordinates": "4.81394425034523,43.9856188693892,0\n          "
                             }
                         },
                         {
@@ -1216,7 +1216,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.570773,48.902029,0\n          "
+                                "coordinates": "2.570773,48.902029,0\n          "
                             }
                         },
                         {
@@ -1226,7 +1226,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -2.190828,47.137893,0\n          "
+                                "coordinates": "-2.190828,47.137893,0\n          "
                             }
                         },
                         {
@@ -1236,7 +1236,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.86351999999999,48.782918,0\n          "
+                                "coordinates": "7.86351999999999,48.782918,0\n          "
                             }
                         },
                         {
@@ -1246,7 +1246,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.2838342,48.8885457,0\n          "
+                                "coordinates": "2.2838342,48.8885457,0\n          "
                             }
                         },
                         {
@@ -1256,7 +1256,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.47484099999997,43.492949,0\n          "
+                                "coordinates": "-1.47484099999997,43.492949,0\n          "
                             }
                         },
                         {
@@ -1266,7 +1266,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.71751410000002,48.4160015,0\n          "
+                                "coordinates": "2.71751410000002,48.4160015,0\n          "
                             }
                         },
                         {
@@ -1276,7 +1276,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.730782598257065,45.187217243497,0\n          "
+                                "coordinates": "0.730782598257065,45.187217243497,0\n          "
                             }
                         },
                         {
@@ -1286,7 +1286,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.21707609999999,50.1731177,0\n          "
+                                "coordinates": "3.21707609999999,50.1731177,0\n          "
                             }
                         },
                         {
@@ -1296,7 +1296,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.47578889131546,49.2542781943317,0\n          "
+                                "coordinates": "2.47578889131546,49.2542781943317,0\n          "
                             }
                         },
                         {
@@ -1306,7 +1306,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.582118199999968,44.8576875,0\n          "
+                                "coordinates": "-0.582118199999968,44.8576875,0\n          "
                             }
                         },
                         {
@@ -1316,7 +1316,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.260630999999989,47.945049,0\n          "
+                                "coordinates": "0.260630999999989,47.945049,0\n          "
                             }
                         },
                         {
@@ -1326,7 +1326,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.32880049999994,48.078657,0\n          "
+                                "coordinates": "7.32880049999994,48.078657,0\n          "
                             }
                         },
                         {
@@ -1336,7 +1336,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.98182629999997,46.9508463,0\n          "
+                                "coordinates": "1.98182629999997,46.9508463,0\n          "
                             }
                         },
                         {
@@ -1346,7 +1346,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.76210100000003,45.493701,0\n          "
+                                "coordinates": "-0.76210100000003,45.493701,0\n          "
                             }
                         },
                         {
@@ -1356,7 +1356,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.68411000000003,48.525439,0\n          "
+                                "coordinates": "2.68411000000003,48.525439,0\n          "
                             }
                         },
                         {
@@ -1366,7 +1366,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.94571099999996,43.437882,0\n          "
+                                "coordinates": "4.94571099999996,43.437882,0\n          "
                             }
                         },
                         {
@@ -1376,7 +1376,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.95015100000001,43.76015,0\n          "
+                                "coordinates": "4.95015100000001,43.76015,0\n          "
                             }
                         },
                         {
@@ -1386,7 +1386,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.649996999999985,49.295049,0\n          "
+                                "coordinates": "0.649996999999985,49.295049,0\n          "
                             }
                         },
                         {
@@ -1396,7 +1396,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -3.84409099999993,48.575421,0\n          "
+                                "coordinates": "-3.84409099999993,48.575421,0\n          "
                             }
                         },
                         {
@@ -1406,7 +1406,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.378692,48.195542,0\n          "
+                                "coordinates": "2.378692,48.195542,0\n          "
                             }
                         },
                         {
@@ -1416,7 +1416,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.38822000000005,48.813055,0\n          "
+                                "coordinates": "2.38822000000005,48.813055,0\n          "
                             }
                         },
                         {
@@ -1426,7 +1426,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.09020699999996,48.873918,0\n          "
+                                "coordinates": "2.09020699999996,48.873918,0\n          "
                             }
                         },
                         {
@@ -1436,7 +1436,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.33070999999995,43.461574,0\n          "
+                                "coordinates": "1.33070999999995,43.461574,0\n          "
                             }
                         },
                         {
@@ -1446,7 +1446,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.33808399999998,48.7789659,0\n          "
+                                "coordinates": "2.33808399999998,48.7789659,0\n          "
                             }
                         },
                         {
@@ -1456,7 +1456,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.13804930000003,48.9424463,0\n          "
+                                "coordinates": "2.13804930000003,48.9424463,0\n          "
                             }
                         },
                         {
@@ -1466,7 +1466,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.35295989999997,44.0221252,0\n          "
+                                "coordinates": "1.35295989999997,44.0221252,0\n          "
                             }
                         },
                         {
@@ -1476,7 +1476,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.33376399999997,48.911856,0\n          "
+                                "coordinates": "2.33376399999997,48.911856,0\n          "
                             }
                         },
                         {
@@ -1486,7 +1486,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.66699240000003,49.1948172,0\n          "
+                                "coordinates": "6.66699240000003,49.1948172,0\n          "
                             }
                         },
                         {
@@ -1496,7 +1496,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.108007527887821,49.4939182713749,0\n          "
+                                "coordinates": "0.108007527887821,49.4939182713749,0\n          "
                             }
                         },
                         {
@@ -1506,7 +1506,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.871352,43.688994,0\n          "
+                                "coordinates": "4.871352,43.688994,0\n          "
                             }
                         },
                         {
@@ -1516,7 +1516,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.0267936,47.0503315,0\n          "
+                                "coordinates": "3.0267936,47.0503315,0\n          "
                             }
                         },
                         {
@@ -1526,7 +1526,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.562159299999962,47.4841109,0\n          "
+                                "coordinates": "-0.562159299999962,47.4841109,0\n          "
                             }
                         },
                         {
@@ -1536,7 +1536,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.18884000000003,43.776621,0\n          "
+                                "coordinates": "2.18884000000003,43.776621,0\n          "
                             }
                         },
                         {
@@ -1546,7 +1546,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.14955039999995,43.6579938,0\n          "
+                                "coordinates": "7.14955039999995,43.6579938,0\n          "
                             }
                         },
                         {
@@ -1556,7 +1556,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.70942260000004,48.5430303,0\n          "
+                                "coordinates": "7.70942260000004,48.5430303,0\n          "
                             }
                         },
                         {
@@ -1566,7 +1566,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.095378,46.67864,0\n          "
+                                "coordinates": "0.095378,46.67864,0\n          "
                             }
                         },
                         {
@@ -1576,7 +1576,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -149.3081197,-17.72332,0\n          "
+                                "coordinates": "-149.3081197,-17.72332,0\n          "
                             }
                         },
                         {
@@ -1586,7 +1586,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.825187,50.827585,0\n          "
+                                "coordinates": "1.825187,50.827585,0\n          "
                             }
                         },
                         {
@@ -1596,7 +1596,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.3894262,43.550959,0\n          "
+                                "coordinates": "1.3894262,43.550959,0\n          "
                             }
                         },
                         {
@@ -1606,7 +1606,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.65241089999995,43.621303,0\n          "
+                                "coordinates": "0.65241089999995,43.621303,0\n          "
                             }
                         },
                         {
@@ -1616,7 +1616,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.220515,45.776496,0\n          "
+                                "coordinates": "6.220515,45.776496,0\n          "
                             }
                         },
                         {
@@ -1626,7 +1626,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.335888,47.750839,0\n          "
+                                "coordinates": "7.335888,47.750839,0\n          "
                             }
                         },
                         {
@@ -1636,7 +1636,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.414853,48.295417,0\n          "
+                                "coordinates": "2.414853,48.295417,0\n          "
                             }
                         },
                         {
@@ -1646,7 +1646,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.69573119999995,48.5198856,0\n          "
+                                "coordinates": "3.69573119999995,48.5198856,0\n          "
                             }
                         },
                         {
@@ -1656,7 +1656,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.76581080000005,49.3035634,0\n          "
+                                "coordinates": "5.76581080000005,49.3035634,0\n          "
                             }
                         },
                         {
@@ -1666,7 +1666,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.1111647,42.5201876,0\n          "
+                                "coordinates": "3.1111647,42.5201876,0\n          "
                             }
                         },
                         {
@@ -1676,7 +1676,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.113809,50.626928,0\n          "
+                                "coordinates": "2.113809,50.626928,0\n          "
                             }
                         },
                         {
@@ -1686,7 +1686,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            166.5690519,-22.2628708,0\n          "
+                                "coordinates": "166.5690519,-22.2628708,0\n          "
                             }
                         },
                         {
@@ -1696,7 +1696,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.218332,43.4212739,0\n          "
+                                "coordinates": "5.218332,43.4212739,0\n          "
                             }
                         },
                         {
@@ -1706,7 +1706,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.116347,49.143489,0\n          "
+                                "coordinates": "6.116347,49.143489,0\n          "
                             }
                         },
                         {
@@ -1716,7 +1716,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -52.6415627,5.1561859,0\n          "
+                                "coordinates": "-52.6415627,5.1561859,0\n          "
                             }
                         },
                         {
@@ -1726,7 +1726,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.273618,47.739101,0\n          "
+                                "coordinates": "7.273618,47.739101,0\n          "
                             }
                         },
                         {
@@ -1736,7 +1736,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.86953500000004,45.688449,0\n          "
+                                "coordinates": "4.86953500000004,45.688449,0\n          "
                             }
                         },
                         {
@@ -1746,7 +1746,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.7390522,45.1713155,0\n          "
+                                "coordinates": "5.7390522,45.1713155,0\n          "
                             }
                         },
                         {
@@ -1756,7 +1756,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.49875900000006,50.36404,0\n          "
+                                "coordinates": "3.49875900000006,50.36404,0\n          "
                             }
                         },
                         {
@@ -1766,7 +1766,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.819892,48.731932,0\n          "
+                                "coordinates": "0.819892,48.731932,0\n          "
                             }
                         },
                         {
@@ -1776,7 +1776,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.26917300000002,43.842228,0\n          "
+                                "coordinates": "3.26917300000002,43.842228,0\n          "
                             }
                         },
                         {
@@ -1786,7 +1786,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.38283439999998,51.0030916,0\n          "
+                                "coordinates": "2.38283439999998,51.0030916,0\n          "
                             }
                         },
                         {
@@ -1796,7 +1796,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.04221480000001,48.7100091,0\n          "
+                                "coordinates": "2.04221480000001,48.7100091,0\n          "
                             }
                         },
                         {
@@ -1806,7 +1806,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.86857370000007,42.697326,0\n          "
+                                "coordinates": "2.86857370000007,42.697326,0\n          "
                             }
                         },
                         {
@@ -1816,7 +1816,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.92266100000006,45.782029,0\n          "
+                                "coordinates": "4.92266100000006,45.782029,0\n          "
                             }
                         },
                         {
@@ -1826,7 +1826,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.96822299999997,49.315442,0\n          "
+                                "coordinates": "3.96822299999997,49.315442,0\n          "
                             }
                         },
                         {
@@ -1836,7 +1836,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.35632780000003,48.9315523,0\n          "
+                                "coordinates": "2.35632780000003,48.9315523,0\n          "
                             }
                         },
                         {
@@ -1846,7 +1846,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.130007,47.680585,0\n          "
+                                "coordinates": "-1.130007,47.680585,0\n          "
                             }
                         },
                         {
@@ -1856,7 +1856,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.75495460000002,43.5813185,0\n          "
+                                "coordinates": "3.75495460000002,43.5813185,0\n          "
                             }
                         },
                         {
@@ -1866,7 +1866,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.20333000000005,43.4754549,0\n          "
+                                "coordinates": "-1.20333000000005,43.4754549,0\n          "
                             }
                         },
                         {
@@ -1876,7 +1876,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.95421099999999,43.563782,0\n          "
+                                "coordinates": "3.95421099999999,43.563782,0\n          "
                             }
                         },
                         {
@@ -1886,7 +1886,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.7933715,45.9144711,0\n          "
+                                "coordinates": "5.7933715,45.9144711,0\n          "
                             }
                         },
                         {
@@ -1896,7 +1896,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.69951100000003,43.362391,0\n          "
+                                "coordinates": "-1.69951100000003,43.362391,0\n          "
                             }
                         },
                         {
@@ -1906,7 +1906,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.8285782,50.1350226,0\n          "
+                                "coordinates": "4.8285782,50.1350226,0\n          "
                             }
                         },
                         {
@@ -1916,7 +1916,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.37913270000001,48.8923293,0\n          "
+                                "coordinates": "2.37913270000001,48.8923293,0\n          "
                             }
                         },
                         {
@@ -1926,7 +1926,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.28268000000003,48.20065,0\n          "
+                                "coordinates": "3.28268000000003,48.20065,0\n          "
                             }
                         },
                         {
@@ -1936,7 +1936,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.79124209999998,46.2568173,0\n          "
+                                "coordinates": "4.79124209999998,46.2568173,0\n          "
                             }
                         },
                         {
@@ -1946,7 +1946,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.107606,49.4397949,0\n          "
+                                "coordinates": "6.107606,49.4397949,0\n          "
                             }
                         },
                         {
@@ -1956,7 +1956,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.07261,50.6606529,0\n          "
+                                "coordinates": "3.07261,50.6606529,0\n          "
                             }
                         },
                         {
@@ -1966,7 +1966,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.490032299999939,48.4389195,0\n          "
+                                "coordinates": "-0.490032299999939,48.4389195,0\n          "
                             }
                         },
                         {
@@ -1976,7 +1976,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.14641059999997,50.6192356,0\n          "
+                                "coordinates": "3.14641059999997,50.6192356,0\n          "
                             }
                         },
                         {
@@ -1986,7 +1986,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.91949450000004,48.0373944,0\n          "
+                                "coordinates": "4.91949450000004,48.0373944,0\n          "
                             }
                         },
                         {
@@ -1996,7 +1996,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.72644000000003,44.714695,0\n          "
+                                "coordinates": "4.72644000000003,44.714695,0\n          "
                             }
                         },
                         {
@@ -2006,7 +2006,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.0727222222221826,44.9227222222222,0\n          "
+                                "coordinates": "-0.0727222222221826,44.9227222222222,0\n          "
                             }
                         },
                         {
@@ -2016,7 +2016,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.85947090000002,45.7319755,0\n          "
+                                "coordinates": "4.85947090000002,45.7319755,0\n          "
                             }
                         },
                         {
@@ -2026,7 +2026,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.655934,47.052461,0\n          "
+                                "coordinates": "3.655934,47.052461,0\n          "
                             }
                         },
                         {
@@ -2036,7 +2036,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.06341799999996,49.017179,0\n          "
+                                "coordinates": "2.06341799999996,49.017179,0\n          "
                             }
                         },
                         {
@@ -2046,7 +2046,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.72351100000003,44.91313,0\n          "
+                                "coordinates": "-0.72351100000003,44.91313,0\n          "
                             }
                         },
                         {
@@ -2056,7 +2056,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.42710490000002,49.0257131,0\n          "
+                                "coordinates": "2.42710490000002,49.0257131,0\n          "
                             }
                         },
                         {
@@ -2066,7 +2066,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.15823799999998,48.773605,0\n          "
+                                "coordinates": "5.15823799999998,48.773605,0\n          "
                             }
                         },
                         {
@@ -2076,7 +2076,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.11480489999997,49.214295,0\n          "
+                                "coordinates": "6.11480489999997,49.214295,0\n          "
                             }
                         },
                         {
@@ -2086,7 +2086,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.405787000000032,47.26098,0\n          "
+                                "coordinates": "0.405787000000032,47.26098,0\n          "
                             }
                         },
                         {
@@ -2096,7 +2096,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.7966291,48.5730912,0\n          "
+                                "coordinates": "7.7966291,48.5730912,0\n          "
                             }
                         },
                         {
@@ -2106,7 +2106,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.3092516,46.0318483,0\n          "
+                                "coordinates": "4.3092516,46.0318483,0\n          "
                             }
                         },
                         {
@@ -2116,7 +2116,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.87392220000004,45.5306324,0\n          "
+                                "coordinates": "4.87392220000004,45.5306324,0\n          "
                             }
                         },
                         {
@@ -2126,7 +2126,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.4316129,43.426869,0\n          "
+                                "coordinates": "6.4316129,43.426869,0\n          "
                             }
                         },
                         {
@@ -2136,7 +2136,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.67506400000002,42.774335,0\n          "
+                                "coordinates": "1.67506400000002,42.774335,0\n          "
                             }
                         },
                         {
@@ -2146,7 +2146,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.8178217,43.9525021,0\n          "
+                                "coordinates": "4.8178217,43.9525021,0\n          "
                             }
                         },
                         {
@@ -2156,7 +2156,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.688202799999999,47.3510019,0\n          "
+                                "coordinates": "0.688202799999999,47.3510019,0\n          "
                             }
                         },
                         {
@@ -2166,7 +2166,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            0.466596299999992,47.3081086,0\n          "
+                                "coordinates": "0.466596299999992,47.3081086,0\n          "
                             }
                         },
                         {
@@ -2176,7 +2176,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.34456499999999,43.8198968,0\n          "
+                                "coordinates": "4.34456499999999,43.8198968,0\n          "
                             }
                         },
                         {
@@ -2186,7 +2186,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.10659199999998,42.518487,0\n          "
+                                "coordinates": "3.10659199999998,42.518487,0\n          "
                             }
                         },
                         {
@@ -2196,7 +2196,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.03660300000001,47.389743,0\n          "
+                                "coordinates": "1.03660300000001,47.389743,0\n          "
                             }
                         },
                         {
@@ -2206,7 +2206,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.88041199999998,46.844828,0\n          "
+                                "coordinates": "-1.88041199999998,46.844828,0\n          "
                             }
                         },
                         {
@@ -2216,7 +2216,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.15661049999994,45.6113762,0\n          "
+                                "coordinates": "5.15661049999994,45.6113762,0\n          "
                             }
                         },
                         {
@@ -2226,7 +2226,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -2.84338200000002,47.758122,0\n          "
+                                "coordinates": "-2.84338200000002,47.758122,0\n          "
                             }
                         },
                         {
@@ -2236,7 +2236,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.08540400000004,43.475104,0\n          "
+                                "coordinates": "3.08540400000004,43.475104,0\n          "
                             }
                         },
                         {
@@ -2246,7 +2246,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            8.93704600000001,42.63651,0\n          "
+                                "coordinates": "8.93704600000001,42.63651,0\n          "
                             }
                         },
                         {
@@ -2256,7 +2256,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -149.5584758,-17.5516251,0\n          "
+                                "coordinates": "-149.5584758,-17.5516251,0\n          "
                             }
                         },
                         {
@@ -2266,7 +2266,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            165.6353564,-21.278946,0\n          "
+                                "coordinates": "165.6353564,-21.278946,0\n          "
                             }
                         },
                         {
@@ -2276,7 +2276,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.91211010000006,45.781668,0\n          "
+                                "coordinates": "4.91211010000006,45.781668,0\n          "
                             }
                         },
                         {
@@ -2286,7 +2286,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.06842779999999,48.2826232,0\n          "
+                                "coordinates": "4.06842779999999,48.2826232,0\n          "
                             }
                         },
                         {
@@ -2296,7 +2296,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.718935200000033,48.1187912,0\n          "
+                                "coordinates": "-0.718935200000033,48.1187912,0\n          "
                             }
                         },
                         {
@@ -2306,7 +2306,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.141962,46.005327,0\n          "
+                                "coordinates": "3.141962,46.005327,0\n          "
                             }
                         },
                         {
@@ -2316,7 +2316,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.3724501,49.8656227,0\n          "
+                                "coordinates": "2.3724501,49.8656227,0\n          "
                             }
                         },
                         {
@@ -2326,7 +2326,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.89047900000003,45.884731,0\n          "
+                                "coordinates": "3.89047900000003,45.884731,0\n          "
                             }
                         },
                         {
@@ -2336,7 +2336,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.38504399999999,45.6601519,0\n          "
+                                "coordinates": "6.38504399999999,45.6601519,0\n          "
                             }
                         },
                         {
@@ -2346,7 +2346,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -0.648936999999933,48.756545,0\n          "
+                                "coordinates": "-0.648936999999933,48.756545,0\n          "
                             }
                         },
                         {
@@ -2356,7 +2356,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.87428599999998,43.6241357,0\n          "
+                                "coordinates": "3.87428599999998,43.6241357,0\n          "
                             }
                         },
                         {
@@ -2366,7 +2366,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.41959700000007,50.04887,0\n          "
+                                "coordinates": "1.41959700000007,50.04887,0\n          "
                             }
                         },
                         {
@@ -2376,7 +2376,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.95421099999999,43.563782,0\n          "
+                                "coordinates": "3.95421099999999,43.563782,0\n          "
                             }
                         },
                         {
@@ -2386,7 +2386,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.45366179999996,48.0577552,0\n          "
+                                "coordinates": "-1.45366179999996,48.0577552,0\n          "
                             }
                         },
                         {
@@ -2396,7 +2396,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.23415799999998,46.193253,0\n          "
+                                "coordinates": "6.23415799999998,46.193253,0\n          "
                             }
                         },
                         {
@@ -2406,7 +2406,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -2.16171199999997,47.149875,0\n          "
+                                "coordinates": "-2.16171199999997,47.149875,0\n          "
                             }
                         },
                         {
@@ -2416,7 +2416,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -52.3167774,4.9316052,0\n          "
+                                "coordinates": "-52.3167774,4.9316052,0\n          "
                             }
                         },
                         {
@@ -2426,7 +2426,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.97623099999998,48.673864,0\n          "
+                                "coordinates": "1.97623099999998,48.673864,0\n          "
                             }
                         },
                         {
@@ -2436,7 +2436,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            5.01196099999993,47.069502,0\n          "
+                                "coordinates": "5.01196099999993,47.069502,0\n          "
                             }
                         },
                         {
@@ -2446,7 +2446,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.42319299999997,43.461531,0\n          "
+                                "coordinates": "3.42319299999997,43.461531,0\n          "
                             }
                         },
                         {
@@ -2456,7 +2456,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.35153289999994,48.9327811,0\n          "
+                                "coordinates": "2.35153289999994,48.9327811,0\n          "
                             }
                         },
                         {
@@ -2466,7 +2466,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            -1.50889340000003,47.2336281,0\n          "
+                                "coordinates": "-1.50889340000003,47.2336281,0\n          "
                             }
                         },
                         {
@@ -2476,7 +2476,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            4.99676199999999,44.034945,0\n          "
+                                "coordinates": "4.99676199999999,44.034945,0\n          "
                             }
                         },
                         {
@@ -2486,7 +2486,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            3.07822299999998,49.134366,0\n          "
+                                "coordinates": "3.07822299999998,49.134366,0\n          "
                             }
                         },
                         {
@@ -2496,7 +2496,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            6.1054517,49.3046554,0\n          "
+                                "coordinates": "6.1054517,49.3046554,0\n          "
                             }
                         },
                         {
@@ -2506,7 +2506,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            7.00004109999998,43.5617644,0\n          "
+                                "coordinates": "7.00004109999998,43.5617644,0\n          "
                             }
                         },
                         {
@@ -2516,7 +2516,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            2.69083929999999,48.8657136,0\n          "
+                                "coordinates": "2.69083929999999,48.8657136,0\n          "
                             }
                         },
                         {
@@ -2526,7 +2526,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.71380399999998,49.021607,0\n          "
+                                "coordinates": "1.71380399999998,49.021607,0\n          "
                             }
                         },
                         {
@@ -2536,7 +2536,7 @@
                             },
                             "styleUrl": "#icon-1899-A52714",
                             "Point": {
-                                "coordinates": "\n            1.39878999999996,43.5629795,0\n          "
+                                "coordinates": "1.39878999999996,43.5629795,0\n          "
                             }
                         }
                     ]
@@ -2550,7 +2550,7 @@
                         },
                         "styleUrl": "#icon-1570-000000",
                         "Point": {
-                            "coordinates": "\n            2.31675389999998,48.8704156,0\n          "
+                            "coordinates": "2.31675389999998,48.8704156,0\n          "
                         }
                     }
                 }
