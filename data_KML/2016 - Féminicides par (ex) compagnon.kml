@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2016 - Féminicides par (ex) compagnon</name>
+    <description><![CDATA[Collectif de Recensement des Féminicides par Compagnons ou ex en France :<br>SIte : ➡️https://www.feminicides.fr/<br>Mail : feminicidesfrance@gmail.com<br>Facebook : https://www.facebook.com/feminicide/<br>Twitter : <br>https://twitter.com/feminicidesfr<br>Instagram : https://www.instagram.com/feminicidespar/<br>Pour nous soutenir ⤵️<br>https://www.patreon.com/feminicidesfr]]></description>
+    <Style id="icon-1502-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1541-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1541-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1541-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1592-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1592-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1592-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1592-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1592-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Féminicides</name>
+      <Placemark>
+        <name>132 - Sylvie</name>
+        <description><![CDATA[Samedi 3 décembre 2016 à Beauval-en-Caux (Seine-Maritime), Sylvie (51 ans), polyhandicapée, a été battue à mort par son compagnon Fabrice Vue (51 ans) à leur domicile. Grièvement blessée, elle a été transportée à l'hôpital où elle est décédée quelques jours plus tard. L'homme a été interpellé et placé en détention provisoire pendant 1 an SEULEMENT.<br>À l'époque aucun journal n'en a parlé, ni le procureur ! Combien de féminicides par compagnons ou ex sont ainsi minimisés et même cachés ? Combien de femmes sacrifiées dont on ne parlera peut-être jamais ? 😭 #OMERTA<br>Nous découvrons ce #féminicide par compagnon aujourd'hui, mercredi 27 avril 2022, dans la presse car le procès de Fabrice Vue, son meurtrier, a commencé devant la cour criminelle de Seine-Maritime à Rouen.Il comparaît LIBRE pour "Violences volontaires ayant entraîné la mort sans intention de la donner" 🤬🤬 Et malheureusement aucune partie civile n'est présente pour défendre la mémoire de Sylvie. <br>Nous rappelons que ni le handicap, l'âge ou la maladie ne sont des justifications à ce geste, il n'y ni amour ni compassion ! Il aurait pu placer Sylvie ou demander de l'aide si elle était "trop difficile à gérer" comme il s'en défend mais non, il a préféré la fracasser à coups de poing !Encore une fois, c'est un #crimedepossession où un homme s'octroie un droit de vie et de mort sur sa compagne !<br>Le 29 avril 2022, bien que Fabrice Vue soit reconnu COUPABLE du #féminicide de Sylvie, malgré les 12 ans de prison requis, il est condamné à 18 mois de prison ferme, qu'il a déjà effectués, le meurtrier échappe donc à la sanction 🤮 avec la bénédiction de la #JusticePatriarcale <br> <br>Post FB : https://www.facebook.com/1254619207882437/posts/5466430486701267<br>Article de presse : https://www.paris-normandie.fr/id301316/article/2022-04-27/accuse-davoir-tue-lamour-de-sa-vie-une-femme-tres-diminuee-quil-protegeait]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.0131798,49.7377925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>131 - Jocelyne</name>
+        <description><![CDATA[Samedi 3 décembre 2016 à Gonfreville-l'Orcher (Seine-Maritime), Jocelyne (76 ans) a été poignardée par son mari Michel Coisy (78 ans) à leur domicile. Il a ensuite tenté de se suicider. La victime, quant à elle, décèdera environ 1 mois plus tard à l'hôpital où elle était en soins depuis cette tentative de #féminicide.<br><br>C'est le mari qui a prévenu les secours après avoir repris connaissance, la victime gisait grièvement blessée à ses côtés. <br>Mis en examen pour tentative de meurtre, il justifiera son geste parce que sa femme était malade d'Alzheimer 😡 Écroué pendant 15 jours, il sera finalement remis en liberté dans l'attente de son procès pendant que la victime agonisait à l'hôpital #JusticeLaxiste <br>Elle est décédée peu de temps après sans que l'on connaisse la date ou les détails #OMERTA<br><br>Non Paris-Normandie, cette dame n'est sûrement pas morte de la maladie d'Alzheimer mais bien des conséquences de cette tentative de féminicide. Alzheimer est une maladie neurodégénérative qui entraîne des complications énormes dans le quotidien de la patiente mais on ne meurt pas directement de cette maladie ! #pressecomplice <br>Et pour rappel, l'âge, la maladie, la dépression ne justifient pas un tel geste ! C'est un #crimedepossession où un homme s'octroie un droit de vie et de mort sur sa compagne.<br><br>À l'époque, aucun article n'avait évoqué le décès de cette femme, aujourd'hui nous découvrons son histoire à travers le procès de son mari qui s'est ouvert devant la cour d'assises de Rouen pour tentative de meurtre.<br>Vendredi 22 avril 2021, Michel Coisy a été condamné à SEULEMENT 4 ANS AVEC SURSIS 😡<br><br>Elle était mère de plusieurs enfants.<br><br>Post FB :<br>https://www.facebook.com/1254619207882437/posts/4286597694684558/<br><br>Presse :<br>https://www.paris-normandie.fr/id185049/article/2021-04-20/un-octogenaire-devant-les-assises-de-la-seine-maritime-quatre-ans-apres-avoir]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.234715081751347,49.5019725403351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>130 - Zhour</name>
+        <description><![CDATA[Lundi 11 juillet à Aunay-sous-Crécy (Eure-et-Loir), Zhour Bounaim (66 ans) a été brûlée vive par son mari Driss Ben Hammadi (75 ans) dans leur pavillon. <br><br>L'homme avait tenté de faire passer l'incendie pour un accident, suite à une fuite de gaz.<br>Mais des traces d'hydrocarbures ont été decouvertes sur le corps carbonisée de la victime et également sur son fauteuil roulant. <br>Zhour était handicapée par une sclérose en plaques. Elle avait appelé en vain à l'aide avant de succomber, selon les voisins, pendant que son mari attendait tranquillement dehors les pompiers.<br><br>Après une enquête approfondie, les explications du mari n'ont pas convaincu les gendarmes et le parquet, d'autant qu'il a changé plusieurs fois de scénarios. Il a été mis en examen pour assassinat.<br><br>Aucune information n'ayant filtré dans la presse et en l'absence de communication du procureur, ce féminicide était, à l'époque, passé sous silence 😡 #OMERTA<br><br>Mardi 8 novembre 2020, le procès de Driss Ben Hammadi s'est ouvert devant la cour d'assises d'Eure-et-Loir. Il encourt la réclusion criminelle à perpétuité.<br><br>Le 11 décembre 2020, il a été condamné à 25 ans de prison.<br><br>Zhour était mère de 5 enfants qui se sont portés parties civiles.<br><br>Post FB : https://www.facebook.com/1254619207882437/posts/3910442242300107/<br><br>https://www.lechorepublicain.fr/chartres-28000/actualites/cour-d-assises-d-eure-et-loir-un-septuagenaire-suspecte-davoir-assassine-son-epouse_13888737/#refresh]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.30534965544939,48.6698302799461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>129 - Caroline</name>
+        <description><![CDATA[Vendredi 30 septembre 2016 à Saint-Quentin (Aisne), Caroline Pirson (47 ans) a été tuée par son partenaire Gérald Descamps (46 ans), avec un objet pointu, dans son appartement.<br>C'est le père de la victime, inquiet de ne pas avoir de nouvelles, qui a fait la macabre découverte. Caroline présentait plus de 16 plaies sur la tête et un sac poubelle avait été placé sur son visage. Les éclaboussures de sang et le désordre dans l'appartement indiquaient clairement une lutte, confirmée par la suite par une voisine qui a entendu des cris vers 22h30. Moins de 15 minutes après ces hurlements, la carte bancaire de la victime était utilisée à plusieurs reprises dans des distributeurs de la ville.<br>Rapidement, l'enquête s'est orientée vers les relations intimes de Caroline et un de ses amants, Gérald Descamps est devenu un suspect. Son ADN a été retrouvé sur la carte bancaire de la victime, avalée dans un distributeur, et il y avait des traces de son sperme sur un plaid de la jeune femme.<br>Après avoir longtemps nié les faits et changé de version, Gérald Descamps a fini par reconnaître la relation sexuelle avec la victime le soir du crime mais a continué de nier le #féminicide de Caroline.<br>Mercredi 18 novembre 2020, ses explications n'ont pas convaincu les jurés de la cour d'assises de l'Aisne, il a été condamné à 20 ans de prison.<br>Lundi 22 novembre 2021, s'ouvre le procès en appel aux assises. Suite à un problème de compréhension entre les témoins et les interprètes le procès a été reporté.<br>Lundi 25 avril 2022, le procès en appel de Gérald Descamps s'est ouvert devant la cour d'assises. Lundi 2 mai 2022, à l'issue de 6 jours d'audience, il a été condamné à 18 ans de prison. Plusieurs de ses ex-compagnes sont venues témoigner de sa violence, l'une d'elle ayant été blessée à la gorge avec un couteau, une autre également menacée toujours avec un couteau.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/3856054884405510<br><br>Presse :<br>https://www.ouest-france.fr/hauts-de-france/aisne/aisne-coupable-d-avoir-tue-sa-maitresse-un-homme-condamne-a-20-ans-de-prison-7057001]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.28786924481392,49.8467355728077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>128 - Martine</name>
+        <description><![CDATA[[+TIERS VICTIME]<br>Samedi 6 mai à Marcy-L'Etoile (Rhône), Martine (64 ans) et sa mère (95 ans) sont mortes dans l'incendie de leur maison. C'est le mari Maurice (74 ans) de la première qui a mis volontairement le feu dans plusieurs pièces de la maison.<br>Les autopsies ont montré que l'épouse avait reçu des coups à la tête et que l'homme s'était ouvert les veines pour tenter de se suicider 😡<br>Ils sont tous les 3 morts par axphysie. La maison était verrouillée, les 2 femmes n'ont pas pu s'enfuir 🤬<br>Considérés au départ comme un incendie accidentel, les faits ont été requalifiés deux mois après en DOUBLE HOMICIDE VOLONTAIRE SUIVI D'UN SUICIDE #féminicide <br><br>Malgré un suivi extrêmement minutieux des articles de presse, nous n'avions pas eu connaissance avant de ce double féminicide, paru uniquement dans la presse locale 🙄 combien de féminicides par compagnons ou ex sont ainsi minimisés et même cachés ? Combien de femmes sacrifiés dont on ne parlera peut-être jamais ? 😭 #OMERTA<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/3372978512713152<br><br>Presse:<br>https://www.lyonmag.com/article/82207/incendie-mortel-a-marcy-l-etoile-l-enquete-s-oriente-vers-un-homicide-volontaire]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.71728581935167,45.7846349019191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>127 - Evelyne</name>
+        <description><![CDATA[Dimanche 10 avril 2016, à Granville (Manche), le corps d'Evelyne Couppé (57 ans), couvert d'hématomes, a été découvert dans le jardin d'une maison abandonnée. Le même jour, un homme Raphaël Laloe (34 ans) s'est présenté au commissariat, reconnaissant être en couple avec la victime depuis quelques semaines et ayant eu un rapport sexuel sado-masochiste avec elle la veille des faits.<br>Invoquant "le jeu sexuel qui aurait mal tourné", il n'a pas convaincu le procureur qui a décidé de le poursuivre en assises, d'autant que le rapport d'autopsie de la victime est édifiant : 7 côtes cassées, traumatisme crânien et violences sexuelles 🤬<br>Le 14 juin 2016, un second homme, Mike, a aussi été interpellé et écroué pour avoir également participé au meurtre.<br>Ils ont tous les 2 été mis en examen et écroués pour homicide volontaire avec circonstances aggravantes, actes de TORTURE ET BARBARIE ils encourent tous les deux 30 ans de prison.<br><br>Les 2 hommes âgés désormais de 38 et 44 ans, Raphaël Laloe et Mickaël Basley, comparaissent jusqu'au 26 juin 2020 devant la cour d'assises de la Manche pour actes de torture et de barbarie ayant entraîné la mort d'Evelyne Couppé sans l'intention de la donner 😡<br><br>A l'issu du procès, Mike est condamné à 24 ans de réclusion criminelle assortie d’une mesure de sûreté de dix-huit ans. Raphaël écope quant à lui d'une peine d'emprisonnement de 15 ans. La cour a également assorti leurs peines de cinq ans d’astreinte à un suivi socio-judiciaire avec injonction de soins, obligation d’indemniser les parties civiles, de fixer sa résidence en lieu déterminé, et interdiction de se voir tous les deux.<br><br>Jeudi 15 avril 2021, le procès en appel de Mike s'ouvre devant la cour d'assises du Calvados. Convaincus de sa culpabilité, les jurés ont condamné Mickaël Basley à 30 ans de prison dont 18 ans de sûreté lundi 19 avril 2021.<br><br>Post FB : https://www.facebook.com/feminicide/posts/2993725460638461<br>Presse : https://www.lamanchelibre.fr/amp-172839-50218-meurtre-a-granville-de-multiples-sevices-et-violences-sexuelles.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -1.597302,48.837579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>126 - Elizabeth</name>
+        <description><![CDATA[Mardi 4 février à Saint-Georges-de-la-Couée (Sarthe), Elizabeth Hömke (65 ans) a été tuée par son mari, Eitel Brandenburg (73 ans). Il a dissimulé le corps de sa femme puis il s'est suicidé. La maison du couple a été retrouvée incendiée et le corps du mari a été découvert le lendemain à côté d'une carabine. <br>A l'époque, les amies d'Elizabeth avaient fait part de leurs soupçons aux enquêteurs : Elizabeth n'aurait jamais pu partir comme ça, son mari était décrit comme possessif et caractériel, les disputes étaient fréquentes. Pourtant la justice a d'abord pensé qu'Elizabeth avait tué son mari et pris la fuite en Allemagne 🤬🤬🤬<br>Désormais, les enquêteurs sont persuadés qu'il s'agissait d'un féminicide suivi d'un suicide du mari mais depuis presque 4 ans, la dépouille d'Elizabeth reste introuvable.<br>Elle était mère d'un garçon et une fille, nés d'une précédente union.]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.581554,47.842039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>125 - Marie-José
+</name>
+        <description><![CDATA[Lundi 27 juin 2016 à Guignicourt (Aisne), Marie-José Povoa (48 ans) a été tuée par son compagnon (47 ans). L'autopsie avait révélé que son décès faisait suite à "une compression cervicale", alors que l'hypothèse d'un suicide avait été avancée.Son compagnon Sébastien Bonnet n'a été placé en garde à vue qu'un mois après le crime puis mis en examen pour meurtre aggravé.<br>Il était récidiviste. En décembre 2016, le tribunal de Laon le condamnait pour violences conjugales sur Marie-José commises de janvier à avril 2016, soit deux mois avant sa mort. Quid de la condamnation ?<br>Quelques heures encore avant son meurtre, elle postait un message sur facebook, toujours visible où elle dénonçait le mépris de la gendarmerie. "Mesdames, je viens d appeler la gendarmerie a 23h ce soir , pour porter plainte pour violence conjugale", écrivait-elle. "Ce soir il m a violentė, j espérai trouver réconfort en la gendarmerie nationale!! Mais non, mes dames, sachez que si vous n'avez pas de marques visibles de violence, on ne vous croit pas!!! Les gendarmes sont donc reparti en me laissant seule avec un homme violent et ivre".<br>Lundi 27 juin 2022, le procès de Sébastien Bonnet s'est ouvert devant la cour d'assises de l'Aisne, pour le féminicide de sa compagne Marie-José Povoa. Il encourt la réclusion criminelle à perpétuité <br>Post FB : https://www.facebook.com/feminicide/posts/2810823698928639   <br>Presse : https://www.lunion.fr/art/29081/article/2017-05-04/le-point-sur-l-enquete-apres-le-meurtre-presume-de-marie-jose-povoa-guignicourt]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.966677,49.433969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>124 - Elisabeth</name>
+        <description><![CDATA[Le lundi 11 avril 2016, à la Rochelle, Elisabeth (46 ans) est décédée d'une hémorragie massive à son domicile après que son compagnon Sébastien Morrot (42 ans) l'ai violé<br>Invoquant "le jeu sexuel qui aurait mal tourné", il n'a pas convaincu le procureur qui a décidé de le poursuivre aux Assises, d'autant plus que la soeur et l'ex-compagnon de la victime ont témoigné des violences conjugales que lui faisait surbir Sébastien Morrot.<br>Jeudi 19 septembre 2019, la Cour d'Assises de Charente-Maritime l'a condamné à 20 ans de prison pour actes de torture ou de barbarie ayant entraîné la mort sans intention de la donner 😡   <br>Il a finalement été condamné en appel à 25 ans de détention.<br><br>Post FB : https://www.facebook.com/feminicide/posts/2755295614481448   Presse : https://www.sudouest.fr/2019/09/19/assises-de-la-charente-maritime-le-jeu-sexuel-avait-vire-au-drame-6584142-1531.php?fbclid=IwAR3feNpKK2uu0aBTZiVEX_s083hIYX-cMk1ybOq6v_YcIy6lVXZjnPGNYNs]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -1.16599489999999,46.164983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>123 - Catherine</name>
+        <description><![CDATA[Dans la nuit du 20 au 21 juillet à Soisy-sous-Montmorency (Val d'Oise) , Catherine (65 ans) a été tuée par son compagnon, Jean-Yves L. (68 ans).  Il lui a asséné 2 coups de couteau au coeur. Il a lui même prévenu les secours. Elle voulait le quitter.<br>Elle était mère de 2 filles nées d'une précédente relation.<br>Le 14 mars 2019, il a été condamné à 25 ans de prison par la cour d'assises.<br><br>http://www.leparisien.fr/espace-premium/val-d-oise-95/l-ex-epouse-du-maire-tuee-a-l-arme-blanche-22-07-2016-5986117.php<br><br>Procès en Assises , mars 2019<br>http://www.leparisien.fr/val-d-oise-95/soisy-sous-montmorency-juge-pour-l-assassinat-de-l-ex-epouse-du-maire-11-03-2019-8029503.php<br><br>http://www.leparisien.fr/val-d-oise-95/assises-du-val-d-oise-je-n-avais-pas-decide-de-la-tuer-12-03-2019-8030190.php?fbclid=IwAR1ULWkCdxixnkBaff445tuadAe1Qfrj3Znh7EOOmaQtdyn1ko0G-vAnSsM]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.299731,48.988506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122 - Christiane</name>
+        <description><![CDATA[Dimanche 12 juin 2016 à Talant (Côte d'Or), Christiane L. (67 ans) est assassinée par son compagnon, Jean Gay (78 ans), dans le parking de l'immeuble de la victime avec laquelle il avait une relation. Il avait une arme tranchante et un objet contondant et l'a blessée à plusieurs reprises. Elle est morte une heure après l'arrivée des secours.<br>Le meurtrier a avancé un prêt d'argent non remboursé pour expliquer que la dispute a tourné au crime.<br>Le procès aux assises s'est ouvert le 24 janvier 2019, il a été condamné à SEULEMENT 15 ans de prison pour un meutre PRÉMÉDITÉ !<br>https://www.bienpublic.com/cote-d-or/2019/01/24/assassinat-dans-un-parking-souterrain-a-talant-debut-du-proces-ce-jeudi?fbclid=IwAR29gCFjT7E5XShdRfuNnDDwzN7c97eE-UrOwrvJKCYk8MxYuxQXq8x9yZA<br>Post FB<br>https://www.facebook.com/feminicide/posts/2348890805121933]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.003666,47.33666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>121 - Cathy</name>
+        <description><![CDATA[Lundi 9 mai 2016 à Aubenas (Ardèche), Cathy Rehner (28 ans) a (très probablement) été tuée par son ex-compagnon Cédric B. (30 ans), chez lui. Il a enterré son corps en forêt et fait croire à une disparition durant 2 années.<br>Le 12 mai 2016 sa famille avait signalé sa disparition à la gendarmerie.<br>En octobre 2016, une information judiciaire a été ouverte, par un juge d’instruction de Privas, pour "disparition inquiétante", et confiée à la brigade de recherches de Largentière.<br>Puis une autre en août 2017, par un juge de Privas également, qui a mené des fouilles infructueuses chez le compagnon.<br>ENFIN en 2018, une nouvelle information judiciaire est cette fois ouverte auprès d'un juge d'instruction du pôle criminel d'Avignon. <br>Lundi 28 mai, suite à de minutieux recoupements, et des versions contradictoires, une opération judiciaire a été menée. 5 personnes ont été mises en garde à vue dont le compagnon qui a fini par avouer avoir déplacé et enterré le corps de Cathy. Il nie toujours l'avoir tuée, et prétend l'avoir retrouvée morte au matin. Les 4 autres personnes ont été libérées.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1996386660372351<br><br>https://www.ledauphine.com/ardeche/2018/06/01/disparition-de-cathy-rehner-l-ex-compagnon-mis-en-examen-un-corps-retrouve-ardeche]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.38986299999999,44.620909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>120 - Narumi </name>
+        <description><![CDATA[Depuis le dimanche 4 décembre 2016 à Besançon (Doubs), Narumi Kurosaki une étudiante japonaise de 21 ans a disparu. <br>La mort de Narumi ne fait aucun doute pour les enquêteurs et le Parquet. Son corps n'a pas été retrouvé.<br>L'enquête ouverte pour « enlèvement, séquestration et détention arbitraire » a été requalifiée en « assassinat »<br>Son ex petit-ami, Nicolas Zepeda Contreras (26 ans), est le principal suspect. Après sa fuite hors de France vers le Chili son pays d'origine, un mandat d’arrêt international a été émis.<br>La fin des recherches pour retrouver le corps de Narumi est signifiée en juin 2018.<br>Le 10 octobre 2019, le procureur de la République à Besançon, Etienne Manteaux, a annoncé que l’enquête sur cette affaire était « close » et que les « trente-quatre mois d’investigations » justifiaient « la demande d’extradition de Nicolas Zepeda pour qu’il comparaisse devant la cour d’assises de Besançon pour l’assassinat de Narumi Kurosaki. <br>Le 22 janvier 2020, la justice chilienne a examiné cette demande d'extradition.<br>Reportée, l'audience d'extradition aura lieu le 12 février 2020. <br>Le 12 février 2020, l'audience est à nouveau reportée au 5 mars 2020 🤬<br>Jeudi 2 avril 2020, la justice chilienne a ENFIN donné son feu vert pour l'extradition de Nicolas Zepeda. Il a fait appel.<br>Victoire pour la famille et les proches de Narumi : La Cour suprême du Chili a confirmé ce lundi 18 mai 2020 l'extradition vers la France de Nicolas Zepeda Contreras 💪<br>Il sera extradé en France le 23 juillet 2020.<br>Lundi 18 janvier 2021, le procureur de Besançon a requis le renvoi de Nicolas Zepeda devant la cour d’assises du Doubs pour l’assassinat de Narumi Kurosaki.<br>Nicolas Zepeda a interjeté appel de l’ordonnance de mise en accusation. Cet appel sera examiné le 1er avril 2021.<br>Mercredi 19 mai 2021, La chambre d'instruction a rejeté l'appel interjeté par ses avocats, estimant que les charges retenues contre Nicolas Zepeda étaient suffisantes pour le renvoyer devant les assises. Le procès devrait avoir lieu à la fin de l'année 2021.<br>Son procès devant la cour d’Assises du Doubs est prévu du 29 mars au 13 avril 2022.<br>Nicolas Zepeda avait fait une nouvelle demande de remise en liberté, qui a heureusement été rejetée le 2 février 2022.<br>Mardi 12 avril 2022, Nicolas Zepeda a été condamné à 28 ans de prison pour l'assassinat de Narumi Kurosaki. Dès le lendemain, il a fait appel de sa condamnation.<br>Ce procès en appel devrait se tenir durant le premier semestre 2023 au Palais de Justice de Vesoul (Haute-Saône).<br> <br>Post FB :<br>https://www.facebook.com/feminicide/posts/1416353248375698<br><br>http://www.estrepublicain.fr/edition-de-besancon/2016/12/29/assassinat-presume-de-narumi-a-besancon-la-piste-chilienne-prend-forme<br>et<br>http://www.estrepublicain.fr/edition-de-besancon/2016/12/29/affaire-narumi-le-parquet-requalifie-en-assassinat-et-prone-la-patience<br><br>https://www.ouest-france.fr/societe/faits-divers/etudiante-japonaise-disparue-besancon-en-2016-le-suspect-entendu-au-chili-cette-semaine-6309373<br><br>http://www.estrepublicain.fr/edition-de-besancon/2016/12/29/affaire-narumi-le-parquet-requalifie-en-assassinat-et-prone-la-patience<br>https://www.estrepublicain.fr/edition-de-besancon/2019/04/17/disparition-de-narumi-kurosaki-devant-touts-les-medias-reunis-a-santiago-le-procureur-de-besancon-salue-la-cooperation-judiciaire-du-chili-a-la-veille-de-l-interrogatoire-de-nicolas-zepeda-contreras]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.0240539,47.237829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>119 - Rima</name>
+        <description><![CDATA[Jeudi 29 décembre à Lyon (Rhône), Rima Cherifi (24 ans) a été abattue chez elle par son compagnon, Yassine Amari (24 ans). Blessée à la gorge par un tir de pistolet 7.65, elle est morte avant l'arrivée des secours. <br>Le crime a eu lieu alors que ses 2 enfants, âgés de 5 ans et 18 mois, dormaient dans l'appartement. <br>Défavorablement connu des services de police, sorti de détention deux jours avant, il affirme avoir tiré par accident !<br> Les voisins témoignent de disputes récurrentes.<br>3 semaines avant son procès aux assises, Yassine Amari s'est évadé pendant une sortie médicale, une évasion bien préparée semble-t-il, d'après Le Dauphiné du 29 mai 2019.<br>Jeudi 19 décembre 2019, Yassine Amari a été retrouvé et arrêté près de Marseille. Depuis, il est incarcéré à la prison des Beaumettes. <br>Condamné pendant sa fuite à 20 ans de prison, il a fait appel, il sera donc rejugé par la Cour d'Assises.<br><br>Mercredi 30 septembre 2020, le procès en appel de Yassine Amari s'est ouvert devant la cour d'assises de Lyon. A l'issue des 2 jours d'audience, il a été condamné à SEULEMENT 17 ans de prison soit 3 ans de moins que la peine initiale malgré sa cavale de 7 mois 🤬🤮<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1415249901819366<br>Presse :<br>http://www.europe1.fr/faits-divers/drame-familial-une-femme-tuee-par-son-conjoint-a-lyon-2938265 ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.835659,45.764043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>118 - Christelle </name>
+        <description><![CDATA[Vendredi 23 décembre à Valenciennes (Nord), Christelle Legrand (45 ans) a été massacrée à coups de marteau, chez elle, par son mari Bernard Robert. Son fils et la police l'on découverte gisante dans la cave. Elle est décédée peu de temps après son hospitalisation. Elle était mère de 6 enfants dont 3 mineurs...<br>Elle avait décidé de le quitter, il ne l'a pas supporté.<br>Multi récidiviste de délits routiers liés à l’alcool (permis retiré en Novembre 2014), le journaleux présente son "intempérance" presque comme une circonstance atténuante, et le fait qu'elle le quitte comme l'élément déclenchant.<br><br>Vendredi 25 septembre 2020, le procès de Bernard Robert s'est ouvert devant la cour d'assises de Douai. Au terme de 3 jours d'audience, il a été condamné à la réclusion criminelle à perpétuité, 30 ans de prison.<br>Il a fait appel.<br>Le procès en appel se tiendra à partir du 26 avril 2022 à Saint Omer.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1407732709237752<br><br>Presse;<br>http://www.lavoixdunord.fr/94301/article/2016-12-23/une-femme-tuee-d-un-coup-de-marteau-le-mari-se-rend-la-police]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.518332,50.357113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>117 - Denise</name>
+        <description><![CDATA[Samedi 17 décembre à Saint-Louis (Haut-Rhin), Denise Mbo (22 ans) a été retrouvée morte chez elle. Son mari Vincent Grimaz (32 ans) l'a étranglée puis s'est pendu avec un même câble. Elle était maman d'un petit garçon de 4 ans, absent au moment des faits.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1400994583244898<br><br>https://www.francebleu.fr/infos/faits-divers-justice/saint-louis-un-couple-retrouve-mort-son-domicile-1482166913]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            7.5557496,47.5906026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>116 - Françoise </name>
+        <description><![CDATA[Dimanche 18 décembre à Malo-les-Bains (Nord), Françoise Beugnet (57 ans) a été sauvagement poignardée par son mari, Stéphane Cœugnet (67 ans). Elle était mère d'au moins deux enfants.<br>Il s'est ensuite auto-mutilé, hospitalisé ses jours ne sont pas en danger.<br>Il a été mis en examen pour "meurtre sur conjoint" et sera incarcéré à sa sortie de l’hôpital. <br>NON ce n'est pas un "drame familial" madame la journaleuse Giulia De Meulemeester.<br>Le 2 mai 2019, le parquet a ENFIN décidé de renvoyer Stephane Cœugnet devant les Assises pour le meurtre de sa femme Françoise.<br>Son procès se tiendra de 10 au 13 novembre 2020 à la Cour d'Assises de Douai.<br>Il a été condamné à SEULEMENT 18 ans de prison 😡<br><br>http://www.lavoixdunord.fr/91942/article/2016-12-18/drame-familial-malo-une-femme-de-57-ans-tuee-l-arme-blanche-le-mari-mis-en-cause <br><br>Post FB<br>https://www.facebook.com/feminicide/posts/1399301930080830/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.401069,51.048679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>115 - Belkys </name>
+        <description><![CDATA[Jeudi 15 décembre, un homme a été mis en examen pour 2 "assassinats" et incarcéré à Pointe-à-Pitre (Guadeloupe). <br>Deux femmes ont été assassinées par Martin Tranchot (47 ans), leur conjoint et ex-conjoint.<br>La femme disparue en décembre 2008, s'appelait Jinet Reyes, elle avait 20 ans et était dominicaine. <br>La femme disparue le 30 avril 2016 se nommait Belkys Peña de Jesus. D'origine dominicaine aussi, elle avait 44 ans. Elle a épousé le type qui l'a tuée en octobre 2015, semble-t-il. La conjointe est "portée disparue depuis début mai" indique Xavier Bonhomme, procureur de la République de Pointe-à-Pitre.<br>"Une information judiciaire avait été ouverte en juillet. Des prélèvements ADN ont permis de trouver "du sang au domicile et dans la voiture du suspect". Les enquêteurs "avaient rapidement "exclu les hypothèses de suicide ou disparition volontaire"." <br>Le tueur se dit "possédé par le diable depuis sa plus tendre enfance", ajoutant que "dès qu'il est en relation avec une femme, le diable fait tout pour les faire disparaître." <br>Les corps de ces deux femmes sont activement recherchés...<br><br>Lundi 12 avril 2021, le procès de Martin Tranchot s'ouvre ENFIN devant la cour d'assises de la Guadeloupe pour le double assassinat de Jinet et Belkys. Il a été condamné à 24 ans de prison.<br><br>Jeudi 31 mars 2022, Martin Tranchot a été ACQUITTÉ par la cour d'assises de Basse-Terre pour le double #féminicide de Jinet et Belkys, 114 et 115ème victimes de 2016 🤬 le parquet général avait requis 25 ans de prison ! Il est ressorti LIBRE du Tribunal 🤬 #DangerEnLiberté <br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1399198186757871<br><br>Presse :<br>http://la1ere.francetvinfo.fr/mis-examen-deux-assassinats-il-se-dit-possede-diable-426533.html<br><br>et sur la mobilisation <br>http://www.guadeloupe.franceantilles.fr/actualite/faits-divers/mobilises-pour-retrouver-belkys-pena-de-jesus-374376.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -61.4668962,16.2732353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>114 - Jinet</name>
+        <description><![CDATA[Jeudi 15 décembre, un homme a été mis en examen pour 2 "assassinats" et incarcéré à Pointe-à-Pitre (Guadeloupe). <br>Deux femmes ont été assassinées par Martin Tranchot (47 ans), leur conjoint et ex-conjoint.<br>La femme disparue en décembre 2008, s'appelait Jinet Reyes, elle avait 20 ans et était dominicaine. <br>La femme disparue le 30 avril 2016 se nommait Belkys Peña de Jesus. D'origine dominicaine aussi, elle avait 44 ans. Elle a épousé le type qui l'a tuée en octobre 2015, semble-t-il. La conjointe est "portée disparue depuis début mai" indique Xavier Bonhomme, procureur de la République de Pointe-à-Pitre.<br>"Une information judiciaire avait été ouverte en juillet. Des prélèvements ADN ont permis de trouver "du sang au domicile et dans la voiture du suspect". Les enquêteurs "avaient rapidement "exclu les hypothèses de suicide ou disparition volontaire"." <br>Le tueur se dit "possédé par le diable depuis sa plus tendre enfance", ajoutant que "dès qu'il est en relation avec une femme, le diable fait tout pour les faire disparaître." <br>Les corps de ces deux femmes sont activement recherchés...<br><br>Lundi 12 avril 2021, le procès de Martin Tranchot s'ouvre ENFIN devant la cour d'assises de la Guadeloupe pour le double assassinat de Jinet et Belkys. Il a été condamné à 24 ans de prison.<br><br>Jeudi 31 mars 2022, Martin Tranchot a été ACQUITTÉ par la cour d'assises de Basse-Terre pour le double #féminicide de Jinet et Belkys, 114 et 115ème victimes de 2016 🤬 le parquet général avait requis 25 ans de prison ! Il est ressorti LIBRE du Tribunal 🤬 #DangerEnLiberté <br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1399198186757871<br><br>Presse :<br>http://la1ere.francetvinfo.fr/mis-examen-deux-assassinats-il-se-dit-possede-diable-426533.html<br><br>et sur la mobilisation <br>http://www.guadeloupe.franceantilles.fr/actualite/faits-divers/mobilises-pour-retrouver-belkys-pena-de-jesus-374376.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -61.5340424,16.2376869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>113 -  Nathalie</name>
+        <description><![CDATA[Dans la nuit de samedi à dimanche 18 décembre, à Elne (Pyrénées-Orientales), Nathalie (quadragénaire) a été retrouvée morte par arme a feu, chez elle, par son fils. Elle était mère de deux enfants adultes, grand-mère aussi... <br>Une dispute éclate à 1h du mat, le père (quinquagénaire) téléphone au fils absent, qui revient et découvre le corps de sa mère à 2h du mat. <br>Mais "ON" se demande si elle ne s'est pas suicidée ou s'il n'y a pas une intervention tierce...<br>Le proc ordonne une autopsie et attend d'avoir la version du mari. Tous les médias qui relaient, noient le poisson...<br>il a été hospitalisé d'office mais nous n'en serons pas plus.<br>Omerta généralisée sur ces crimes machistes.<br>http://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/elne-homme-garde-vue-sa-femme-ete-tuee-arme-feu-1157833.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.97043299999996,42.600336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>112 - Hinda</name>
+        <description><![CDATA[Lundi 10 octobre à Saint-Etienne (Loire), Hinda (40 ans) avait été retrouvée morte au pied de son immeuble. Elle habitait au huitième étage et, au vu de son profil psychologique fragile, la thèse du suicide avait été retenue.<br>L'autopsie ayant révélé des traces de lutte et des violences sexuelles, les enquêteurs ont donc privilégié la piste du meurtre. Christian Masson 71 ans vient d'être interpellé, mis en examen pour "viol sur personne vulnérable et homicide volontaire" et écroué. Hinda Halaima l’avait rencontré quelques jours auparavant.<br><br>Selon le rapport d'autopsie, Hinda a été poignardée au thorax et des marques de strangulations sont présentes sur sa gorge<br><br>Lundi 1er février 2021, le procès de Christian Masson va s'ouvrir devant la cour d'assises de Saint-Etienne. Il est poursuivi pour "tentative de meurtre et pour actes de pénétration sexuelle ayant entraîné la mort de la victime par une défenestration contemporaine du viol (!!!)"<br><br>Christian Masson a écopé seulement de 15 ans de prison pour le "viol ayant entraîné la mort par défenestration" d'Hinda et le viol de son ex-épouse 😡<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1394712847206405<br><br>Presse :<br>http://www.leprogres.fr/loire/2016/12/14/saint-etienne-le-meurtre-etait-deguise-en-suicide<br>https://www.lenouveaudetective.com/saint-etienne-suicide-etait-realite-viol-suivi-dun-meurtre/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.38717789999998,45.439695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>111 - Sandra</name>
+        <description><![CDATA[Mercredi 14 décembre, à Chambéry (Savoie), vers 23h15, un homme de 41 ans, a poussé sa compagne Sandra Bosson (33 ans) par la fenêtre de leur appartement situé au deuxième étage d’un immeuble. Malgré ses cris, et appels à l'aide, ni les voisins, ni les forces de l'ordre n'ont pu intervenir à temps. Elle succombera à ses blessures.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1394508150560208<br><br>Presse :<br>http://www.ledauphine.com/savoie/2016/12/15/chambery-une-femme-meurt-apres-avoir-ete-jetee-par-la-fenetre-de-son-appartement]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.91778099999999,45.564601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>110 - Amélie</name>
+        <description><![CDATA[Samedi 10 décembre sur un viaduc de l'autoroute A40 à Bellegarde-sur-Valserine (Ain), Amélie Blumberg (23 ans) a été précipitée dans le vide par son compagnon Jamal Jammik (35 ans).<br>Victime de violences conjugales, elle s'était réfugiée dans l'Hérault après leur séparation, il y a quelques semaines. Ils remontaient vers la Franche-Comté. <br>Une dispute éclate dans la voiture, il provoque un accident avec un camion, la dispute continue au milieu de l'autoroute. Il agrippe alors sa compagne, enjambe le parapet du viaduc et les précipite dans le vide !<br>Une témoin affirme que la voiture zigzaguait sur l’autoroute depuis quelques minutes. Elle s'est arrêtée et a prévenu les secours. Elle a assisté à toute la scène.<br>http://www.lexpress.fr/actualite/societe/fait-divers/un-couple-meurt-en-tombant-d-un-viaduc-apres-une-dispute_1859275.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.82617900000002,46.107599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>109 - Denise</name>
+        <description><![CDATA[Dans la nuit de mercredi à jeudi 8 décembre à Boissy-le-Châtel (Seine-et-Marne), Denise (88 ans), atteinte de la maladie d'Alzheimer, a été tuée d'un coup de fusil de chasse dans la tête par son mari Raoul (90 ans). Il a tenté de se suicider en retournant l'arme sur lui. Il est blessé mais son pronostic vital n'est pas engagé. Il affirme qu'elle lui a demandé d'abréger ses souffrances...<br>Le parquet de Meaux a ouvert une enquête pour "homicide aggravé".<br>https://actu.fr/societe/il-tue-sa-femme-de-88-ans-atteinte-dalzheimer_7115529.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.13914799999998,48.829078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108 -  Eva</name>
+        <description><![CDATA[Mercredi 7 décembre à Izon (Gironde), Eva Puddu (18 ans) a été écrasée par son ex petit ami Jérémy Delaveau (18 ans). Au volant d'une voiture il l'a percutée violemment alors qu'elle marchait tranquillement. Elle est morte sur le coup.<br>Elle venait de rompre.<br><br>Lundi 22 février 2021, le procès de Jérémy s'ouvre ENFIN devant la cour d'assises de la Gironde. Il est poursuivi pour ASSASSINAT #féminicide et encourt la réclusion criminelle à perpétuité.<br><br>Reconnu coupable d'assassinat, Jérémy Delaveau a été condamné à 20 ans de prison.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1384146594929697<br><br>Presse :<br>http://www.sudouest.fr/2016/12/07/gironde-il-ecrase-et-tue-une-jeune-femme-3007277-2966.php.<br> ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.361671999999999,44.920034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>107 - Angela</name>
+        <description><![CDATA[Vendredi 2 décembre à Pibrac (Haute-Garonne), Angela âgée de 58 ans a été abattue d'une décharge de fusil de chasse, chez elle. <br>Antoine Lheritier, son compagnon (63 ans) fortement alcoolisé, s'est livré à la police. Le procureur n'a pas voulu "ébruiter l'affaire" jusqu'à la mise en examen pour « homicide volontaire sur conjoint ». Il est incarcéré.<br>Le 22 octobre 2018, il a été condamné à 15 ans de prison devant la cour d'assises de la Haute-Garonne.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1381488251862198&id=1254619207882437<br>Presse:<br>http://www.ladepeche.fr/article/2016/12/05/2472564-un-homme-tue-sa-compagne-et-se-rend-aux-gendarmes.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.28340600000001,43.618937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>106 - Yvette</name>
+        <description><![CDATA[Mercredi 30 novembre à Saint-Agrève (Ardèche), les corps d'Yvette Delord (77 ans) et de son mari Louin Rochon (78 ans) ont été retrouvés, morts dans leur lit<br>Elle est morte par arme à feu, lui s'est ouvert les veines. Une (seule) lettre a été retrouvée expliquant un "choix partagé"... On nous explique qu'elle avait fait une TS la semaine dernière et qu'elle était dépressive.<br>Ils n'avaient pas d'enfant, une enquête est ouverte.<br><br>Post FB : <br>https://www.facebook.com/feminicide/posts/1374956325848724<br><br>https://www.francebleu.fr/infos/faits-divers-justice/ardeche-un-couple-de-personnes-agees-decouvert-mort-probable-suicide-1480504767]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.39639499999998,45.009421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>105 - Cindy</name>
+        <description><![CDATA[Mardi 29 novembre à Fumel (Lot-et-Garonne), Cyndi (22 ans), mère d'un enfant de presque 3 ans, a été tuée de 28 coups de couteau, chez elle.<br>Le crime a eu lieu en présence de l'enfant et d'un ami de la victime, lui aussi attaqué...<br>Son ex-compagnon (23 ans), Valentin Haffiane, avait pris la fuite, la police était à sa recherche. Il ne "s'est pas rendu" seul, c'est sa mère qui l'a livré aux autorités.<br>Jeudi 1er décembre, à 2h30, Valentin Haffiane s'est échappé de Garde à Vue... Il a été retrouvé et arrêté à 7H30 après déploiement de gros moyens, un hélicoptère et forces de police et de gendarmerie.<br>Jeudi 26 septembre 2019, Valentin Haffiene a été condamné à 25 ans de prison par la cour d'Assises d'Agen pour l'assassinat de Cindy.<br>FB : https://www.facebook.com/story.php?story_fbid=1373254689352221&id=1254619207882437<br>Presse :<br>http://www.sudouest.fr/2016/11/29/fumel-47-une-jeune-femme-tuee-d-un-coup-de-couteau-2584892-3703.php ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.97074299999997,44.497368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>104 - Khadija</name>
+        <description><![CDATA[Le 04 octobre 2009 à Porto-Vecchio (Corse-du-Sud), Khadija El Hamraoui (58 ans), mère de 2 enfants majeurs, avait disparu.<br>Elle avait porté plainte pour violences conjugales quelques heures auparavant mais le mari n'avait pas été inquiété. <br>L'enquête sur sa disparition a été classée sans suite, en 2011.<br>Au mois de Septembre, Mohamed El Hamraoui (63 ans) avoue avoir étranglé Khadija puis enterré son corps dans le maquis. Les recherches n'ont pas encore permis de le retrouver.<br>Atteint de la maladie de Parkinson, l'état de santé du tueur est incompatible avec la détention, il est hospitalisé à Ajaccio.<br>La DAV comptabilisera cette victime dans les "affaires résolues dans l'année"...<br>http://www.lci.fr/faits-divers/sept-a-huit-mort-de-khadija-en-corse-sept-ans-de-mensonge-1-2014677.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            9.27831100000003,41.591369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>103 - Hediye</name>
+        <description><![CDATA[Dimanche 27 novembre à Évreux (Eure), Hediye Kizilaslan (40 ans) et sa mère (66 ans) ont été retrouvées mortes dans le hall d'un immeuble, tuées par arme à feu. Son père, Mahmut Kizilaslan (70 ans), a été grièvement blessé sans que son pronostic vital ne soit engagé. <br>Hediye était mère de 3 fils majeurs. Elle avait quitté Gand en Belgique où le couple résidait, pour se réfugier chez ses parents, à Evreux, au mois de Juillet.<br>Elle était la cousine germaine de son mari... <br>Le mari, Süleyman Kizilaslan (46 ans), a été arrêté, il a lui-même alerté la Police du «carnage» ! Il est mis en examen pour "assassinat et tentative d'assassinat".<br><br>Mardi 29 septembre 2020, une reconstitution de ce double féminicide et cette tentative d'assassinat a été organisée par la justice près de 4 ans après les faits 🙄<br>Lundi 22 novembre 2021, le procès de Süleyman Kizilaslan s'est ouvert devant la cour d'assises d'Evreux. Pour ce double assassinat et cette tentative d'assassinat, Süleyman Kizilaslan a été condamné à la réclusion criminelle à perpétuité. Les jurés ont également décidé d’une interdiction définitive du territoire français et d’une interdiction de détenir une arme soumise à autorisation pour une durée de quinze ans.<br>Post FB : <br>https://www.facebook.com/feminicide/posts/1370509482960075<br><br>http://www.paris-normandie.fr/accueil/double-meurtre-a-evreux--le-beau-pere-dans-un-etat-stable-le-gendre-defere-au-parquet-FE7556502]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.15136099999995,49.0270129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>102 - Clarisse</name>
+        <description><![CDATA[Vendredi 25 novembre à Hirson (Aisne), Clarisse (29 ans) a été poignardée 6 fois, devant la crèche où elle amenait l'un de ses 5 enfants, par Marcel Lesur son mari (51 ans). Elle l'avait quitté et avait demandé le divorce quelques jours auparavant. Il a été arrêté dans l'après-midi. <br>Connu des services de police, déjà condamné à de la prison, condamné en 2015 pour "des violences sur une femme"... En réalité, ce type était un multirécidiviste. De nombreuses ex-femmes témoignent sous les articles des médias locaux. Il est inadmissible que le procureur occulte ce fait !!!<br>Le type avaient 12 enfants (!!!!) dont 3 avec Clarisse, une petite fille de deux ans et deux jumeaux de 7 mois.<br><br>Marcel Lesur a été condamné le 8 mars 2019 à 22 ans de réclusion criminelle avec 14 ans de surêté par les assises de l'Aisne. Il a fait appel de sa condamnation.<br><br>Vendredi 16 octobre 2020, jugé en appel devant la cour d'assises de la Somme, Marcel Lesur a été condamné à 3 ans de plus que la peine initiale soit 25 ans pour le féminicide de Clarisse<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1368358073175216<br><br>Presse : <br>http://www.aisnenouvelle.fr/region/hirson-elle-aurait-demande-le-divorce-quelques-jours-ia16b109n431884]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.08419200000003,49.9200919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>101 - Geneviève</name>
+        <description><![CDATA[Mardi 22 novembre, à La Javie (Alpes de Haute-Provence), les 2 corps sans vie d'un couple de retraités ont été découverts par les pompiers alertés par l'entourage. Gilbert Bayle (77 ans) a assassiné sa femme Geneviève Schirru (74 ans) avant de retourner l'arme contre lui.<br>"Le couple, qui n’a pas d’enfant (...) n’avait aucune raison apparente de passer à l’acte." Aucune lettre qui laisserait penser à un suicide n'a été trouvée pourtant les enquêteurs privilégient cette piste ! Le suicide de l'assassin est en effet signé du meurtre de sa compagne<br>http://www.ledauphine.com/actualite/2016/11/24/il-a-tue-sa-femme-avant-de-retourner-l-arme-contre-lui<br>Post FB<br>https://www.facebook.com/feminicide/posts/1368210716523285]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.34990600000003,44.174477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100 - Ninon</name>
+        <description><![CDATA[Dans la nuit du samedi 19 au dimanche 20 novembre à Nîmes (Gard), Ninon Kesmedjian (20 ans), étudiante en AES (Administration économique et sociale), a été massacrée à coups de pieds et de poings dans la tête, chez elle, par son concubin Abdessak Boumejane âgé de 23 ans.<br>Elle le connaissait depuis six ans, ils avaient emménagé ensemble en septembre dernier. Il ne travaillait pas.<br>Il est mis en examen et écroué pour homicide volontaire sur concubin.<br>Dans la nuit du samedi 19 au dimanche 20 novembre à Nîmes (Gard), Ninon (20 ans), étudiante en AES (Administration économique et sociale), a été massacrée à coups de pieds et de poings dans la tête, chez elle, par son concubin âgé de 23 ans.<br>Elle le connaissait depuis six ans, ils avaient emménagé ensemble en septembre dernier. Il ne travaillait pas.<br>Il est mis en examen et écroué pour homicide volontaire sur concubin. <br>Du 5 au 7 février 2020, Abdessak Boumejane sera jugé aux assises du Gard pour le meurtre sauvage de sa compagne Ninon. Il a été condamné ce soir à 30 ans de prison, les jurés ont suivi les réquisitions du parquet.<br><br>Lundi 31 mai 2021, le procès en appel d'Abdessadek Boumejane s'est ouvert devant la cour d'assises d'appel de l'Ardèche de Privas. Il encourtla réclusion criminelle à perpétuité.<br><br>Post FB : https://www.facebook.com/feminicide/posts/1364263280251362<br><br>Presse :https://www.objectifgard.com/2016/11/22/nimes-etudiante-tuee-compagnon-place-detention-laimerai-toujours/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.36005399999999,43.836699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>99 - Dominique</name>
+        <description><![CDATA[Dimanche 13 novembre à La Garenne-Colombes (Hauts-de-Seine), Dominique (56 ans), mère de deux filles, a été massacrée à coups d'objets contondants puis poignardée chez elle, par son mari (60 ans). Il n'a prévenu les services de Police que le soir, affirmant avoir découvert le corps le matin mais n'avoir pas eu ni le "courage" ni la "lucidité" nécessaires pour appeler le 17 !<br>Ce féminicide intervient dans un contexte de violences conjugales, mais pour les journaleux du Parisien, il s'agit d "algarades régulières", d'une "dispute conjugale qui s’est terminée dans le sang". La victime est totalement invisibilisée, rien n'est dit à son sujet. Nous avons trouvé son avis de décès et pouvons donc lui restitué son identité, son âge et son statut de mère.<br>http://www.leparisien.fr/la-garenne-colombes-92250/la-garenne-colombes-cette-fois-la-dispute-a-fini-dans-le-sang-15-11-2016-6332013.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.24408500000004,48.906535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>98 - Bernadette</name>
+        <description><![CDATA[Samedi 12 novembre à Chaudeney-sur-Moselle (Meurthe-et-Moselle), Bernadette Lopez (61 ans), mère de 3 enfants, a été poignardée à 14 reprises par son compagnon, David Gatt (51 ans), ""dans le cadre d'un différend familial" qui a viré au drame".<br>Le meurtrier, après avoir fui, s'est rendu à la Police. Il présentait des traces de sang et une blessure à la main gauche.<br>Il a reconnu avoir déjà commis des violences sur sa compagne, en 2004 (fracture avant-bras gauche) et 2006 (traumatisme crânien).<br>Le 3 juillet 2019, nous apprenons que le parquet a ENFIN décidé de renvoyer David Gatt devant les assises pour le meurtre de Bernadette. <br>Du 11 au 15 décembre 2020, David Gatt a été jugé devant la cour d'assises de Nancy. Il a été condamné à 25 ans de prison pour le meurtre de Bernadette. Il a décidé de faire appel 😡<br><br>Lundi 13 décembre 2021, le procès en appel de David Gatt s'est ouvert devant la cour d'assises de Metz. Le verdict est plus lourd que pour le premier procès, il a été condamné à 30 ans de prison.<br>Post FB : https://www.facebook.com/feminicide/posts/1356847584326265     <br><br>Presse :<br>http://www.lefigaro.fr/flash-actu/2016/11/13/97001-20161113FILWWW00113-lorraine-une-dispute-familiale-vire-au-drame.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.90542089999997,48.652014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>97 - Janine</name>
+        <description><![CDATA[Lundi 7 novembre à Gaillon (Eure), un couple a été retrouvé mort dans la chambre du domicile conjugal. Ils avaient "un seul" enfant. <br>Janine Renard (83 ans), un sac plastique sur la tête (!)<br>Léonce (83 ans), une cartouche de fusil de chasse en pleine tête.<br>"Les corps gisaient sur le lit de la chambre à coucher." (Paris-Normandie)<br>C'est la femme de ménage qui a découvert les deux cadavres.<br>La procureure de la République d'Evreux, Dominique Puechmaille, a ordonné une autopsie des deux corps ET a ouvert une enquête pour « recherche des causes de la mort ». <br>Dans les premiers articles, il était question de deux lettres qui attestaient des intentions suicidaires. Le dernier ne parle plus que d'une seule lettre, et pas convaincante encore...<br>""Une lettre, pouvant laisser penser à un double suicide, aurait été retrouvée à proximité des corps, mais « elle n’est pas très claire et peut laisser place à l’interprétation », précise une source judiciaire.""<br>http://www.infonormandie.com/Eure-un-couple-de-personnes-agees-retrouve-mort-a-son-domicile-a-Gaillon_a14712.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.33340999999996,49.160734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>96 - Isabelle</name>
+        <description><![CDATA[Jeudi 10 novembre à Clonas-sur-Varèze (Isère), Isabelle âgée de 52 ans, mère de 2 enfants adultes, a été abattue d'une balle dans la tête par son mari, Jean-Paul Vuillemin (56 ans), père de 3 autres enfants issus d'une précédente union nouvellement retraité d'EDF. Il a prévenu les secours mais, fortement alcoolisé, a été hospitalisé.<br>Elle lui annonçait qu'elle voulait mettre fin à la relation.<br>"Inconnu des services de gendarmerie, le sexagénaire semblait souffrir de dépression et "avait des tendances suicidaires" " précise le procureur de la république de Vienne, Jérôme Bourrier, qui "se veut prudent sur les circonstances du drame."<br>Le 2 février 2019, le meurtrier a été condamné à 8 ans de prison seulement par la cour d'assises!<br>http://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/clonas-vareze-isere-alcoolise-il-tire-sa-femme-tue-1128661.html<br>Post FB<br>https://www.facebook.com/feminicide/posts/1354635624547461]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.79039,45.414277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95 - Françoise</name>
+        <description><![CDATA[Vendredi 4 novembre à Nantes (Loire-Atlantique), Françoise Rénier (48 ans), tuée depuis plusieurs jours, a été retrouvé chez elle. Françoise Rénier a reçu de nombreux coups, principalement à la tête.<br>Son ex-compagnon, Olivier Guénard (47 ans) , a été arrêté et mis en GàV mercredi. Elle cohabitait avec lui depuis moins d'un mois et lui avait demandé de quitter son domicile, suite à des violences vendredi dernier. Elle avait également appelé la police...<br>Le tueur est un récidiviste condamné en 2015, pour des faits de violences conjugales sur une précédente compagne, à une peine de prison avec sursis avec mise à l’épreuve, "dont il respectait les obligations" précise le parquet.<br>Il devrait être mis en examen pour "meurtre aggravé".<br>Le 20 décembre 2018, il a été condamné à 20 ans de prison devant la cour d'assises de Loire-Atlantique.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1354607194550304&id=1254619207882437<br>Presse :<br>http://www.ouest-france.fr/pays-de-la-loire/nantes-44000/nantes-la-femme-retrouvee-sans-vie-chez-elle-ete-frappee-mort-4602594 <br>Post FB<br>https://www.facebook.com/feminicide/posts/1354607194550304]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -1.55362100000002,47.218371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>94 - Claudie</name>
+        <description><![CDATA[Mardi 8 Novembre à Toulon (Var), Claudie Bouler (57 ans), mère de famille, a été étouffée avec un sac plastique par son mari, ancien militaire âgé de 62 ans. Leur fille a assisté au début d'une "scène de ménage", habituelles entres ses parents, puis a quitté l'appartement.<br>Le mari reconnaît avoir mis sa main sur la bouche de sa femme pour éviter ses cris, mais affirme qu'elle s'est ensuite suicidée avec ce sac plastique. Il avait appelé les secours.<br>Les déclarations du mari n'étant pas cohérentes, il est mis en examen ce soir pour «homicide volontaire» par le Juge d'instruction désigné par le procureur de Toulon, Bernard Marchal.<br>La mort de cette femme survient dans un "contexte de violences conjugales" - "Les enquêteurs savent donc qu'il y a eu des violences antérieures au décès." Un des articles précise "Dont on sait qu'elle prenait des médicaments."...<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1353679314643092<br><br>http://www.varmatin.com/faits-divers/une-femme-retrouvee-morte-a-son-domicile-la-tete-couverte-dun-sac-plastique-92598 ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.928,43.124228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>93 - Béatrice</name>
+        <description><![CDATA[Mardi 8 novembre, vers 4h du matin, à Grasse (Alpes-Maritimes), Béatrice R. a été poignardée chez elle, durant son sommeil, par son compagnon, Thierry B. qui s'est ensuite tiré une balle dans la tête. Il est allé prévenir les voisins avant de mourir. Les deux personnes sont quinquagénaires.<br>Elle était gérante d'un glacier. Pour des raisons financières, elle l'aurait licencié... <br>Par un tour de passe-passe journalistique, et suite aux déclarations du procureur, le type passe du statut de "meurtrier" à celui de "victime" !!!<br>http://www.laprovence.com/actu/en-direct/4192860/un-commercant-poignarde-sa-femme-et-se-suicide.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.92649200000005,43.660153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>92 - Babette</name>
+        <description><![CDATA[Vendredi 4 novembre à La Flèche (Sarthe), un couple âgé de 63 ans (Babette et Jimmy) a été retrouvé mort, chez eux. Les enfants s'inquiétant, ils ont demandé aux voisins d'aller voir. Ce sont eux qui ont prévenus les secours.<br>D'après ces mêmes voisins, elle était malade, c'était un brave type le Jimmy. Il l'aimait, il l'aurait donc tuée "par amour" ? <br>Dans l'attente des autopsies.... "L'enquête semble s'orienter sur l'hypothèse d'un homicide, suivi d'un suicide"<br>https://actu.fr/societe/apres-la-decouverte-de-deux-corps-sans-vie-les-voisins-temoignent_10320440.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0746460000000297,47.69589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>91 - Sabrina</name>
+        <description><![CDATA[Vendredi 4 novembre à Perpignan (Pyrénées-Orientales), Sabrina (26 ans) a été frappée à la tête avec un objet contondant, chez elle, par son mari Madani Khelouf (43 ans). Hospitalisée avec un pronostic vital engagé, elle est décédée dans la soirée.<br>Le couple était en instance de divorce. Avaient-ilLEs des enfants ? Rien n'est dit à ce sujet.<br>Cette fois c'est le commissaire de Police, Yannick Janas, qui parle de "drame familial".<br>Le 11 septembre 2019 le meurtrier a été condamné à 22 ans de prison soit 5 ans de moins que requis par le parquet<br><br>http://www.lindependant.fr/2016/11/05/perpignan-la-jalousie-a-l-origine-du-drame-du-moyen-vernet,2275148.php<br>Post FB<br>https://www.facebook.com/feminicide/posts/1347286121949078]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.89483319999999,42.6886591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90 - Darmaabazar</name>
+        <description><![CDATA[Lundi 31 octobre au Bourget (Seine-Saint-Denis), une femme âgée de 52 ans, prénommée Darmaabazar, a été retrouvée morte, poignardée, sur le palier de son appartement dévasté. Elle portait de nombreuses blessures sur le cou, au flanc et aux poignets, attestant qu'elle a lutté pour ne pas mourir !<br>Le mari (45 ans), semble s'être fait lui-même ses blessures au cou et aux poignets, pour faire croire à un agresseur extérieur. Il est hospitalisé, son pronostic vital est engagé.<br>Il y avait un contexte de "disputes" violentes et bruyantes, sans dépôt de plainte, ni de l'épouse ni du voisinage.<br>http://www.leparisien.fr/le-bourget-93350/le-bourget-meurtre-sanglant-chez-un-couple-de-mongols-01-11-2016-6276042.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.42537700000003,48.936752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>89 - Aïssatou</name>
+        <description><![CDATA[Valenton (94). Le 30 octobre, Aïssatou Sow (21 ans) est décédée après un mois de coma, suite à l'agression par son compagnon Gianni D. (19 ans) le 18 septembre 2016, alors qu'elle rentrait d'une sortie. "La jalousie..." <br><br>Après avoir sauvagement tabassé Aïssatou, Gianni D. avait ensuite contacté la soeur de celle-ci pour lui dire qu'il "l'avait tuée" 😡<br>Lors de son arrestation, il avait tenté de fuir et menacé de se défenestrer.<br><br>Déjà connu pour des faits de vols et de violences, son casier comporte déjà 17 condamnations. Aïssatou avait également déposé 2 mains courantes contre lui.<br><br>Le procès de son assassin se déroule du 29 octobre au 2 novembre 2020 devant la cour d'Assises du Val de Marne. Gianni Drissi a été condamné à 25 ans de prison, il a déjà évoqué son intention de faire appel après avoir menacé la famille d'Aïssatou 😡<br><br>Presse :<br>http://www.leparisien.fr/valenton-94460/valenton-le-compagnon-mis-en-examen-pour-tentative-de-meurtre-20-09-2016-6136369.php<br><br>Post FB<br>https://www.facebook.com/feminicide/posts/1343652522312438]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.45996500000001,48.749736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>88 - Séverine</name>
+        <description><![CDATA[Lundi 31 octobre à Amélie-les-Bains (Pyrénées-Orientales), Séverine âgée de 39 ans a été tuée d'un coup de feu dans la tête. Elle était la mère de trois enfants, un H adulte et 2 ados (F-H). Son mari (52 ans) a retourné son arme contre lui pour se suicider. Il est mort dans la nuit, à l'hôpital.<br>http://www.lindependant.fr/2016/10/31/amelie-les-bains-un-homme-tue-sa-femme-et-tente-de-se-suicider,2274284.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.66971899999999,42.472914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>87 - Aïcha</name>
+        <description><![CDATA[Dimanche 30 octobre à Montreuil-sous-Bois (Seine-Saint-Denis), le corps d'une femme de 35 ans, prénommée Aïcha, mère de deux enfants dont un bébé de 7 mois, a été retrouvé enterré dans la cave d'un immeuble. L'ex-mari Gurpreet Singh a reconnu être l'auteur du crime par strangulation, le mercredi 26 octobre. C'est le frère de la victime qui, inquiet de ne pas avoir de nouvelles de sa sœur, est allé voir son ex-beau-frère et l'a poussé aux aveux. <br>Le couple vivait séparé depuis le début de la relation. Elle avait confiée son bébé à sa mère avant de se rendre au domicile de son conjoint et d'y être massacrée.<br><br>Mardi 3 septembre 2020, le procès de Gurpreet Singh s'est ouvert devant la cour d'assises de Seine-Saint-Denis. 3 plus tard, il a été condamné à 25 ans de prison et a été déchu de son autorité parentale.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1343259855685038<br><br>Presse:<br>http://www.cnewsmatin.fr/france/2016-10-31/montreuil-un-homme-arrete-suspecte-davoir-tue-et-enterre-sa-femme-741675]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.44845099999998,48.863812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>86 - Mélissa</name>
+        <description><![CDATA[Jeudi 27 octobre à Saint-Flour (Cantal), Melissa Mas (34 ans), mère d'une petite fille de 7 ou 8 ans, a été tuée à l'arme blanche par son conjoint Jean Flores (29 ans) chez elle. Son corps n'a été retrouvé que vendredi après-midi. <br>Le tueur a été arrêté le soir même en compagnie de son frère, ivres, dans un hôtel du centre ville de Clermont-Ferrand où ils commettaient des dégradations. <br>Connu des Services de Police, il a avoué être l'auteur du crime. <br>Totalement invisibilisée dans le titre, toujours classée dans les "faits divers", la mort de Mélissa est encore et toujours qualifiée de "drame conjugal" par les journaleux.<br>Le 11 septembre 2020, Jean Flores a été condamné à 25 ans de réclusion criminelle, avec l'interdiction de revenir dans le Cantal pendant dix ans après la fin de sa peine.<br><br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1341567012520989&id=1254619207882437<br>Presse :<br>http://www.lamontagne.fr/saint-flour/faits-divers/2016/10/29/meurtre-de-saint-flour-deux-hommes-dont-le-principal-suspect-apprehendes_12133556.html ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.09486200000003,45.033026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85 - Hélène</name>
+        <description><![CDATA[Mardi 18 octobre à Toulon (Var), Hélène Camilleri (72 ans) a été retrouvée morte, chez elle, étouffée par son mari (61 ans).<br>Ce meurtrier fuyait en voilier, sa vitesse a alerté les Garde-côtes qui l'ont poursuivi. L'homme s'est alors jeté à la mer mais il a été repêché et sauvé. <br>A l'hôpital, le type s'est muré dans le silence. C'est en effectuant une descente chez lui que les policiers ont découvert le corps de la victime, gisant par terre.<br>Il a avoué, "Il aurait "pété les plombs" après une dispute" ! Lors de son interrogatoire, il a fait une "crise de démence"... Un psychiatre a donc été mandaté pour statuer sur sa responsabilité pénale.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1335407386470285<br><br>http://www.varmatin.com/faits-divers/le-naufrage-repeche-par-la-marine-nationale-venait-de-tuer-sa-femme-87463]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.928,43.124228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>84 - Sophie</name>
+        <description><![CDATA[Mercredi 19 octobre à Guillerval (Essonne), Sophie – 36 ans – mère de deux enfants (une fille de 8 ans et un garçon de 13 ans) a été tuée de 3 coups de couteau par son mari, Farid (43 ans). Il a ensuite retourné l'arme contre lui au niveau du cœur. Grièvement blessé, il est mort à l'hôpital dans la nuit.<br>« Le couple était en cours de séparation. Cela a fini par mal tourner. La garde de la petite fille, âgée de 8 ans, serait la cause du différend », explique un gendarme.<br>Le procureur de la République d’Evry, Eric Lallement, indique que les autopsies ont été pratiquées jeudi. Il précise qu'une enquête pour meurtre a été ouverte et que « des disputes survenaient régulièrement depuis l’été 2016, sans qu’aucune plainte n’ait été déposée auprès des services locaux de gendarmerie ». D’après un voisin, ils étaient séparés depuis le printemps dernier.<br>Ce couple était très discret sur sa commune, lui était au chômage depuis quelques mois et multipliait les missions d’intérim. Ils habitaient ce pavillon depuis 2011. <br>Les deux enfants, scolarisés à Étampes, ont été placés dans la famille.<br>https://www.le-republicain.fr/a-la-une/guillerval-tue-femme-de-se-poignarder]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.10256400000003,48.364606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>83 - Géraldine</name>
+        <description><![CDATA[Mercredi 12 octobre, dans la bibliothèque municipale de Villers-Allerand (Marne) où elle travaillait, Géraldine Gallois – née Sohier – 49 ans – a été flinguée d'un coup de fusil de chasse par son EX-mari, Éric Gallois (49 ans), sous les yeux de leur petite fille de 9 ans qui a prévenu une voisine. Le tueur, déjà condamné pour violences sur une ancienne compagne, s'est ensuite suicidé.<br>Elle était très appréciée et très active dans sa commune, elle assurait des activités périscolaires auprès des enfants de maternelle. <br>Après plusieurs années de vie commune, Géraldine s'était mariée il y a deux ans et avait quitté la relation cet été... Elle était mère de 3 autres enfants (2 garçons jeunes adultes et une ado de 15 ans) né-e-s d'une précédente union, elle était aussi grand-mère d'un petit garçon, bébé de un ans.<br>http://www.lunion.fr/820180/article/2016-10-13/marne-un-homme-tue-sa-femme-a-la-bibliotheque-de-villers-allerand-puis-se-suicid ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.02516200000002,49.166361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82 - Marie-Ange</name>
+        <description><![CDATA[Mardi 27 septembre à Gréez-sur-Roc (Sarthe), Marie-Ange Gondard âgée de 46 ans, a été égorgée puis brûlée par son compagnon, Jean-Claude Bigot, 57 ans. Il s'est ensuite pendu.<br>Elle était mère de 2 enfants (27 et 13 ans). C'est sa jeune fille de 13 ans qui a prévenu la police après avoir reçu un texto de sa mère lui disant qu'elle était séquestrée par son compagnon... La police est-elle intervenue "rapidement" ? Son corps se consumait à leur arrivée...<br>Ce tueur était connu de la justice. Plusieurs fois condamné pour violences et menaces de mort sur (ex)épouse et (ex)compagne. Il était sous bracelet électronique après révocation d'un sursis.<br>http://www.le-perche.fr/50684/l-homme-violent-tue-son-ami-et-se-suicide/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.796167999999966,48.136586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>81 - Fleur</name>
+        <description><![CDATA[Dimanche 25 septembre à Saint-Sulpice-les-Champs (Creuse), Fleur S. âgée de 21 ans, a été abattue d'un coup de fusil de chasse dans l'abdomen tiré par son compagnon Thierry B. (48 ans). Il s'est ensuite suicidé<br>D'origine anglaise, elle était passionnée de chevaux. Elle était une amie d'enfance des filles de son compagnon. Elle avait décidé de le quitter après deux années de relation.<br>http://www.lamontagne.fr/auvergne/actualite/2016/09/26/creuse-un-homme-tue-sa-femme-avant-de-se-donner-la-mort_12087454.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.02331400000003,45.994031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80 - Lidia</name>
+        <description><![CDATA[Lundi 19 septembre à Cavaillon (Vaucluse)<br>Lidia (57 ans) a été abattue avec un fusil de chasse par son ex-mari, devant chez elle. L'homme, âgé de 63 ans, a ensuite tenté de se suicider. Le couple était séparé depuis quelques semaines.<br>Mercredi 9 octobre 2019, le procès du meurtrier de Lidia s'ouvre devant la cour d'assises pour assassinat. Le parquet avait requis 30 ans de réclusion, il a finalement écopé de 20 ans de prison.<br>Post FB : <br>https://www.facebook.com/story.php?story_fbid=1303392506338440&id=1254619207882437<br>http://www.europe1.fr/faits-divers/vaucluse-un-homme-tue-sa-femme-et-tente-de-se-suicider-2851054#xtor=CS1-16]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.04078140000001,43.8366045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>79 - Estelle</name>
+        <description><![CDATA[Dans la nuit du samedi 10 au dimanche 11 septembre au Châtelet en Retourne (08), les corps d'Estelle Charlier et ses deux enfants, Alexis 2 ans et Mathis 7 ans, avaient été retrouvés morts par le mari/père, Benjamin Burel, qui rentrait du travail.<br>Les éléments de l'enquête et des autopsies révèlent que cette femme et ses deux enfants sont morts la veille dans la soirée, que le tueur est parti travailler le samedi et a donné l'alerte en rentrant...<br>Des traces de violences ont été constatées sur les corps de la maman et du fils aîné, ils les a noyés tous les trois !<br><br>Le procès aux assises de Benjamin Burel a commencé mardi 17 septembre 2019.<br>Il a été condamné à 30 ans de prison, la peine maximale. Il a fait appel et sera donc rejugé.<br><br>Vendredi 13 novembre 2020, le procès en appel de Benjamin Burel s'est ouvert devant la cour d'assises de la Marne pour féminicide et double infanticide.<br>Au terme d'une semaine d'audience, Benjamin Burel a été à nouveau condamné à la perpétuité pour le meurtre de sa femme et de ses 2 enfants <br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1303239619687062<br><br>Presse :<br>http://www.lunion.fr/805483/article/2016-09-19/triple-homicide-au-chatelet-sur-retourne-le-pere-mis-en-examen-pour-meurtre]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.27619700000002,49.4166529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>78 - Manon</name>
+        <description><![CDATA[Lundi 12 septembre à Gleizé (Rhône) <br>Manon, âgée de 15 ans, a été poignardée plusieurs fois dans le dos juste avant sa sortie du Lycée, par un de ses camarades de classe, âgé lui aussi de 15 ans. Elle est morte des suites de ses blessures hier, Vendredi 16 septembre. <br>Leurs collègues de classe ont dit, sur le moment, qu'elle était en train de rompre. Lui, peu bavard, dit qu'il a prémédité son geste durant l'été. Sans antécédent, il a été interné en hôpital psychiatrique.<br>Le parquet de Lyon ne donne pas plus de précisions. Une information judiciaire est ouverte et il est mis en examen pour "assassinat"<br>Le 8 février 2019, il a été condamné à 10 ans d'internement psychiatrique lors d'un procès à huis-clos devant le tribunal pour enfants.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1301414736536217&id=1254619207882437<br>Presse :<br>http://www.francetvinfo.fr/faits-divers/la-lyceenne-poignardee-lundi-par-un-eleve-de-son-etablissement-du-rhone-est-morte_1829215.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.69684899999993,45.988917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77 - Johanna</name>
+        <description><![CDATA[Dimanche 11 septembre à Lunéville (Meurthe-et-Moselle), Johanna P. (24 ans) a été découverte, égorgée chez elle. Son (ex)petit ami, Cédric R. (24 ans) était mort le matin même dans un accident de la route. Il semble qu'il ait assassiné Johanna puis se soit suicidé en jetant sa voiture sur un arbre à 200Km/h.<br>http://loractu.fr/nancy/14107-luneville-un-jeune-homme-egorge-sa-petite-amie-puis-se-suicide-en-voiture.html<br>Post FB<br>https://www.facebook.com/feminicide/posts/1299144633429894]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.49233900000002,48.592237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>76 - Elisabeth</name>
+        <description><![CDATA[Dimanche 11 septembre à Mortcerf (Seine-et-Marne), Elisabeth (38 ans) a été étranglée par son mari (52 ans). Il s'est ensuite pendu. Elle avait décidé de le quitter...il l'a tuée ! <br>Ce sont leurs 2 enfants (18 et 16 ans) qui les ont trouvés au matin. <br>Dominique Laurens, la procureure de Meaux, a ordonné une autopsie.<br>https://actu.fr/societe/il-tue-sa-femme-avant-de-se-pendre_7039259.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.91907200000003,48.7949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>75 - Séverine</name>
+        <description><![CDATA[Mercredi 7 septembre vers 2h du matin à Troyes (Aube), Séverine Lepage (38 ans) mère de 3 enfants, a été égorgée chez son concubin (34 ans), majeur protégé (sous tutelle ou curatelle). <br>Lors de son interpellation, il était fortement alcoolisé et a déclaré qu'elle s'était "auto-mutilée"... pas si "fou" le gars !<br>D'après un article de France 3 Champagne Ardenne, il serait "récidiviste". <br>Info confirmée par le Procureur de Troyes, Olivier Caracotch. Son casier judiciaire est vierge mais le tueur présumé a été condamné, en avril 2016, pour "violences avec arme". <br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1291564424187915<br><br>http://www.canal32.fr/thematiques/le-jt/jt/troyes-une-femme-tuee-rue-clemenceau-cette-nuit.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.0744009,48.2973451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74 -  Tran Thi Thu</name>
+        <description><![CDATA[Jeudi 21 février 2019 un corps en état de décomposition a été découvert sur le terrain de Germain Balmokoun à Saint-Laurent du Maroni (Guyane). L'autopsie confirme qu'il s'agit bien du corps de Tran Thi Thu Ha (45 ans) l'épouse de Germain Balmokoun disparue mystérieusement depuis le 2 décembre 2016.<br>La gendarmerie avait lancé un appel à témoin pour la retrouver.<br>Le mari, ancien élu local, a été mis en examen pour assassinat et écroué le 17 mai 2019.<br>https://la1ere.francetvinfo.fr/guyane/germain-balmokoun-mis-detention-provisoire-assassinat-711747.html<br>Post FB<br>https://www.facebook.com/feminicide/posts/2711830998827910]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -54.0248906,5.4838804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73 - Johanna</name>
+        <description><![CDATA[Jeudi 28 juillet à SAINT-GERMAIN-lès-ARPAJON (Essonne), Johanna L (29 ans) mère de deux enfants en bas âge, Ophélie et Matt, avait été immolée dans la cave de sa maison, par son mari Jérôme C (34 ans). Brûlée à 85%, elle est décédée le dimanche 14 août. Ses obsèques auront lieu mardi prochain, dans sa ville d'origine en Alsace. Elle était sourde et muette ainsi que son mari. Johanna avait déposé des mains courantes, pourtant une médiation familiale était en cours.<br>Le procès aux assises de l'Essonne s'est ouvert le mardi 25 juin 2019. Jérôme était possessif et jaloux, lorsque Johanna lui a annoncé qu'elle le quittait, il l'a tuée. <br>30 années de réclusion criminelle ont été prononcés pour ce meurtre par conjoint (au-delà des 28 ans requis par l'avocat général). L'accusé a également été déchu de son autorité parentale. Il a fait appel.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1281873278490363&id=1254619207882437<br>Presse :<br>http://www.leparisien.fr/espace-premium/essonne-91/femme-immolee-la-version-du-mari-contredite-par-des-temoins-03-08-2016-6012087.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.25549790000002,48.594204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72 - Noëlle</name>
+        <description><![CDATA[Samedi 27 août à PONT-DU-CASSE (Lot-et-Garonne), Noëlle Malbec (58 ans), mère de deux garçons, a été tuée de 20 coups de couteau, chez elle, par son mari Jean-Pierre Malbec (63 ans), retraité de l'administration fiscale. Très appréciée de ses collègues, elle était infirmière à l'hôpital d'Agen. Elle était proche de sa retraite. <br>Les violences du mari sont décrites comme fréquentes par plusieurs commentateurs/trices. Après son crime, il a prévenu un voisin.<br>Jeudi 28 novembre 2019, Jean-Pierre Malbec, 66 ans, a été condamné à 18 ans de prison par les jurés de la cour d'assises de Lot-et-Garonne pour le meurtre de sa femme Noëlle. L'aliénation du discernement est reconnue 😡😡😡<br>Post FB : https://m.facebook.com/story.php?story_fbid=1281287571882267&id=1254619207882437&sfnsn=mo<br><br>http://www.ladepeche.fr/article/2016/08/30/2408531-le-mari-meurtrier-presume-place-en-detention.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.68127800000002,44.232117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71 - Marie</name>
+        <description><![CDATA[Mardi 6 janvier à Périgueux (Dordogne), Marie Segala (64 ans) a été abattue avec un fusil par son mari Georges Galdrat (75 ans) dans la chambre à coucher de leur pavillon. Il s'est ensuite donné la mort avec la même arme. C'est une auxiliaire de vie qui a alerté les secours lorsqu'elle a trouvé porte close le mercredi 7 janvier.<br>Si dans un premier temps les enquêteurs ont pu penser que Madame avait abattu son mari (!!!!), c'est finalement le scénario inverse qui s’est dessiné : le septuagénaire aurait tué sa femme avant de retourner l'arme contre lui #féminicide<br><br>Post FB : https://www.facebook.com/feminicide/posts/1273555022655522<br>Article de presse : https://www.sudouest.fr/2016/04/01/couple-retrouve-mort-a-perigueux-la-poudre-n-a-pas-parle-2318569-1980.php?nic]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.7208805,45.1837757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70 - Julienne</name>
+        <description><![CDATA[Mercredi 17 août à MATOURY (Guyane), Julienne Charmot, martiniquaise de 59 ans, a été tuée chez elle, à coups de tournevis, par son compagnon venu en vacances depuis la Martinique.<br>http://la1ere.francetvinfo.fr/guyane/un-drame-familial-matoury-388925.html ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -52.3453726,4.8317755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69 - Simone</name>
+        <description><![CDATA[Lundi 15 août à ORVAL (Cher), Simone Vitré (70 ans) a été abattue d'un coup de fusil à grenaille à bout portant derrière la tête, par son mari Americo de Sousa (65 ans). Ils étaient en cours de séparation. Lui s’était installé dans cette maison d’Orval, il y a deux mois. Simone Vitré, sa femme lui rendait visite occasionnellement.<br>Le 28 novembre 2017, il a été condamné à 18 ans de prison par la cour d'assises du Cher.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1270289109648780&id=1254619207882437<br>Presse : <br>http://www.leberry.fr/cher/actualite/pays/boischaut/2016/08/16/drame-d-orval-la-femme-tuee-d-un-coup-de-fusil_12036635.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.48149490000003,46.726535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68 -  Gulyth</name>
+        <description><![CDATA[Jeudi 11 août à AURILLAC (Cantal), Gulyth F-E (26 ans), mère d'un enfant de 3 ans, a été poignardée chez elle par son mari âgé de 52 ans. Elle avait entamé une procédure de divorce, il ne le supportait pas. Elle a été assassinée, en présence de l'enfant ! Il est mis en examen pour "assassinat", il avait préparé le meurtre.<br>Lors de son procès aux assises le mardi 25 juin 2019, il a été condamné à 25 ans de réclusion criminelle, la préméditation a été retenue par les jurés qui ont délibéré 2 heures. Leur fils obtient 70 000 euros de dommages et intérêt. Le tueur devra également verser près de 80.000 € à la famille de la victime, dont 50.000 € à sa maman.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1265861740091517&id=1254619207882437<br>Presse :<br>http://www.lamontagne.fr/auvergne/actualite/departement/cantal/2016/08/12/un-quinquagenaire-suspecte-d-avoir-assassine-son-ex-compagne_12033211.html ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.44499700000006,44.930953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67 - Elisabeth</name>
+        <description><![CDATA[Lundi 1er août à FONTENAY-SOUS-BOIS (Val-de-Marne), Elisabeth (66 ans) a été égorgée au cutter, chez elle, par son mari Serge D. (59 ans). Après avoir d'abord déclaré qu'ils avaient été victimes d'un voleur, il vient d'avouer son crime en le justifiant par le prétendu "caractère humiliant voire maltraitant" de la victime. <br>Ils étaient parents d'un fils majeur.<br>Mardi 18 février 2020, le procès de Serge D. s'est ouvert devant la cour d'assises du Val-de-Marne. Le verdict est attendu jeudi, il encourt la réclusion criminelle à perpétuité.<br>Post FB:<br>https://www.facebook.com/story.php?story_fbid=1258456574165367&id=1254619207882437<br>Presse : <br>http://www.leparisien.fr/fontenay-sous-bois-94120/fontenay-il-avoue-avoir-tue-sa-femme-d-un-coup-de-cutter-03-08-2016-6013763.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.47590700000001,48.851542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>66 - Ismahane</name>
+        <description><![CDATA[Dans la nuit du samedi à dimanche 31 juillet à Vandoeuvre-les-Nancy (Meurthe-et-Moselle), chez elle, Ismahane Krouchi (39 ans), mère de 3 enfants de 2 à 14 ans, a été poignardée par son mari Aissa Belkhiri (39 ans) devant son plus jeune fils de 2 ans.<br><br>NON, il ne s'agit pas d'un "drame familial" du à un "différend de couple" !<br><br>Le procès aux assises d'Aïssa Belkhiri aurait du commencer le 6 mars 2020 mais à cause de la grève des avocats, il a été reporté à 2021 ! Soit 5 ans après les faits 😡<br><br>Vendredi 19 mars 2021, le procès aux assises d'Aïssa Belkhiri s'ouvre enfin. Il encourt la réclusion criminelle à perpétuité. Mercredi 24 mars 2021, Aïssa Belkhiri a été condamné à 25 ans de prison.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1256819584329066<br><br>Presse :<br>http://www.estrepublicain.fr/edition-de-nancy-ville/2016/08/02/une-femme-de-39-ans-egorgee-par-son-mari-jaloux-a-vandoeuvre]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.17376000000002,48.661118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65 - Laetitia</name>
+        <description><![CDATA[Dans la nuit du 12 au 13 juin, SOULOSSE-SOUS-SAINT-ELOPHE (Vosges)<br>Un homme de 54 ans, Guy Bellamy., a abattu Laetitia Morel sa compagne de 32 ans d’un coup de fusil à pompe avant de retourner l’arme contre lui. <br>Leurs trois enfants séjournaient sous le même toit, un garçon de 15 ans (Enzo) et deux filles de 11 et 4 ans (Marilou et Océane). C’est la jeune fille de 11 ans qui a découvert les deux corps sans vie lorsqu’elle s’est levée pour aller à l’école. Elle a alors immédiatement alerté son demi-frère Enzo qui a ensuite contacté la gendarmerie.<br>La jeune femme avait annoncé au quinquagénaire qu’elle comptait le quitter. Il laisse une lettre à ses enfants : "Votre mère me fait trop mal. Je n'ai pas le choix, je l'aime trop et personne d'autre ne l'aura". Il était chasseur de sangliers.<br>http://www.vosgesmatin.fr/edition-de-la-plaine/2016/06/14/vosges-deux-morts-a-la-suite-d-un-drame-conjugal-a-soulosse-sous-saint-elophe]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.73442799999998,48.4040729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64 - Elizabeth</name>
+        <description><![CDATA[Le vendredi 29 juillet à BEAUVAIS (Oise)<br>Elizabeth Gonzales a été poignardée, chez elle, par son mari. Elle était mère de 2 enfants, un garçon et une fille en bas âge. Avant de se rendre à la police le tueur les avait confiés à de la famille.<br>Elle était d'origine colombienne, travaillait dans un hôtel proche de Roissy et devait se lever tôt pour s'y rendre.<br>Ce sont ses collègues qui se sont inquiétées, déplacées puis ont donné l'alerte.<br>Lui était sans emploi.<br>Mardi 12 novembre 2019, la procès de Fredy G. le meurtrier s'ouvre devant la Cour d'Assises, il encourt la réclusion à perpétuité.<br><br>Il a été reconnu coupable de meurtre et condamné à 18 ans de prison, contre 30 requis par l'avocat général. Jusqu'au bout, il aura nier l'assassinat d'Elizabeth, préférant parler de "drame au cours d'une dispute à 2" 🤬🤬<br><br>Post FB : https://www.facebook.com/story.php?story_fbid=1256552794355745&id=1254619207882437&sfnsn=mo<br><br>http://www.courrier-picard.fr/archive/recup%3A%252Fregion%252Fbeauvais-soupconne-d-avoir-poignarde-sa-femme-ia0b0n824659 ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.08071229999996,49.4295387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>63 - Grace</name>
+        <description><![CDATA[Le mercredi 27 juillet à Metz (Moselle), Grace Mambu Kama(19 ans) est morte des suites d'une chute du 4ème étage de son domicile. Alcoolisé, son compagnon âgé de 27 ans, a été mis en garde à vue pour des faits d’homicide volontaire.<br>A l'issue de celle-ci, une information a été ouverte pour "Violences volontaires ayant entraîné la mort sans intention de la donner". Il est laissé libre sous contrôle judiciaire.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1254707207873637<br><br>http://www.republicain-lorrain.fr/edition-de-metz-ville/2016/07/30/chute-mortelle-a-metz-patrotte-soupcons-de-violences-volontaires ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.17571559999999,49.1193089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>62 - Maryline</name>
+        <description><![CDATA[Samedi 23 juillet à Carmaux (Tarn), Maryline Blondeau (53 ans) a été retrouvée poignardée dans un entrepôt à l'arrière de la boulangerie où elle travaillait.<br>L'ancien compagnon (51 ans) avait été mis en garde à vue puis relâché. Il a été arrêté mercredi et va être mis en examen pour assassinat. <br>La séparation était récente. Elle se sentait suivie et menacée.<br>http://www.ladepeche.fr/article/2016/07/24/2389850-une-boulangere-poignardee.html<br>Post FB<br>https://www.facebook.com/feminicide/posts/1254705604540464/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.16075000000001,44.0500339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>61 - Edenne</name>
+        <description><![CDATA[Le mardi 26 juillet à Courcouronnes (Essonne)<br>Chez elle, Edenne Henry (53 ans), mère de 3 enfants, a été massacrée à coups de marteau dans la tête, par son concubin (59 ans). <br>Il a tenté de se suicider en mettant le feu à la maison. <br>Il serait subitement devenu jaloux à la suite d'un voyage qu'elle venait de faire, dans sa famille à Haïti.<br><br>À partir du 1er octobre 2019, Gabriel sera jugé pour le meurtre sauvage de sa femme sevant la cour d'assises de l'Essonne.<br><br>Post FB : https://www.facebook.com/feminicide/posts/1254705237873834<br><br>http://www.leparisien.fr/courcouronnes-91080/meurtre-a-courcouronnes-le-mari-etait-devenu-jaloux-27-07-2016-5998861.php ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.40709100000004,48.617871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60 - Sandra</name>
+        <description><![CDATA[Les Cerqueux (Maine-et-Loire), 25 juillet aux Cerqueux (Maine-et-Loire) Sandra, 40 ans, a été tuée par arme à feu, chez elle, par son mari Daniel G. (52 ans) qui s'est ensuite suicidé. Le couple était en train de se séparer. C'est leur fils unique de 15 ans qui a découvert le crime, en rentrant avec un copain.<br>http://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/les-cerqueux-maine-et-loire-il-tue-sa-femme-et-retourne-l-arme-contre-lui-1055231.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.640375899999981,46.999905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59 - Krüba, Esila et Kadir</name>
+        <description><![CDATA[Folschviller (Moselle), 11 juillet : Krüba (25 ans) et ses deux enfants, Esila 3 ans et Kadir 7 ans, ont été exécutés par le mari et père, chez eux. Il s'est ensuite suicidé. <br>La séparation était récente, elle avait demandé le divorce, ils n'habitaient plus ensemble. C'est une des sœurs de la victime qui a découvert le carnage. <br>https://www.zamanfrance.fr/article/triple-meurtre-suivi-dun-suicide-en-moselle-pere-turc-decime-famille-se-tue-22569.html ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.68337500000007,49.076031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58 - Thérèse</name>
+        <description><![CDATA[Saint-Maur-des-Fossés (Val-de-Marne), 2 juillet : Thérèse (83 ans) a été abattue d’un coup de fusil, par son mari (81 ans). Elle se trouvait dans son lit et dormait probablement. Une fois sa famille prévenue par téléphone, il a retourné l’arme contre lui. Elle avait des projets et était en très bonne santé.<br>http://www.lci.fr/faits-divers/saint-maur-un-octogenaire-tue-sa-femme-et-retourne-son-arme-contre-lui-1514358.html<br> ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.48542900000007,48.8029439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57 - Christiane</name>
+        <description><![CDATA[Bagnoles-de-l'Orne (Orne), 28 juin : Christiane (66 ans) était en cure quand son ex-compagnon (66 ans) l'a abattue au fusil de chasse sur le parking. Il s'est ensuite suicidé. Connu de la police, il avait été placé en garde à vue pour menace de mort envers la victime. Ses fusils lui avaient été confisqués puis restitués. Le parquet du Havre avait classé sans suite.<br>http://www.paris-normandie.fr/region/meurtre-a-bagnoles-de-l-orne--le-tueur-havrais-avait-deja-menace-de-mort-la-victime-KB6175286#.V5vrbbiLS71]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.415090999999961,48.558399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56 - Christiane</name>
+        <description><![CDATA[Munchhouse (Haut-Rhin), 27 juin : Christiane, âgée de 67 ans, a été abattue chez elle par son mari (70 ans) . Il s'est ensuite suicidé. Il était chasseur.<br>http://france3-regions.francetvinfo.fr/grand-est/haut-rhin/drame-familial-munchhouse-1038005.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            7.45278899999994,47.869178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55 - Patricia</name>
+        <description><![CDATA[Saint-Ouen (Loir-et-Cher), 24 juin : Patricia (50 ans) souhaitait mettre un terme à la vie commune. Il ne l'a pas supporté et l'a abattue d'un coup de fusil de chasse. Il s'est ensuite retranché. Le GIGN l'a arrêté.<br>Philippe Guellier a été condamné mardi 7 mai 2019 à 20 ans de réclusion criminelle pour avoir tué sa concubine d'un coup de fusil le 24 juin 2016 à Saint-Ouen. La cour d'assises de Loir-et-Cher n'a pas retenu d'altération du discernement."<br>Post FB : <br>https://www.facebook.com/story.php?story_fbid=1254702244540800&id=1254619207882437<br>Presse :<br>http://www.lanouvellerepublique.fr/Loir-et-Cher/Actualite/Faits-divers-justice/n/Contenus/Articles/2016/06/26/Saint-Ouen-il-tue-sa-femme-et-se-retranche-avec-un-fusil-2763735 ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.08177899999998,47.809739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54 - Christelle, Carla et Emma </name>
+        <description><![CDATA[Anglet (64), 21 juin : Christelle (43 ans) et ses deux filles, Carla 11 ans et Emma 16 ans, ont été abattues dans leur sommeil par le mari et père de famille. Frédéric Delval (52 ans) s'est ensuite suicidé.<br>http://www.sudouest.fr/2016/06/22/anglet-la-lettre-du-tueur-confirme-le-drame-familial-2409845-3944.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -1.51469900000006,43.481402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>53 - Joanne</name>
+        <description><![CDATA[53 : St Michel sur Loire (Indre-et-Loire) 19 juin : Joanne Kawala (33 ans) ne veut plus épouser Christian Breton (62 ans), il la tue avec un pistolet 9mm puis se suicide.<br>https://www.francebleu.fr/infos/faits-divers-justice/un-sexagenaire-tue-son-ex-fiancee-et-se-suicide-saint-michel-sur-loire-pres-de-langeais-1466488628<br>post FB<br>https://www.facebook.com/feminicide/posts/1254700494540975]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.348746000000006,47.307685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52 - Annie</name>
+        <description><![CDATA[Le 19 juin à Saint-Aubin-de-Médoc (Gironde), les corps sans vie de Annie Puzos (64 ans) et de Gérard Michiels (65 ans), un couple, ont été retrouvés dans une voiture calcinée.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1254700371207654<br><br>http://www.sudouest.fr/2016/06/20/gironde-deux-corps-decouverts-dans-une-voiture-calcinee-2406031-2780.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.72351100000003,44.91313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51 - Maria</name>
+        <description><![CDATA[Montemboeuf (Charentes), 10 juin : Maria, 57 ans, a été poignardée puis achevée d'un coup de fusil par son mari âgé de 60 ans, pépiniériste tout juste retraité. Il s'est ensuite suicidé. Leur fils a été blessé en tentant de désarmer son père.<br>http://www.charentelibre.fr/2016/06/10/drame-familial-a-montemboeuf-deux-morts,3039373.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.552754999999934,45.777137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50 - Fatima</name>
+        <description><![CDATA[Mardi 6 juin à Roubaix (Nord), le cadavre momifié d'une Algérienne, Fatima Benmebkhout (32 ans) est découvert par un huissier, dans le cadre d'une expulsion locative. Il gisait là depuis "probablement" début 2014. Cette femme a été tuée à l'arme blanche. Son mari, en fuite, est activement recherché.<br>Le 9 octobre 2016, le mari a été arrêté à Amman (capitale de la Jordanie) suite au mandat d'arrêt international lancé à son encontre. Il s'agit d'un algérien de 44 ans. Une procédure d'expulsion vers la France est en cours<br><br>Post FB: <br>https://www.facebook.com/feminicide/posts/1254697937874564<br><br>http://www.20minutes.fr/lille/1947615-20161022-roubaix-arrestation-mari-femme-decouverte-momifiee-juin ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.17784699999993,50.6927049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49 - Simone</name>
+        <description><![CDATA[Ce matin, lundi 6 juin 2016 à Villepreux (Yvelines), Simone Maucourt (85 ans) a été tuée d’un coup de fusil, dans son lit, par son mari Georges Huart (84 ans). Il a prévenu leur fils et s'est ensuite suicidé. <br>Elle était atteinte de la maladie d’Alzheimer.<br><br>Post FB :<br>https://www.facebook.com/feminicide/posts/1254696067874751<br><br>http://www.leparisien.fr/yvelines-78/villepreux-l-octogenaire-tue-sa-femme-par-balle-avant-de-se-donner-la-mort-06-06-2016-5860439.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.005269,48.8301019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48 - Pauline</name>
+        <description><![CDATA[Santès (Nord), 5 juin : Pauline Aerts (82) ans avait été retrouvée morte chez elle. Son mari, Pierre Martin (77 ans), après un séjour en HP juste après les faits... a été mis en examen le 28 juin, pour homicide. Il a été placé en détention provisoire,<br>Dans les commentaires sous l'article du Parisien concernant la 57ème victime, nous avons pu lire :<br>"Récemment, à Santes dans le Nord, un homme de 75 ans a aussi tué sa femme octogénaire à coup de bouteilles."<br>Il est décédé en décembre 2016, il n'y aura donc pas de procès.<br>http://www.lavoixdunord.fr/region/une-octogenaire-retrouvee-morte-a-santes-son-compagnon-ia21b49773n3603323<br>Post FB<br>https://www.facebook.com/feminicide/posts/1254695404541484]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.95701399999996,50.593122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47 - Leïla</name>
+        <description><![CDATA[Bonnières sur Seine (Yvelines), 2 juin. Leïla, 29 ans, mère d’un enfant de 4 ans. Exécutée d’une balle dans la tête, chez eux, par son mari jaloux, 31 ans. Le couple avait des « difficultés relationnelles »<br><br>Le 26 mars 2019, il a été condamné à 25 ans de prison par la cour d'assises des Yvelines.<br><br>http://www.leparisien.fr/bonnieres-sur-seine-78270/bonnieres-sur-seine-le-mari-jaloux-tue-son-epouse-d-une-balle-dans-la-tete-03-06-2016-5854287.php<br><br>Procès en assises <br>http://www.leparisien.fr/yvelines-78/yvelines-aux-assises-pour-avoir-tue-sa-femme-d-une-balle-dans-la-tete-13-03-2019-8031081.php<br><br>Post FB<br>https://www.facebook.com/feminicide/posts/1254691621208529]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.57852100000002,49.037452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46 - Marie-Louise</name>
+        <description><![CDATA[Guern (Morbihan), 1er juin : Marie-Louise Le Saux, 69 ans. Exécutée chez eux par son mari, Daniel Le Saux, 70 ans. Chasseur, il possédait plusieurs armes de chasse.<br>http://france3-regions.francetvinfo.fr/bretagne/morbihan/guern-56-couple-decede-par-balles-la-piste-du-drame-familial-privilegiee-1012841.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -3.09134979999999,48.0303118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45 - Géraldine</name>
+        <description><![CDATA[Nissan-lez-Ensérune (Hérault), 30 mai : Géraldine, 47 ans, fonctionnaire en administration pénitentiaire, mère d’un ado de 17 ans. Exécutée chez eux d’une balle au thorax par son mari, 56 ans. Il s’est suicidé avec le même revolver. C’est l’enfant qui a découvert les corps à son retour du lycée.<br>http://france3-regions.francetvinfo.fr/occitanie/homme-tue-sa-femme-se-suicide-sa-maison-nissan-lez-enserune-1011415.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.12804000000006,43.289765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44 - Géraldine</name>
+        <description><![CDATA[Pontcharra-sur-Turdine (Rhône), 29 mai : Géraldine, 39 ans, fonctionnaire au conseil régional, mère de trois enfants âgés de 5 à 10 ans. Battue à mort chez lui par son ex-conjoint, 45 ans, père des enfants. Elle a reçu au moins un coup à la tête, des objets ensanglantés ont été retrouvés près de son corps, dont un morceau de bois d’un mètre de long. Les trois enfants, retrouvés deux heures après le déclenchement d’une alerte enlèvement, étaient absents. Le père a été placé en garde à vue pour « homicide volontaire avec préméditation« , c’est à dire pour assassinat. Malgré cela, la préfecture du Rhône, relayée par la presse, se montre extrêmement pudique. La mère assassinée est à peine évoquée, tandis que les enfants sont présentés comme étant « sains et saufs » malgré l’assassinat de leur mère. Prétendre qu’ils sont sains et sauf, c’est nier l’ampleur des violences qu’ils ont subies en ce jour de Fête des Mères.<br>Elle venait de quitter le domicile conjugal et avait dénoncé les violences physiques et psychologiques de son conjoint dans une main courante.<br>Le 28 mars 2018, Nafez Shehadeh a été condamné à 18 ans de prison par la cour d'assises du Rhône.<br>Post FB:<br>https://www.facebook.com/story.php?story_fbid=1254690801208611&id=1254619207882437<br>Presse : <br>http://www.leprogres.fr/rhone/2016/05/29/le-corps-sans-vie-d-une-femme-decouvert-dans-un-appartement]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.49370699999997,45.875632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43 - Sophie</name>
+        <description><![CDATA[Prahecq (Deux-Sèvres), 25 mai : Sophie Clerc, 46 ans, salariée de MAIF Solutions Financières, mère de deux filles. Exécutée devant chez elle de plusieurs coups de fusil par son ex-compagnon, 49 ans, arrêté sur place, hébété et prêt à se jeter sous une voiture. Les filles étaient chez leur père qui a été mis hors de cause. Un hommage a été rendu devant le Handball-Club où elle entraînait bénévolement des enfants et adolescentes.<br>Le 8 février 2019, Jérôme André a été condamné à 25 ans de prison par la cour d'assises de Niort.<br>Post FB : <br>https://www.facebook.com/story.php?story_fbid=1254689267875431&id=1254619207882437<br>http://france3-regions.francetvinfo.fr/nouvelle-aquitaine/prahecq-79-le-corps-sans-vie-d-une-femme-retrouvee-dans-un-pavillon-1006613.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.345221000000038,46.258947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42 - Angélique</name>
+        <description><![CDATA[Longpont-sur-Orge (Essonne), 13 mai : Angélique, 39 ans, mère de deux enfants. Piégée et exécutée d’une balle dans la tête, chez elle, par son ex-compagnon Didier, 47 ans, père des enfants. Il s’est d’abord rendu chez elle en son absence, et a tenté de tuer le nouveau compagnon de son ex. Celui-ci, policier, l’a délesté d’une des deux armes à feu du tueur, et a appelé les secours. Il s’est ensuite caché dans le parking. Il a tiré sur la femme alors qu’elle rentrait du travail, et s’est échappé. Transportée d’urgence à l’hôpital, elle est tombée en état de mort cérébrale. Elle est décédée le soir suivant. Les policiers ont retrouvé les enfants au domicile du tueur. Ils ont traqué et arrêté l’assassin à l’issue d’une battue, son arme pointée sur sa tempe.<br>Le lundi 17 juin 2019, la cour d'assises de l'Essonne a condamné Didier Santerre à 22 ans de prison pour le meurtre d'Angélique.<br>https://www.le-republicain.fr/faits-divers/longpont-une-femme-en-mort-cerebrale-apres-avoir-ete-touchee-par-un-tir-darme-a-feu<br>Post FB<br>https://www.facebook.com/feminicide/posts/1254689067875451<br>Procès<br>http://www.leparisien.fr/essonne-91/longpont-sur-orge-juge-aux-assises-pour-avoir-assassine-son-ex-compagne-11-06-2019-8091006.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.28582299999994,48.639013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41 - Jeannine</name>
+        <description><![CDATA[Petite-Forêt (Nord), 12 mai : Jeannine Manche, 58 ans, agente de service en école, mère de quatre filles adultes. Exécutée chez eux d’une balle de fusil au coeur par son mari Bernard Manche, 59 ans, chauffeur de bus. Elle allait le quitter : ils étaient en instance de divorce. Il a prévenu une de leurs filles par SMS avant de se suicider, échappant ainsi à la justice.<br> http://www.lavoixdunord.fr/region/drame-de-petite-foret-la-ville-de-valenciennes-qui-ia27b36935n3503246]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.480099,50.367423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40 - Stella</name>
+        <description><![CDATA[-40- <br>Pringy (Haute-Savoie), 12 mai : Stella Mirabells, 21 ans. Sauvagement poignardée chez elle par son ex-compagnon, Pierre Charrière (23 ans). Elle vivait avec son nouveau compagnon. Il a enfoncé la porte d’entrée, en pleine nuit, et s’est acharné sur elle à coups de couteau. Le compagnon et l’assassin l’ont ensuite transportée à l’hôpital, où elle a succombé.<br>Le 28 novembre 2018, il a été condamné à 20 ans de prison par la cour d'assises.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1254688664542158&id=1254619207882437<br>http://www.ledauphine.com/haute-savoie/2016/05/12/une-jeune-femme-de-21-ans-frappee-a-mort]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.121892,45.946463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39 - Marie-Claude</name>
+        <description><![CDATA[Avermes (Allier), 5 mai : Marie-Claude, 66ans. Exécutée chez eux d’un coup de fusil de chasse par son mari septuagénaire. Il s’est ensuite suicidé.<br>http://www.lamontagne.fr/auvergne/actualite/2016/05/05/drame-familial-a-avermes_11901323.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.30759499999999,46.587744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38 - Fabienne</name>
+        <description><![CDATA[Le lundi 2 mai, à AUCH (Gers), Fabienne Andignac âgée de 48 ans, mère de deux filles adultes, a été poignardée chez lui par son compagnon, Antonio Mateos, 48 ans. Il l’a poignardée dix fois au thorax, dont quatre fois dans la région du cœur. Massivement alcoolisé, il a fumé un joint et attendu une heure avant d’appeler la police. Il n’a pu être entendu immédiatement et a été placé en cellule de dégrisement... <br>Ils s’étaient rencontrés un mois et demi auparavant. Elle voulait le quitter à cause de sa jalousie, et était venue récupérer ses affaires.<br>Ce tueur était connu de la justice. Plusieurs fois condamné pour menaces de mort sur des ex-compagnes.<br>Il a été condamné le 20 juin par la cour d’assises du Gers à 25 ans de réclusion pour le meurtre de Josianne. Il a fait appel et a de nouveau été condamnée le 25 mars 2019 à 25 ans de prison.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1254687994542225&id=1254619207882437<br>http://www.ladepeche.fr/article/2016/05/02/2336323-auch-elle-meurt-poignardee-dans-un-drame-passionnel.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.586709000000042,43.64638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37 - Savannah</name>
+        <description><![CDATA[Ajaccio (Corse-du-Sud), 1er mai : Savannah Torrenti, 24 ans. Battue à mort par son (ex) compagnon, 24 ans, chez lui. Il était sous l’emprise d’alcool et de drogue (MDMA). Il s’est enfui à l’arrivée des pompiers, que sa soeur avait appelés. Savannah Torrenti a été retrouvée dénudée et avait été rouée de coups, y compris à la tête. Elle n’a pu être ranimée. Le fuyard s’est rendu aux autorités après 10 heures de cavale. Il a initialement prétendu que la victime était décédée suite à deux accidents de voiture en rentrant de boîte de nuit.<br>Le procès de son meurtrier s'est ouvert à Ajaccio le 21 juin 2019. Le verdict de la cour d assises est tombé le 26 juin 2019 : 26 ans de prison pour avoir tué Savannah. Il a fait appel.<br>http://www.corsematin.com/article/ajaccio/le-corps-dune-jeune-fille-rouee-de-coups-retrouve-a-ajaccio-0.1996493.html<br>Post FB<br>https://www.facebook.com/feminicide/posts/1254687704542254]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            8.73863499999993,41.919229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36 - Marie-Rose et Corinne</name>
+        <description><![CDATA[Mauprévoir (Vienne), 19 avril : Marie-Rose Jaud, 62 ans, et sa fille Corinne, 27 ans. Exécutées par balles chez eux par le mari/père Célestin Jaud, 74 ans, gardien de château à la retraite, ancien combattant et chasseur. Il a utilisé ses fusils de chasse. Il a prévenu leur autre fille par téléphone avant de se suicider.<br>http://www.lanouvellerepublique.fr/Vienne/Actualite/Faits-divers-justice/n/Contenus/Articles/2016/04/20/Drame-a-Mauprevoir-trois-corps-sans-vie-retrouves-dans-la-maison-familiale-2691517]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.516516000000024,46.172497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35 - Germine</name>
+        <description><![CDATA[Fagnières (Marne), 18 avril : Germine Aslikian, employée dans un centre de rééducation, mère de deux enfants. Poignardée 16 fois devant son nouveau domicile, par son mari, Vrech Aslikian, 48 ans, qu’elle avait quitté un mois plus tôt. Il l’a ensuite prise en photo et a prévenu un proche. Il l’a transportée en voiture, morte ou agonisante. Puis il s’est pendu, échappant ainsi à la justice. Installée en France depuis 2007, elle avait survécu aux violences ethniques et à l’exil. Il l’a tuée parce qu’elle venait de reprendre sa liberté de femme.<br>http://www.lunion.fr/707355/article/2016-04-19/marne-il-tue-sa-femme-a-fagnieres-puis-se-pend-a-saint-gibrien]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.31840599999998,48.963374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34 - Fabienne</name>
+        <description><![CDATA[34 : Divonne-Les-Bains (Ain), 11 avril : Fabienne Scholaert , voyante, (56 ans) a été étouffée mi-janvier chez eux par son mari Christian (67 ans). Il avait initialement quitté le domicile pour un voyage et maquillé le crime en suicide, déclarant sa mort à son retour le 27 janvier. Il a été interpellé fin février, une deuxième autopsie vient de prouver qu’elle avait été asphyxiée.<br>Le 15 juin 2018, il a été condamné à 15 ans de prison par la cour d'assises de l'Ain.<br>http://www.leprogres.fr/ain/2016/04/11/divonne-les-bains-la-voyante-a-t-elle-ete-suicidee-par-son-mari<br>Post FB<br>https://www.facebook.com/feminicide/posts/1254683921209299]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.13603999999998,46.358168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33 - Mireille</name>
+        <description><![CDATA[Brive (Corrèze), 10 avril : Mireille, 55 ans, mère de famille. Exécutée chez eux, durant son sommeil, de trois balles dans la tête avec un pistolet à un coup, par son mari Michel Kappler, 76 ans. Il s'est ensuite suicidé. Il a aussi tué leur chien. Il a préparé quelques documents financiers à l’attention de leurs enfants, et rédigé une lettre blâmant sa femme pour son crime avant de se suicider. Le couple devait partir en vacances en Thailande, une voisine qui venait nourrir le chien a découvert les trois corps.<br>http://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/couple-retrouve-mort-brive-les-autopsies-confirment-l-homicide-suivi-d-un-suicide-974044.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.53393700000004,45.159555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32 - Beata Ewa</name>
+        <description><![CDATA[Novale (Haute-Corse), 8 avril : Beata Ewa Majewska, 43 ans, mère de deux enfants. Étouffée ou étranglée chez elle à Cervioni dans la nuit du 20 au 21 mars. Son mari Stanislaw Majewski l’a étouffée ou étranglée puis a dissimulé son corps à une vingtaine de kilomètres, à Novale d’Alesani. Il a avoué le meurtre en garde à vue, dans le cadre de l’enquête sur la disparition de Beata. Il a été mis en examen pour meurtre avec circonstances aggravantes et dissimulation.Polonaise, elle était arrivée en France en 2012 et parlait très peu le français. Les femmes victimes de violences conjugales sont d’autant plus vulnérables et isolées lorsqu’elles vivent en pays étranger, loin de leurs proches.<br>Le 28 septembre 2018, il a été condamné à 15 ans de prison par la cour d'assises.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1254683464542678&id=1254619207882437<br>Presse : <br>http://france3-regions.francetvinfo.fr/corse/homicide-le-corps-d-une-ressortissante-polonaise-portee-disparue-retrouve-971622.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            9.41405099999997,42.309944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 - Patricia</name>
+        <description><![CDATA[Bras-Panon (Réunion), 6 avril : Patricia Ramalingom, 50 ans, agent d’entretien, mère de 3 enfants adultes. Exécutée dans son ancien domicile conjugal par son mari Maximin Sinédia, qu’elle avait quitté en début d’année. Sous prétexte de lui remettre des documents, il l’avait fait revenir et l’a poignardée avec un couteau de chasse. Patricia Sinédia Ramalingom se savait en danger : depuis début 2016 elle avait porté plainte auprès de la gendarmerie puis de la police, et était en attente d’un logement de la part du Centre Communale d’Action Sociale. La première plainte avait été ignorée par la gendarmerie, sous prétexte que son mari était gravement malade. Pourtant le danger était avéré, Maximin Sinédia avait notamment provoqué un incendie en janvier. <br>Selon l’entourage, Patricia venait de prendre sa retraite et prenait soin d’elle-même. Son fils aîné de 31 ans, handicapé, né d’une précédente union, vivait encore avec elle.<br>Le 31 mai 2018, il a été à 18 ans de prison pour le meurtre de son ex-femme par la cour d'assises de la Réunion.<br>Post FB:<br>https://www.facebook.com/story.php?story_fbid=1254683294542695&id=1254619207882437<br>http://la1ere.francetvinfo.fr/reunion/bras-panon-il-poignarde-mort-son-ex-compagne-347615.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            55.691806,-21.006347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 - Natalie</name>
+        <description><![CDATA[Bidart (Pyrénées-Atlantiques), 4 avril : Natalie Van Put, artisane, 34 ans, mère d’un enfant de 9 ans. Blessée à la tête par son compagnon Alain Pignot, 48 ans, dans le garage où ils travaillaient tous les deux. Il lui a notamment infligé une large plaie à la tête avec un objet contondant, puis s’est suicidé. Laissée pour morte, elle est décédée le lendemain 5 avril à l’hôpital de Bayonne. Alain Pignot avait déjà été condamné pour violences conjugales sur Nathalie le 13 novembre 2014.Leur enfant, qui était à l’école lors du crime, a été pris en charge par ses grands-parents maternels, arrivés d’Espagne.<br>http://www.sudouest.fr/2016/04/07/la-femme-agressee-par-son-compagnon-est-decedee-2323647-4018.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -1.59006199999999,43.439236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 - Hélène</name>
+        <description><![CDATA[Pornichet (Loire-Atlantique), 30 mars : Hélène, 66 ans, atteinte d’un cancer. Abattue chez eux avec une carabine par son mari, 69 ans, retraité. Il s’est suicidé.<br>http://www.ouest-france.fr/pays-de-la-loire/nantes-44000/pornichet-un-couple-retrouve-sans-vie-dans-son-pavillon-4133571]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -2.34057099999995,47.263426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 - Maryvonne</name>
+        <description><![CDATA[Port-d’Envaux (Charente-Maritime), 28 mars : Maryvonne Gaillard, 73 ans, retraitée. Exécutée chez eux avec un fusil de chasse par son mari, René Gaillard, 73 ans, ancien gendarme et chasseur. Elle venait de faire ses valises pour le quitter, après des années de souffrances (violences conjugales ?). Il a prévenu ses proches par téléphone, puis s’est suicidé pour échapper à la justice.<br>http://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/saintes/port-d-envaux-17-le-mari-tue-sa-femme-avant-de-retourner-l-arme-contre-lui-964743.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.679691999999932,45.835125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 - Elodie et Méloé</name>
+        <description><![CDATA[Mont-de-Marsan (Landes), 27 mars : Elodie, 30 ans, et Meloe sa fille de 18 mois. Battues à mort chez eux par le conjoint/père, Guillaume Dautremont, 40 ans. Quelques jours avant, Elodie avait indiqué à sa famille sa peur de lui et son intention de le quitter. Déjà condamné dans une affaire de meurtre, il était sous l’emprise d’amphétamines. Il a aussi tenter de violer et roué de coups une amie qui se trouve entre la vie et la mort à l’hôpital. Il a ensuite frappé sa mère chez elle, qui a appelé la police.<br>Le 13 février 2019, il a été condamnée à 30 ans de prison par la cour d'assises.<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1254681604542864&id=1254619207882437<br>http://www.sudouest.fr/2016/03/27/mont-de-marsan-un-homme-accuse-du-meurtre-de-sa-compagne-et-de-sa-petite-fille-2314126-3452.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -0.499781999999982,43.893485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 - Marie-Claude</name>
+        <description><![CDATA[Le 25 mars à Laroque d’Olmes (Ariège), Marie Claude Denat (63 ans), mère de famille a été abattue chez elle d’un coup de fusil par son mari, Claude Pages (66 ans), un agent d’assurance à la retraite, il était surendetté et soupçonné d’avoir escroqué 200000 € à des personnes âgées. Il s'est ensuite suicidé.<br><br>Post FB : https://www.facebook.com/feminicide/posts/1254681227876235<br><br>http://www.ladepeche.fr/article/2016/03/26/2311996-abat-epouse-coup-fusil-avant-retourner-arme-contre.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.87142800000004,42.96904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 - Sylvie</name>
+        <description><![CDATA[Vivonne (Vienne), 25 mars : Sylvie Bonnelle, 55 ans, formatrice en éducation physique à l’IUFM de Poitiers, mère de deux jeunes adultes. Tuée chez eux par son compagnon, Fernand Weisslinger, 54 ans, médecin au centre de réadaptation de Civray. Il l’a battue, lui a enfoncé le crâne avec un objet contondant, puis l’a étranglée. Il s’est suicidé.<br>http://www.lanouvellerepublique.fr/Vienne/Actualite/Faits-divers-justice/n/Contenus/Articles/2016/03/26/Enquete-ouverte-pour-homicide-le-mystere-2666135]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.258491000000049,46.426291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 - Samantha</name>
+        <description><![CDATA[24 : Sorbiers (Loire), vendredi 25 mars : Samantha Achenza, 29 ans, mère d’un bébé de 18 mois. Assassinée par son conjoint Aurélien Javelle, 30 ans, qu’elle venait de quitter un mois plus tôt. Piégée à leur domicile conjugal. Elle était venue récupérer quelques affaires, croyant qu’il était sorti. Il avait en effet caché sa voiture et s’était caché dans la maison. Il a poignardé Samantha à 66 reprises, avec trois couteaux différents, ayant cassé les deux premiers. Il a inscrit des notes numérotées au marqueur sur les murs, pour commenter le déroulement du massacre. Il a été retrouvé inconscient, intoxiqué d’alcool et de médicaments, à bord de sa voiture accidentée. Leur bébé se trouvait chez sa nourrice.<br>https://www.francebleu.fr/infos/faits-divers-justice/soupconne-d-avoir-tue-sa-femme-de-66-coups-de-couteau-un-detenu-de-la-talaudiere-se-suicide-1479688328]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.449389,45.490467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 - Juana</name>
+        <description><![CDATA[Jeudi 24 mars à Loyettes (Ain), Juana âgée de 85 ans a été tuée chez elle, à coups de fusil par son mari âgé 87 ans. Retrouvé blessé et il a été transporté à l’hôpital.<br>http://www.leprogres.fr/ain/2016/03/24/loyettes-une-femme-de-86-ans-tuee-par-arme-a-feu]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.20338700000002,45.7741339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 - Virginie</name>
+        <description><![CDATA[Rouen (Seine-Maritime), 9 mars : Virginie Gomis-Camara, 35 ans, sans emploi, mère de 3 enfants. Poignardée chez eux par son conjoint Moussa Camara, 42 ans, sans emploi. Leurs deux bébés étaient présents : un garçon de 17 mois et une fille de 4 mois. Une voisine est courageusement intervenue pour prendre soin des enfants et les protéger, jusqu’à l’arrivée des secours qu’elle avait prévenus. Les deux enfants ont été emmenés en observation à l’hôpital, accompagnés par leur grande soeur de 15 ans, fille aînée de la victime née d’une autre union. Moussa Camara était déjà connu de la police pour des faits de violences conjugales.<br><br>Moussa Camara sera jugé, à partir de lundi 27 janvier 2020, par la cour d’assises de Seine-Maritime pour le meurtre de son épouse Virginie. Il plaide l'accident, Virginie aurait "chuté sur le couteau" pendant la dispute 😡 ce qui est exclu par toutes les expertises et la reconstitution des faits.<br>Jeudi 30 janvier 2020, il a été condamné à seulement 15 ans de prison ! La cour d'assises a requalifié les faits en «violences volontaires ayant entraîné la mort sans intention de la donner» ; l'homicide volontaire a été finalement écarté malgré les preuves évidentes 🤬<br>Post FB :<br>https://www.facebook.com/feminicide/posts/1254680091209682<br>Presse :<br>http://www.paris-normandie.fr/actualites/faits-divers/a-rouen-le-mari-suspecte-d-avoir-poignarde-a-mort-sa-femme-DC5271599]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.09997099999998,49.443232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 - Marie-Andrée </name>
+        <description><![CDATA[Le Tampon (Réunion), 8 mars : Marie-Andrée Corré, 50 ans, mère de 3 enfants nés d’une précédente union. Exécutée dans sa voiture, devant chez eux, par son ex-compagnon Jean-Jacques Payet, 56 ans, agent communal, qu’elle allait ou venait de quitter. Il s’est suicidé avec son arme à feu.<br>http://la1ere.francetvinfo.fr/reunion/violence-conjugale-un-homme-tue-son-ex-concubine-et-se-suicide-au-tampon-338981.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            55.5579927,-21.2209911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 - Carine</name>
+        <description><![CDATA[Alès (Gard), 27 février : Carine, 25 ans. Mère d’un enfant de 3 ans qui a assisté au carnage. Elle a été suivie, piégée et exécutée dans sa voiture par son ex-conjoint, policier. Il s’est enfui avec l’enfant avant de se rendre. Il a utilisé son arme de service : l’état d’urgence censé renforcer la lutte contre le terrorisme islamiste facilite le terrorisme intime exercé par certains représentants de la force publique.<br>Normalement jugé le 10 et 11 octobre 2019, le procès a été reporté !<br><br>Lundi 5 octobre 2020, le procès de l'assassin de Carine s'ouvre devant la cour d'assises de Nîmes et va durer 4 jours. Il a été condamné à la réclusion criminelle à perpétuité, soit 30 ans avec une période de sûreté de 22 ans ainsi que le retrait définitif de l'autorité parentale. Les jurés sont allés au-delà des réquisitions du parquet.<br><br>Lundi 15 juin 2021, le procès en appel de Jean-Régis Julien s'est ouvert devant la cour d'assises du Vaucluse. Il a été condamné jeudi 18 juin à une peine de trente ans de réclusion criminelle, dont 20 ans de sûreté. Une peine réduite 😡<br><br>Post FB<br>https://www.facebook.com/feminicide/posts/1254679087876449<br><br>Presse :<br>https://amp.lefigaro.fr/actualite-france/2016/02/27/01016-20160227ARTFIG00147-ales-un-policier-tue-son-ex-compagne-avec-son-arme-de-service.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.08335199999999,44.127204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 - Jocelyne</name>
+        <description><![CDATA[Le Port (Réunion), le 26 février : Jocelyne Bègue, 56 ans, retraitée, mère de famille. Poignardée chez eux par son mari Alain Payet, ex-policier à la retraite qu’elle voulait peut-être quitter. En 1996 il avait été condamné à 15 ans de prison pour viol sur mineur.<br>Le 1er juin 2018, il a été condamné 30 ans de prison par la cour d'assises de La Réunion.<br><br>Le meurtrier ayant fait appel de sa condamnation, il sera à nouveau jugé le 27 et 28 mai 2020.<br><br>Post FB : <br>https://www.facebook.com/story.php?story_fbid=1254677881209903&id=1254619207882437<br>http://www.linfo.re/la-reunion/faits-divers/688114-coups-de-couteau-mortel-au-port-deferement-du-meurtrier-presume-cet-apres-midi]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            55.295055,-20.9456859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 - Nathalie </name>
+        <description><![CDATA[Goetzenbruck (Moselle), 25 février : Nathalie Stein, 46 ans, aide-soignante, mère d’un étudiant âgé de 19 ans. Egorgée chez eux par son mari Serge Eschenbrenner qui s’est suicidé. Des tensions existaient déjà dans le couple (violences conjugales ?)<br>http://www.republicain-lorrain.fr/edition-de-sarreguemines-bitche/2016/02/26/il-egorge-sa-femme-et-se-suicide-avec-un-couteau]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            7.38157899999999,48.976344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 - Tatiana, Mélora et Loan</name>
+        <description><![CDATA[Neuville-aux-Bois (Loiret), 14 février : Tatiana, 27 ans, et deux enfants, Mélora, 10 mois et Loan, 6 ans. Egorgés chez eux par le mari et père, Rémy Taudin, 26 ans. Il est resté actif 24 heures, sur Facebook notamment, avant de se suicider.<br>http://www.lamontagne.fr/france-monde/actualites/2016/02/16/drame-familial-a-neuville-aux-bois-un-couple-et-leurs-deux-enfants-retrouves-morts_11785911.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            2.05372499999999,48.069175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 - Mireille</name>
+        <description><![CDATA[Reuilly (Eure), 14 février : Mireille, 84 ans. Blessée d’une balle à la tête, chez eux, elle est décédée le soir suivant à l’hôpital. Son mari s’est suicidé après avoir tirée sur elle.<br>http://www.paris-normandie.fr/region/drame-de-la-fin-de-vie-dans-l-eure--un-octogenaire-tue-sa-femme-malade-et-se-suicide-YD5115166#.V5vgRLiLS70]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            1.22334999999998,49.078642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 - Anne-Marie</name>
+        <description><![CDATA[Nîmes (Gard) - 13 février : Anne-Marie Varenas (57 ans) morte sous les coups de son amant José Gonzalès-Hernandez (50 ans). Il l'a cachée dans un clic-clac dans un appartement qu'il s'était fait prêté. C'est le locataire en titre de l'appartement et un ami qui avaient fait la macabre découverte. Le meurtrier présumé a été arrêté vers Fréjus après une cavale de 4 mois. Selon une source proche de l’enquête, il aurait reconnu les faits, tout en essayant de les minimiser. Il entretenait une relation sentimentale avec la victime.<br><br>Mercredi 11 décembre 2019, le procès du meurtrier s'ouvre devant la cour d'assises du Gard, connu pour de multiples faits de vols et violences, il est poursuivi pour homicide volontaire.<br>Au cours de ce procès aux assises, nous avons appris que le meurtrier est également poursuivi pour le viol d'une autre femme 2 semaines avant le meurtre d'Anne-Marie. Il sera jugé pour cette seconde affaire aux assises au mois de mars 2020 🤬🤬🤬🤬<br>Il a été à seulement 20 ans de prison malgré les 30 ans requis par le parquet 🤬 Au mois de mars 2020, il sera à nouveau jugé aux assises du Gard pour le viol d'une autre femme 2 semaines avant le meurtre d'Anne-Marie !<br>Post FB :<br>https://www.facebook.com/feminicide/posts/1254674674543557<br><br>https://www.objectifgard.com/2016/05/19/nimes-femme-retrouvee-tuee-dans-un-clic-clac-un-homme-interpelle-sur-la-cote-dazur/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.3474655,43.827618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 - Sonia</name>
+        <description><![CDATA[Saint-Raphael (Var), 12 février : Sonia Quentin, 42 ans, vendeuse. Exécutée par balles dans la bijouterie où elle travaillait, par son ex-mari qui s’est suicidé. Elle avait porté plainte contre X le jour-même.<br>http://www.varmatin.com/faits-divers/meurtre-dans-une-bijouterie-a-st-raphael-il-tue-celle-qui-la-quitte-puis-se-suicide-22999]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.76837,43.42519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 - Béatrix</name>
+        <description><![CDATA[Marseille 16e (Bouches-du-Rhône), 9 février : Béatrix 25 ans aurait été tuée par strangulation par son compagnon. Mère de jumeaux de 8 mois; elle s'était séparée depuis quelques semaines - Dépôt de plainte le matin, il la tue le soir.<br>http://www.laprovence.com/actu/region-en-direct/3795011/.html<br>Post FB :<br>https://www.facebook.com/story.php?story_fbid=1254672587877099&id=1254619207882437]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.30502300000001,43.3753856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 - Fabienne</name>
+        <description><![CDATA[Saint-Pierre-d’Alvey (Savoie), 7 février : Fabienne Zeender, 53 ans, gestionnaire de patrimoine, mère de deux adolescentes. Violée et étranglée chez ses beaux-parents par son mari Olivier Bizolon, 45 ans, qui ne supportait pas la séparation. Après s’être débarrassé du corps, il a été retrouvé accidenté au volant d’une Porsche. Le couple avait été candidat aux élections cantonales en 2015.<br><br>Mercredi 18 novembre 2020, presque 5 ans après les faits, le meurtrier de Fabienne esr jugé devant la cour d'assises de la Savoie. Il encourt la réclusion criminelle à perpétuité.<br><br>Au terme de ce procès, Olivier Bizolon a été condamné à 25 ans de prison pour l'assassinat de Fabienne.<br><br>http://www.ledauphine.com/isere-nord/2016/02/08/novalaise-vezeronce-curtin-le-corps-d-une-femme-retrouvee-enroulee-dans-un-tapis<br><br>post FB :<br>https://www.facebook.com/feminicide/posts/1254670241210667]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.74141299999997,45.631143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 - Sylvianne</name>
+        <description><![CDATA[Récicourt (Meuse), 1er février : Sylvianne Déchery, 57 ans, travaillant à l’ADMR, mère d’enfants adultes. Exécutée chez eux d’un coup de fusil, par son compagnon Alain Champagne, président d’une société de chasse, qu’elle voulait quitter. Il s’est suicidé.<br>http://www.estrepublicain.fr/edition-de-verdun/2016/02/02/deux-morts-par-balle-en-meuse-la-these-du-drame-passionnel]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.15768200000002,49.140861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 - Virginie</name>
+        <description><![CDATA[Lundi 1er février à Avignon (Vaucluse), Virginie Baiera (33 ans) a été poignardée dans le dos, chez elle, de 16 coups de couteau dont 2 mortels, par son compagnon Michaël Pardo (33 ans). Elle était coiffeuse à domicile et venait de lui annoncer qu'elle le quittait. Ils étaient parents d’un enfant de 12 ans présent au moment des faits. Le type l'a emmené chez un proche avant de prévenir la police.<br>Le 18 avril 2018, il a été condamné à 20 ans de prison pour le meurtre de Virginie par la cour d'assises du Vaucluse.<br>Il a été mis en examen pour "homicide volontaire" et écroué.<br>http://www.laprovence.com/article/actualites/3786908/avignon-michael-pardo-mis-en-examen-pour-meurtre.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.80552799999998,43.949317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 - Léa</name>
+        <description><![CDATA[Dijon (Côte d’Or), 29 janvier – Léa Gougeon, 18 ans, étudiante a été étouffée chez elle par son compagnon jaloux, Aymeric Quillet. Il s’est ensuite suicidé.<br>http://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/dijon-deux-etudiants-ont-ete-retrouves-morts-piste-du-crime-passionnel-est-privilegiee-916075.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            5.04147999999998,47.322047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 - Maryline</name>
+        <description><![CDATA[Livry (Nièvre), 25 janvier – Maryline, 22 ans, enceinte de 5 mois et mère d’une fille de 3 ans. Tuée chez elle d’une balle dans la tête par un tir "accidentel" de son conjoint, qui voulait "tuer des rats."<br>http://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/nievre-une-femme-enceinte-decede-apres-avoir-ete-touchee-par-un-coup-de-feu-913273.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.07445389999998,46.775136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 - Chantal</name>
+        <description><![CDATA[Civaux (Vienne), 20 janvier – Chantal Delaunay, 45 ans, mère de famille. Etranglée chez elle par un ex-petit ami, Kevin Lefebre.<br>Il avait dans un premier temps évoqué "le jeu sexuel qui aurait mal tourné" avant de finalement avoir tué Chantal et maquillé lors du deuxième jour de son procès. Décrit comme un menteur et manipulateur par ses proches, il a été jusqu'à menacer son propre frère en plein procés.<br><br>Le 25 janvier 2019, il a été condamné à 27 ans de prison pour le meurtre de Chantal.<br><br>Post FB : https://www.facebook.com/feminicide/posts/1254669037877454<br><br>http://www.lanouvellerepublique.fr/Vienne/Actualite/Faits-divers-justice/n/Contenus/Articles/2016/01/26/Il-a-serre-jusqu-a-ce-qu-elle-ne-bouge-plus-2603628]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            0.664865999999961,46.444209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 - Elvira</name>
+        <description><![CDATA[Fameck (Moselle), 17 janvier – Elvira Adrovic, 36 ans, mère de 5 enfants âgés de 7 à 13 ans. Poignardée chez eux par son mari Sudan (46 ans) en état d’ébriété, qui a abandonné sur place ses enfants présents dans l’appartement.<br>Le 22 février 2019, il a été condamné à 18 ans de réclusion par la cour d'assises de la Moselle.<br>http://www.republicain-lorrain.fr/edition-de-thionville-hayange/2016/01/18/les-5-enfants-places-et-le-mari-prolonge ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            6.10259189999999,49.304436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 - Marina</name>
+        <description><![CDATA[Béziers (Hérault), 17 janvier – Marina, 24 ans, mère d’une fille de 2 ans. Poignardée chez eux de 14 coups de couteau, par son conjoint qu’elle allait quitter. Il l’a laissé se vider de son sang jusqu’à l’arrivée des secours, qu’elle avait appelés.<br>http://www.midilibre.fr/2016/01/19/une-jeune-femme-tuee-de-plusieurs-coups-de-couteau,1272465.php]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            3.21579500000007,43.344233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 - Géraldine</name>
+        <description><![CDATA[Sainte Marie (La Réunion), 21 janvier – Géraldine Nauche, 38 ans, mère de famille. Exécutée sur un parking devant sa mère et son fils, par son mari Didier Nauche (44 ans) qu’elle venait de quitter. Il l’a percutée avec son 4×4 puis l’a poignardée avant de s’enfuir.<br>Le 24 avril 2018, il est condamné à 25 ans de prison par la cour d'assises de La Réunion.<br> http://www.linfo.re/la-reunion/faits-divers/685528-sainte-marie-la-garde-a-vue-de-didier-nauche-prolongee]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            55.5270017,-20.8993995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 - Ingrid</name>
+        <description><![CDATA[Villeurbanne (Rhône), 8 janvier – Ingrid Gonfo, 23 ans, Réunionaise. Massacrée de coups de poing et de 120 coups de couteaux par son compagnon Ludovic Mithra (25 ans), ex-champion de kick-boxing, qui a d’abord prétendu s’inquiéter de sa disparition.<br>Le 30 octobre 2018, il a été condamné à 20 ans de prison par la cour d'assises.<br>http://la1ere.francetvinfo.fr/reunion/2016/01/12/villeurbanne-ludovic-mithra-reconnait-avoir-tue-ingrid-gonfo-de-120-coups-de-couteau-321325.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.89017089999993,45.771944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 - Yvette</name>
+        <description><![CDATA[Garons (Gard), 6 janvier –  Yvette Vincent, 57 ans, aide-ménagère a été piégée et exécutée dans la rue, d’une balle dans la tête par son ex-mari, Léonard Emulo, qui s’est suicidé.<br>http://www.midilibre.fr/2016/01/06/garons-un-homme-tire-sur-une-femme-puis-se-suicide,1266124.php ]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            4.42454499999997,43.770059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 - Heitiaré</name>
+        <description><![CDATA[Taravao (Tahiti), 3 janvier – Heitiaré, 26 ans, mère d’un enfant de 3 ans. Poignardée onze fois, chez elle, par son mari (34 ans) qui s’est immolé par le feu. Il avait d’abord envoyé leur enfant chez sa sœur. <br>Il a succombé à ses blessures 2 jours plus tard, il n'y aura donc pas de procès<br>http://la1ere.francetvinfo.fr/polynesie/tahiti/taravao/drame-taravao-11-coups-de-couteau-decouverts-sur-la-victime-320043.html]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -149.3081197,-17.72332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>MOBILISATIONS</name>
+      <Placemark>
+        <name>21 juin 2019 - MOBILISATION SAVANNAH - 37ème victime</name>
+        <description><![CDATA["Le procès du meurtrier de Savannah Torrenti débutera le 21 juin prochain à Ajaccio. Dans un post Facebook l'Association Femmes Solidaires Corse appelle les citoyens à se rassembler le lundi 24 juin à partir de 13h devant le tribunal en soutient à la famille de la jeune femme battue à mort par son compagnon le 1er mai 2016. "<br>https://www.corsenetinfos.corsica/Violences-conjugales-Appel-au-rassemblement-a-Ajaccio-pour-l-ouverture-du-proces-du-meurtrier-de-Savannah_a41621.html?fbclid=IwAR3fw08Zk3-nIza8FmUlNJ4z-msxpgSJDJ4bhxY4DNG-Wj3CcOom1BvdvCg]]></description>
+        <styleUrl>#icon-1502-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            8.73863499999993,41.919229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAGNOTTE POUR NARUMI - 120ème victime</name>
+        <description><![CDATA["La directrice du centre de linguistique appliquée de Besançon (Doubs) où étudiait la jeune étudiante japonaise lance une cagnotte en ligne. Objectif : récolter de quoi financer les billets d'avion entre le Japon et Besançon pour la famille de la jeune femme."<br>https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/besancon-parents-narumi-kurosaki-doivent-etre-presents-au-proces-cla-lance-cagnotte-aider-1663191.html?fbclid=IwAR2HZzTb0YVyINZfjuevABPY2dgN01AGWs4yJapyZeDdIZTVYzOcLy-hTA8]]></description>
+        <styleUrl>#icon-1592-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            6.0149298,47.2344355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CHIFFRES 2016</name>
+      <Placemark>
+        <name>CHIFFRES 2016</name>
+        <description><![CDATA[[130]<br><br>FÉMINICIDES par (ex)compagnons <br>- 132 femmes (+ 2 mères de victime) dont 100 assassinées chez elles <br>- 86 étaient mères, dont 8 tuées avec 12 enfants (4 doubles infanticides de mineurs + 2 mineures + 1 majeure + 1 in utero - 6 filles et 6 garçons dont celui in utero) <br>- 170 orphelin-e-s dont 25 enfants témoins du crime.<br>Ce chiffre est à minima parce que les infos ne sont pas toujours données par les médias et parfois pas ou difficilement accessibles par le net (recherches trop longues)<br>- 47 suicidés<br>-> Féminicides par (ex)compagnes : 1<br><br>INFANTICIDES<br>- 43 enfants ont été tué-e-s (dont 12 en même temps que leurs 8 mères)<br>24 par 19 pères (5 doubles infanticides)<br>4 par 4 beau-pères<br>11 par 9 mères (2 doubles infanticides)<br>1 par 1 belle-mère<br>3 par le couple parental ( 3 M+BP)<br>- 10 suicidés (que des pères) qui ont "suicidé" avec eux 14 enfants, fuyant ainsi la justice<br>- 8 tentatives de suicide (7 mères et 1 père), toutes les mères feront donc face à la justice dans des procès retentissants et HYPER médiatisés, ce qui n'est absolument pas le cas des infanticides par le père<br>HOMICIDES par (ex)compagnEs <br>- 22 dont 12 (au moins) en possible "légitime défense"<br>- 2 suicidées<br><br>- Féminicide non conjugal sur une femme trasngenre : 2 <br><br>**************************************************<br>VIDEO 2016<br><br>https://www.youtube.com/watch?v=cKeaAH8CMxY<br><br>LES CHIFFRES OFFICIELS 2016 :<br><br>https://www.egalite-femmes-hommes.gouv.fr/wp-content/uploads/2017/09/Etude-nationale-sur-les-morts-violentes-au-sein-du-couple-annee-2016.pdf<br><br>*******************************************************************************]]></description>
+        <styleUrl>#icon-1541-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            2.31675389999998,48.8704156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
