@@ -1,0 +1,150 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    overflow-x: hidden;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.logo {
+    font-size: 4vw;
+    margin-left: 2vw;
+}
+
+
+/* nav */
+
+.navSuite {
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    position: fixed;
+    right: 0;
+    top: auto;
+    height: 100vh;
+}
+
+.navSuite ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.navSuite ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.year {
+    writing-mode: vertical-lr;
+    text-orientation: left;
+    color: white;
+    position: fixed;
+    height: 100vh;
+    display: flex;
+    margin-left: 1vw;
+}
+
+.year p {
+    margin: auto;
+}
+
+
+/* Fin nav */
+
+main {
+    max-width: 80vw;
+    margin: auto;
+    top: 0;
+}
+
+
+/* accueil */
+
+.intro {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.intro img {
+    width: 60vw;
+    transform: translate(-50%, -50%);
+    margin-left: 50%;
+    margin-top: 35%;
+}
+
+.title {
+    position: absolute;
+    top: 52%;
+    left: 5%;
+}
+
+h1 {
+    color: white;
+    z-index: 10;
+    font-size: 7vw;
+}
+
+.stroke-text {
+    color: white;
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    font-size: 7vw;
+    top: 30%;
+    left: 1.5%;
+}
+
+.introCircle {
+    position: absolute;
+    width: 100vw;
+    margin: auto;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+
+/* intro texte */
+
+
+/* 86 */
+
+.counter {
+    font-size: 5vw;
+}
+
+
+/* graph-year */
+
+.axe {
+    stroke: white;
+    stroke-width: 5;
+}
+
+#arrow {
+    fill: white;
+}
+
+
+/* carte */
+
+#myMap {
+    height: 80vh;
+    max-width: 80vw;
+    margin: auto;
+}
