@@ -69,7 +69,7 @@ L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
     ext: 'png'
 }).addTo(mapObject);
 
-var marker = L.marker([data16.coordinates]).addTo(mapObject);
+// var marker = L.marker([data16.coordinates]).addTo(mapObject);
 
 // //48.837242683910375, 2.584856744517518
 // var circle = L.circle([48.83687, 2.58394], {
@@ -88,3 +88,41 @@ function ArrayAvg(myArray) {
     }
     return summ / ArrayLen;
 }
+
+
+
+
+// lecteur vidéo
+
+const media = document.querySelector("video");
+const btn = document.querySelector("button");
+const volume = document.querySelector("input");
+const progress = document.querySelector("progress");
+
+function playPause(e) {
+    if (media.paused == false) {
+        media.pause()
+    } else {
+        media.play()
+    }
+}
+
+btn.addEventListener("click", playPause);
+media.addEventListener("click", playPause);
+
+media.volume = 0.7
+volume.value = 0.7
+volume.addEventListener("input", function() {
+    media.volume = volume.value
+})
+
+media.addEventListener("timeupdate", timeProgress)
+
+function timeProgress() {
+    progress.value = (media.currentTime * 100 / media.duration);
+}
+progress.addEventListener('click', (event) => {
+    console.log(event.offsetX)
+    media.currentTime = event.offsetX;
+    progress.value = (media.currentTime * 100 / media.duration)
+});

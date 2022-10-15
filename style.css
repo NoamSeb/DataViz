@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     background-color: black;
@@ -121,15 +125,55 @@ h1 {
 
 /* intro texte */
 
+.feminicide-pourquoi h2 {
+    margin-left: 20%;
+}
+
 
 /* 86 */
 
 .counter {
-    font-size: 5vw;
+    font-size: 10vw;
+    transform: translate(-50%, -50%);
+    margin-left: 50vw;
+    margin-top: 50vh;
+    position: relative;
+}
+
+.Moyenne p {
+    margin: auto;
+    transform: translate(-50%, -50%);
+    margin-left: 50%;
+    width: fit-content;
+}
+
+.stroke-text-avr {
+    color: white;
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    font-size: 10vw;
+    top: 5%;
+    left: 1.5%;
 }
 
 
 /* graph-year */
+
+.graph {
+    display: flex;
+    margin: auto;
+    margin-top: 50vh;
+}
+
+.graph svg {
+    width: 50%;
+}
+
+.graph p {
+    width: 50%;
+    font-size: 1vw;
+}
 
 .axe {
     stroke: white;
@@ -147,4 +191,67 @@ h1 {
     height: 80vh;
     max-width: 80vw;
     margin: auto;
+}
+
+
+/* video */
+
+#prevention {
+    margin: auto;
+}
+
+.phoneNumber {
+    font-size: 10vw;
+    transform: translate(-50%, -50%);
+    margin-left: 50vw;
+    margin-top: 50vh;
+    position: relative;
+}
+
+.stroke-text-phone {
+    color: white;
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    font-size: 10vw;
+    top: 5%;
+    left: 1.5%;
+}
+
+#prevention p {
+    margin: auto;
+    width: fit-content;
+}
+
+.lecteurVid {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lecteurVid video {
+    border: 1px solid white;
+    margin: 2vw;
+    margin-top: 50vh;
+}
+
+progress {
+    width: 800px;
+    margin: 1vw;
+}
+
+.boutonLecteur {
+    font-size: 1.5vw;
+}
+
+progress[value] {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 10px;
+}
+
+progress[value]::-webkit-progress-bar {
+    background-color: "FFE589";
 }
