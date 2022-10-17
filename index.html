@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="féminicide, femme">
+    <meta name="description" content="Ce site est un projet étudiant qui répertorie et met en visuel des données concernant les féminicide qui ont lieu en France depuis 2016. Vous trouverez aussi des Informations a propos de ce qu'est le féminicide ainsi qu'un numéro national vous premettant d'alerter les autorités compétente.">
+    <meta name="twitter:card" content="summary"></meta>
+    <link rel="canonical" href="http://127.0.0.1:5500/index.html">
     <title>Féminicide</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,13 +32,13 @@
         <div class="navSuite">
             <ul>
                 <li>
-                    <a href="#info">Informations</a>
+                    <a href="#info" class="toInfo">Informations</a>
                 </li>
                 <li>
-                    <a href="#prevention">Prévention</a>
+                    <a href="#prevention" class="toPrevention">Prévention</a>
                 </li>
                 <li>
-                    <a href="">Hommage</a>
+                    <a href="#hommage" class="toHommage">Hommage</a>
                 </li>
             </ul>
         </div>
@@ -44,26 +48,26 @@
     </nav>
     <main>
         <div class="intro">
-            <img src="medias/feminicide.jpg" alt="">
+            <img src="medias/feminicide.jpg" alt=" ">
             <svg width="120vw" height="99vmin" viewbox="-50 -300 2000 600" class="introCircle">
                 <circle cx="2000" cy="-400" r="120" stroke="none" stroke-width="null" fill="#FFE589" />
             </svg>
 
             <div class="title">
                 <h1 class=>FÉMINICIDE</h1>
-                <span class="stroke-text" aria-label="none">FÉMINICIDE</span>
+                <span class="strokeTextTitle" aria-label="none">FÉMINICIDE</span>
             </div>
         </div>
 
         <div class="intro-text" id="info">
             <div class="feminicide-def">
-                <h2>qu'est-ce que le féminicide ?</h2>
+                <h2>Qu'est-ce que le féminicide ?</h2>
                 <p>Le féminicide se définit par le meurtre d’une ou plusieurs filles / femmes pour la raison qu’elles sont des personnes de sexe féminin. Cette nuance est très importante car l’assassinat d’une femme n’est qualifié de féminicide que lorsque
                     le motif est lié à son genre. Ce qui signifie qu’un homicide involontaire ou tout autre mobile ne constituerait pas un féminicide. Ce terme a commencé à apparaître en 2014 dans le monde du droit français.
                 </p>
             </div>
             <div class="feminicide-pourquoi">
-                <h2>pourquoi faut-il en parler ?</h2>
+                <h2>Pourquoi faut-il en parler ?</h2>
                 <p>Alors que le nombre de féminicide a nettement augmenté durant la crise du COVID-19 et continue de s’accroître de jour en jour. Nous ne pouvons plus rester muet face à cette situation et c’est pourquoi nous avons crée ce site : afin de
                     sensibiliser le monde et mettre un terme à l’ignorance sur le féminicide en y exposant plusieurs statistiques.
                 </p>
@@ -73,7 +77,7 @@
             <div class="counter-container">
                 <div class="counter" data-target="86">
                     86
-                    <span class="stroke-text-avr" aria-label="none">86</span>
+                    <span class="strokeTextNumber" aria-label="none">86</span>
                 </div>
 
                 <p>Féminicide en moyenne par an</p>
@@ -113,13 +117,15 @@
         <div id="prevention">
             <div class="phoneNumber">
                 3919
-                <span class="stroke-text-phone" aria-label="none">3919</span>
+                <span class="strokeTextNumber" aria-label="none">3919</span>
             </div>
             <p>Numéro d'appel pour les femmes victimes de violences</p>
         </div>
 
         <div class="lecteurVid">
-            <video src="medias/Emprise et féminicide quand la domination psychologique dans le couple peut tuer.mp4" width="800" height="450"></video>
+            <video src="medias/Emprise et féminicide quand la domination psychologique dans le couple peut tuer.mp4" width="800" height="450" alt="Vidéo de témoigages de femme et de spécialiste en féminicide par Le Monde">
+                <div class="pauseDiv">‖</div>
+            </video>
             <progress max="100" value="0" background-color="yellow"></progress>
 
             <div class="boutonLecteur">
@@ -128,6 +134,30 @@
                     Volume : <input id="volume" type="range" min="0" max="1" step="0.1" value="1">
                 </label>
             </div>
+        </div>
+
+        <div class="hommage" id="hommage">
+            <img src="" alt=" ">
+            <svg width="120vw" height="99vmin" viewbox="-50 -300 2000 600" class="introCircle">
+                <circle cx="2000" cy="-400" r="120" stroke="none" stroke-width="null" fill="#FFE589" />
+            </svg>
+
+            <div class="titleHommage">
+                <h2 class=>HOMMAGE</h2>
+                <span class="strokeTextTitle" aria-label="none">HOMMAGE</span>
+            </div>
+        </div>
+
+        <div id="nuage">
+            <div class="annee" id="2016">2016</div>
+            <div class="annee" id="2017">2017</div>
+            <div class="annee" id="2018">2018</div>
+            <div class="annee" id="2019">2019</div>
+            <div class="annee" id="2020">2020</div>
+            <div class="annee" id="2021">2021</div>
+            <div class="annee" id="2022">2022</div>
+        </div>
+
         </div>
     </main>
 

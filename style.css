@@ -30,7 +30,7 @@ p {
 }
 
 
-/* nav */
+/* style de la barre de navigation */
 
 .navSuite {
     writing-mode: vertical-rl;
@@ -52,6 +52,29 @@ p {
     text-decoration: none;
 }
 
+.navSuite ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.toInfo {
+    text-decoration: underline;
+    text-decoration-color: #FFE589;
+}
+
+.toPrevention {
+    text-decoration: underline;
+    text-decoration-color: #FFE589;
+}
+
+.toHommage {
+    text-decoration: underline;
+    text-decoration-color: #FFE589;
+}
+
+
+/* style du "2022" */
+
 .year {
     writing-mode: vertical-lr;
     text-orientation: left;
@@ -65,9 +88,6 @@ p {
 .year p {
     margin: auto;
 }
-
-
-/* Fin nav */
 
 main {
     max-width: 80vw;
@@ -103,7 +123,7 @@ h1 {
     font-size: 7vw;
 }
 
-.stroke-text {
+.strokeTextTitle {
     color: white;
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: transparent;
@@ -126,7 +146,7 @@ h1 {
 /* intro texte */
 
 .feminicide-pourquoi h2 {
-    margin-left: 20%;
+    margin-left: 40vw;
 }
 
 
@@ -147,7 +167,7 @@ h1 {
     width: fit-content;
 }
 
-.stroke-text-avr {
+.strokeTextNumber {
     color: white;
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: transparent;
@@ -167,7 +187,7 @@ h1 {
 }
 
 .graph svg {
-    width: 50%;
+    width: 100%;
 }
 
 .graph p {
@@ -191,6 +211,7 @@ h1 {
     height: 80vh;
     max-width: 80vw;
     margin: auto;
+    border: 1px solid white;
 }
 
 
@@ -206,16 +227,6 @@ h1 {
     margin-left: 50vw;
     margin-top: 50vh;
     position: relative;
-}
-
-.stroke-text-phone {
-    color: white;
-    -webkit-text-stroke: 1px white;
-    -webkit-text-fill-color: transparent;
-    position: absolute;
-    font-size: 10vw;
-    top: 5%;
-    left: 1.5%;
 }
 
 #prevention p {
@@ -237,6 +248,13 @@ h1 {
     margin-top: 50vh;
 }
 
+.pauseDiv {
+    background-color: rgba(105, 105, 105, 0.5);
+    color: white;
+    font-size: 2vw;
+    display: none;
+}
+
 progress {
     width: 800px;
     margin: 1vw;
@@ -254,4 +272,29 @@ progress[value] {
 
 progress[value]::-webkit-progress-bar {
     background-color: "FFE589";
+}
+
+
+/* hommage */
+
+.titleHommage {
+    position: absolute;
+    top: 52%;
+    left: 5%;
+}
+
+
+/* nuage annee */
+
+.annee {
+    cursor: pointer;
+    font-size: 3rem;
+}
+
+.prenom {
+    display: none;
+}
+
+#nuage {
+    max-height: 500px;
 }
