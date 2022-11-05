@@ -9,6 +9,7 @@
     <meta name="description" content="Ce site est un projet étudiant qui répertorie et met en visuel des données concernant les féminicide qui ont lieu en France depuis 2016. Vous trouverez aussi des Informations a propos de ce qu'est le féminicide ainsi qu'un numéro national vous premettant d'alerter les autorités compétente.">
     <meta name="twitter:card" content="summary"></meta>
     <link rel="canonical" href="http://127.0.0.1:5500/index.html">
+    <link rel="favicon" href="medias/logo_FE.svg">
     <title>Féminicide</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,15 +20,17 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
 
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js" integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s=" crossorigin=""></script>
 
     <script src="d3.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 </head>
 
 <body>
     <nav>
-        <div class="logo">
-            FE
+        <div class="logo" id="homePage">
+            <img src="medias/logo_FE.svg" alt="">
         </div>
         <div class="navSuite">
             <ul>
@@ -46,12 +49,10 @@
             <p>2022</p>
         </div>
     </nav>
+    <a href="#homePage"><img src="medias/goBackHome.svg" alt="Retour à l'accueil" class="backHome" data-aos="fade-in" data-aos-delay="1"></a>
     <main>
         <div class="intro">
             <img src="medias/feminicide.jpg" alt=" ">
-            <svg width="120vw" height="99vmin" viewbox="-50 -300 2000 600" class="introCircle">
-                <circle cx="2000" cy="-400" r="120" stroke="none" stroke-width="null" fill="#FFE589" />
-            </svg>
 
             <div class="title">
                 <h1 class=>FÉMINICIDE</h1>
@@ -60,32 +61,34 @@
         </div>
 
         <div class="intro-text" id="info">
-            <div class="feminicide-def">
-                <h2>Qu'est-ce que le féminicide ?</h2>
-                <p>Le féminicide se définit par le meurtre d’une ou plusieurs filles / femmes pour la raison qu’elles sont des personnes de sexe féminin. Cette nuance est très importante car l’assassinat d’une femme n’est qualifié de féminicide que lorsque
+            <div class="feminicide-def" data-aos="fade-up" data-aos-delay="1">
+                <h2 class="reveal-2">qu'est-ce que le féminicide ?</h2>
+                <p class="reveal-3">Le féminicide se définit par le meurtre d’une ou plusieurs filles / femmes pour la raison qu’elles sont des personnes de sexe féminin. Cette nuance est très importante car l’assassinat d’une femme n’est qualifié de féminicide que lorsque
                     le motif est lié à son genre. Ce qui signifie qu’un homicide involontaire ou tout autre mobile ne constituerait pas un féminicide. Ce terme a commencé à apparaître en 2014 dans le monde du droit français.
                 </p>
             </div>
-            <div class="feminicide-pourquoi">
-                <h2>Pourquoi faut-il en parler ?</h2>
-                <p>Alors que le nombre de féminicide a nettement augmenté durant la crise du COVID-19 et continue de s’accroître de jour en jour. Nous ne pouvons plus rester muet face à cette situation et c’est pourquoi nous avons crée ce site : afin de
+            <div class="feminicide-pourquoi" data-aos="fade-up" data-aos-delay="1">
+                <h2 class="reveal-2">pourquoi faut-il en parler ?</h2>
+                <p class="reveal-3">Alors que le nombre de féminicide a nettement augmenté durant la crise du COVID-19 et continue de s’accroître de jour en jour. Nous ne pouvons plus rester muet face à cette situation et c’est pourquoi nous avons crée ce site : afin de
                     sensibiliser le monde et mettre un terme à l’ignorance sur le féminicide en y exposant plusieurs statistiques.
                 </p>
             </div>
         </div>
-        <div class="Moyenne">
+        <div class="Moyenne" data-aos="fade-up" data-aos-delay="1">
             <div class="counter-container">
                 <div class="counter" data-target="86">
-                    86
-                    <span class="strokeTextNumber" aria-label="none">86</span>
+                    0
+                    <span class="strokeTextAvr" aria-label="none"></span>
                 </div>
 
-                <p>Féminicide en moyenne par an</p>
+                <p class="text-counter">Féminicide en moyenne par an depuis 2016</p>
             </div>
         </div>
 
-        <div class="graph">
-            <svg width="99vmin" height="99vmin" viewbox="-50 -300 1100 600">
+        <div class="graphTitle">
+            <h3 data-aos="fade-up" data-aos-delay="1">Graphique montrant l'évolution du nombre de cas de féminicide en France de janvier 2016 à octobre 2022</h3>
+            <div class="graph" data-aos="fade-up" data-aos-delay="1">
+                <svg width="99vmin" height="99vmin" viewbox="-50 -300 900 777" data-aos="fade-up" data-aos-delay="1">
                 <defs>
                     <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3" markerHeight="3"
                         orient="auto">
@@ -101,32 +104,35 @@
                 <line class="axe" x1=0 y1=0 x2=700 y2=0 marker-end="url(#arrow)"></line>
                 <line class="axe" x1=0 y1=0 x2=0 y2=-300 marker-end="url(#arrow)"></line>
             </svg>
-            <p>Alors que le féminicide ne comptait que 39 victimes en 2016, on observe une effrayante hausse du nombre de cas en 2017 atteignant 144 femmes.<br>En 2019, on atteint un pic de 157 victimes, dont les mobiles sont souvent liés à des disputes
-                conjugales et des séparations.<br>Bien que le nombre baisse, ces violences ne cesseront pas en 2020, c’est d’ailleurs cette année qui mettra en lumière les violences conjugales à domicile, pendant le confinement. On comptera 104 femmes
-                décédées…
-                <br> A été recensé en 2021, 114 féminicides, comme pour les années précédentes, les disputes et les séparations non acceptées sont les causes du passage à l’acte.
-                <br> Enfin, depuis le début de 2022 jusque septembre, le fléau ne s’arrête pas et on comptera 86 femmes décédées. Néanmoins les cas de féminicide ayant légèrement diminués, 2022 sera peut-être l’année qui marquera la baisse de ce cauchemar.
-            </p>
+                <p data-aos="fade-up" data-aos-delay="1">Alors que le féminicide ne comptait que 39 victimes en 2016, on observe une effrayante hausse du nombre de cas en 2017 atteignant 144 femmes.<br>En 2019, on atteint un pic de 157 victimes, dont les mobiles sont souvent liés à des disputes
+                    conjugales et des séparations.<br>Bien que le nombre baisse, ces violences ne cesseront pas en 2020, c’est d’ailleurs cette année qui mettra en lumière les violences conjugales à domicile, pendant le confinement. On comptera 104 femmes
+                    décédées…
+                    <br> A été recensé en 2021, 114 féminicides, comme pour les années précédentes, les disputes et les séparations non acceptées sont les causes du passage à l’acte.
+                    <br> Enfin, depuis le début de 2022 jusque septembre, le fléau ne s’arrête pas et on comptera 86 femmes décédées. Néanmoins les cas de féminicide ayant légèrement diminués, 2022 sera peut-être l’année qui marquera la baisse de ce cauchemar.
+                </p>
+            </div>
         </div>
 
+        <h3 class="titleMap" data-aos="fade-up" data-aos-delay="1">Carte situant les féminicides de janvier 2016 à octobre 2022</h3>
+        <div class="reveal">
+            <div data-aos="fade-up" data-aos-delay="1" id="myMap"></div>
+        </div>
 
-        <div id="myMap"></div>
+        <div id=prevention></div>
 
-
-
-        <div id="prevention">
-            <div class="phoneNumber">
+        <div class="reveal" id="preventionStyle">
+            <div class="phoneNumber reveal-2">
                 3919
                 <span class="strokeTextNumber" aria-label="none">3919</span>
             </div>
-            <p>Numéro d'appel pour les femmes victimes de violences</p>
+            <p class="reveal-3">Numéro d'appel pour les femmes victimes de violences</p>
         </div>
 
-        <div class="lecteurVid">
+        <div class="lecteurVid" data-aos="fade-up" data-aos-delay="1">
+            <h3>Emprise et féminicide : quand la domination psychologique dans le couple peut tuer - Le Monde</h3>
             <video src="medias/Emprise et féminicide quand la domination psychologique dans le couple peut tuer.mp4" width="800" height="450" alt="Vidéo de témoigages de femme et de spécialiste en féminicide par Le Monde">
-                <div class="pauseDiv">‖</div>
             </video>
-            <progress max="100" value="0" background-color="yellow"></progress>
+            <progress max="100" value="0"></progress>
 
             <div class="boutonLecteur">
                 <button id="play_pause">‖▶</button>
@@ -137,32 +143,38 @@
         </div>
 
         <div class="hommage" id="hommage">
-            <img src="" alt=" ">
-            <svg width="120vw" height="99vmin" viewbox="-50 -300 2000 600" class="introCircle">
-                <circle cx="2000" cy="-400" r="120" stroke="none" stroke-width="null" fill="#FFE589" />
-            </svg>
-
             <div class="titleHommage">
-                <h2 class=>HOMMAGE</h2>
-                <span class="strokeTextTitle" aria-label="none">HOMMAGE</span>
+                HOMMAGE
+                <span class="strokeTextHommage" aria-label="none">HOMMAGE</span>
             </div>
+            <h3 class="hommageInstruction">Cliquez sur une année pour révéler les noms de toutes les victimes de l'année correspondante.</h3>
         </div>
 
-        <div id="nuage">
-            <div class="annee" id="2016">2016</div>
-            <div class="annee" id="2017">2017</div>
-            <div class="annee" id="2018">2018</div>
-            <div class="annee" id="2019">2019</div>
-            <div class="annee" id="2020">2020</div>
-            <div class="annee" id="2021">2021</div>
-            <div class="annee" id="2022">2022</div>
+        <div class="reveal" id="nuage">
+            <div class="annee reveal-2" id="2016">2016</div>
+            <div class="annee reveal-4" id="2017">2017</div>
+            <div class="annee reveal-3" id="2018">2018</div>
+            <div class="annee reveal-3" id="2019">2019</div>
+            <div class="annee reveal-3" id="2020">2020</div>
+            <div class="annee reveal-4" id="2021">2021</div>
+            <div class="annee reveal-2" id="2022">2022</div>
         </div>
 
+        <div class="conclusion reveal">
+            <h2 class="reveal-2">que dire ?</h2>
+            <p class="reveal-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus a repudiandae, perspiciatis eaque aut facilis eligendi sunt inventore. Animi quasi cum labore expedita, ab error amet repellendus nemo? Obcaecati, consequatur?</p>
+        </div>
+
+        <div class="mentions">
+            <p>mentions légales</p>
+            <div class="mentionsTexte invisible">
+                du blabla :)))
+            </div>
         </div>
     </main>
 
 
-
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="script.js"></script>
 </body>
 

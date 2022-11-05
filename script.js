@@ -1,3 +1,5 @@
+AOS.init();
+
 //fetch de tout les fichiers de données afin de pouvoir utilisé leurs contenus
 Promise.all([
     fetch("data_JSON/data2016.json").then((res) => res.json()),
@@ -9,6 +11,7 @@ Promise.all([
     fetch("data_JSON/data2022.json").then((res) => res.json()),
 ]).then(([data16, data17, data18, data19, data20, data21, data22]) => {
     initApp(data16, data17, data18, data19, data20, data21, data22);
+
 });
 
 function random(min, max) {
@@ -32,7 +35,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
     ]
     let pointX1 = 700 / data_paires.length
     let pointX2 = pointX1 + (1000 / data_paires.length)
-
+    console.log(data16)
     d3.select("#dessin")
         .selectAll("g")
         .data(data_paires)
@@ -48,7 +51,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
         .attr("y1", d => -d.A)
         .attr("x2", pointX1)
         .attr("y2", d => -d.B)
-        .style("stroke", "yellow")
+        .style("stroke", "#FFE589")
         .style("stroke-width", "4")
     d3.select
 
@@ -72,7 +75,11 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
 
     let myArray = [123, data16.length, data17.length, data18.length, data19.length, data20.length, data21.length, data22.length];
     let a = ArrayAvg(myArray);
-    console.log(Math.ceil(a))
+    const avr = Math.ceil(a)
+
+
+    // document.querySelector('.strokeTextAvr').textContent = JSON.stringify(avr, null, 2);
+    // console.log(avr)
 
     // code pour le nuage de prénom
 
@@ -86,27 +93,45 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
             .data(array)
             .enter()
             .append("div")
-            .attr("class", "prenom " + annee)
+            .attr("class", "prenom pr" + annee)
             .text(d => d.name.split(/[ ,]/)[0])
-            .style("position", "relative")
+            .style("position", "absolute")
             .style("top", d => random(5, 95) + "%")
             .style("left", d => random(5, 95) + "%")
-            .style("opacity", d => random(3, 8) / 10)
         annee++
     }
+    d3.merge(allArray).forEach(element => {
+        var coordinates = element.coordonnees.split(',')
+        if (coordinates.length > 1) {
+            coordinates[0] = parseFloat(coordinates[0])
+            coordinates[1] = parseFloat(coordinates[1])
+            console.log(element)
+            console.log(coordinates)
+            var marker = L.marker(coordinates).addTo(mapObject);
+            // console.log(marker)
+            marker.bindPopup("<b>" + element.name + " ( " + element.age + " ) <br>" + element.ville + "<br>" + element.departement);
+        }
+    });
 
-    console.log(data16.name)
+    var markersCluster = new L.MarkerClusterGroup();
 
+    var cities = getCities();
+    for (var i = 0; i < cities.length; i++) {
+        var latLng = new L.LatLng(cities[i][1], cities[i][2]);
+        var marker = new L.Marker(latLng, { title: cities[i][0] });
+        markersCluster.addLayer(marker);
+    }
+
+    map.addLayer(markersCluster);
 
 }
 
 //Code pour map Leaflet
-
 const mapObject = L.map('myMap')
     .setView([48.866667, 2.333333], 5);
 
-//Ajout du layer openstreetmap 
 
+//Ajout du layer openstreetmap 
 L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -116,16 +141,7 @@ L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
     ext: 'png'
 }).addTo(mapObject);
 
-// var marker = L.marker([data16.coordinates]).addTo(mapObject);
-
-// //48.837242683910375, 2.584856744517518
-// var circle = L.circle([48.83687, 2.58394], {
-//     color: 'red',
-//     fillColor: '#f03',
-//     fillOpacity: 0.5,
-//     radius: 20
-// }).addTo(mapObject);
-
+//fonction qui calcul la moyenne
 function ArrayAvg(myArray) {
     var i = 0,
         summ = 0,
@@ -171,37 +187,82 @@ function timeProgress() {
     progress.value = (media.currentTime * 100 / media.duration);
 }
 progress.addEventListener('click', (event) => {
-    console.log(event.offsetX)
+    // console.log(event.offsetX)
     media.currentTime = event.offsetX;
     progress.value = (media.currentTime * 100 / media.duration)
 });
 
 // script pour le nuage de prénom
 
-// const anneeHommage = document.querySelector(".annee");
+d3.selectAll('.annee').on("click", function(e, d) {
+    d3.selectAll(".prenom")
+        .transition()
+        .duration(1000)
+        .ease(d3.easeSin)
+        .style("opacity", "0")
+    d3.selectAll(`.pr${this.id}`)
+        .style("opacity", "0")
+        .transition()
+        .duration(1000)
+        .ease(d3.easeSin)
+        .style("opacity", d => random(3, 7) / 10);
+})
 
-// function changePrenom() {
-//     console.log("hello");
-//     document.querySelectorAll(".prenom").style.display = "none";
+// pour les mentions légales
+document.querySelector('.mentions').addEventListener('click', function(e) {
+    let m = document.querySelector('.mentionsTexte');
+    if (m.classList.contains('invisible')) {
+        m.classList.replace('invisible', 'visible')
+    } else {
+        m.classList.replace('visible', 'invisible')
+    }
 
-//     if (document.querySelector(".prenom").classList.contains(n)) {
-//         document.querySelector(".prenom " + n).style.display = "block";
-//     }
-// }
+})
 
-// anneeHommage.addEventListener("click", changePrenom);
+// pour l'apparition au scroll
+const threshold = 0.3;
+const options = {
+    root: null,
+    rootMargin: '0px',
+    threshold
+}
 
-document.querySelectorAll('.annee').forEach(function(i) {
-    i.addEventListener('click', function(e) {
+const handleIntersect = function(entries, observer) {
+    entries.forEach(function(entry) {
+        if (entry.intersectionRatio > threshold) {
+            entry.target.classList.remove('reveal')
+            observer.unobserve(entry.target)
+        }
+    })
+}
 
-        document.querySelectorAll(".prenom").forEach(function(pre) {
-
-
-            if (pre.classList.contains(e.target.getAttribute('id'))) {
-                pre.style.display = "block";
-            } else {
-                pre.style.display = "none";
-            }
-        })
+window.addEventListener("DOMContentLoaded", function() {
+    const observer = new IntersectionObserver(handleIntersect, options)
+    const targets = document.querySelectorAll('.reveal')
+    targets.forEach(function(target) {
+        observer.observe(target)
     })
 })
+
+
+function counter() {
+
+    var duration = 16;
+    var count = setInterval(function() {
+        var c = parseInt($('.counter').text());
+        $('.counter').text((++c).toString());
+        // console.log(duration)
+        if (c == 100) {
+            duration += 100
+                // console.log(duration)
+        }
+
+        if (c == 112) {
+            clearInterval(count);
+            $('.counter').addClass('hide')
+            $('.preloader').addClass('active')
+            $('.text-counter').addClass('active')
+        }
+    }, duration)
+}
+counter()

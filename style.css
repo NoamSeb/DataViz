@@ -17,16 +17,33 @@ body {
 }
 
 h2 {
-    font-size: 4rem;
+    font-size: 3vw;
+    margin: 0;
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.4vw;
+    font-weight: 300;
+    margin: 0.5vw 3vw;
 }
 
 .logo {
     font-size: 4vw;
     margin-left: 2vw;
+}
+
+.logo img {
+    width: 4vw;
+    height: auto;
+}
+
+.backHome {
+    width: 5vw;
+    height: auto;
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+    cursor: pointer;
 }
 
 
@@ -36,8 +53,8 @@ p {
     writing-mode: vertical-rl;
     text-orientation: sideways-right;
     position: fixed;
-    right: 0;
-    top: auto;
+    right: 0.5vw;
+    top: 0;
     height: 100vh;
 }
 
@@ -45,6 +62,7 @@ p {
     display: flex;
     justify-content: space-around;
     list-style: none;
+    padding: 0;
 }
 
 .navSuite ul li a {
@@ -57,19 +75,17 @@ p {
     text-decoration: none;
 }
 
-.toInfo {
-    text-decoration: underline;
-    text-decoration-color: #FFE589;
+.toInfo:hover {
+    text-decoration: underline #FFE589 3px;
+    transition: 1s;
 }
 
-.toPrevention {
-    text-decoration: underline;
-    text-decoration-color: #FFE589;
+.toPrevention:hover {
+    text-decoration: underline #FFE589 3px;
 }
 
-.toHommage {
-    text-decoration: underline;
-    text-decoration-color: #FFE589;
+.toHommage:hover {
+    text-decoration: underline #FFE589 3px;
 }
 
 
@@ -83,6 +99,8 @@ p {
     height: 100vh;
     display: flex;
     margin-left: 1vw;
+    top: 0;
+    left: 0.5vw;
 }
 
 .year p {
@@ -145,54 +163,96 @@ h1 {
 
 /* intro texte */
 
+.feminicide-def {
+    margin-right: 10vw;
+    margin-bottom: 7vw;
+}
+
+.feminicide-pourquoi {
+    margin-left: 10vw;
+}
+
 .feminicide-pourquoi h2 {
-    margin-left: 40vw;
+    text-align: right;
 }
 
 
-/* 86 */
+/* moyenne */
+
+.Moyenne {
+    margin-top: 50vh;
+}
 
 .counter {
     font-size: 10vw;
-    transform: translate(-50%, -50%);
-    margin-left: 50vw;
-    margin-top: 50vh;
+    margin: auto;
+    width: fit-content;
     position: relative;
 }
 
 .Moyenne p {
     margin: auto;
-    transform: translate(-50%, -50%);
-    margin-left: 50%;
+    /* transform: translate(-50%, -50%);
+    margin-left: 50%; */
     width: fit-content;
 }
 
-.strokeTextNumber {
+.strokeTextNumber,
+.strokeTextAvr {
     color: white;
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: transparent;
     position: absolute;
-    font-size: 10vw;
+    font-size: 8rem;
     top: 5%;
     left: 1.5%;
+}
+
+.counter:after {
+    font-size: 0.5em;
+}
+
+.hide {
+    transition: 1s;
+    pointer-events: none;
+}
+
+.text-counter {
+    position: relative;
+    opacity: 0;
+    font-size: 2.2em;
+}
+
+.text-counter.active {
+    transition: ease-in-out 0.5s;
+    transition-delay: 0.5s;
+    opacity: 100;
 }
 
 
 /* graph-year */
 
+.graphTitle {
+    margin-top: 50vh;
+    text-align: center;
+}
+
 .graph {
     display: flex;
     margin: auto;
-    margin-top: 50vh;
 }
 
 .graph svg {
     width: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 .graph p {
     width: 50%;
     font-size: 1vw;
+    justify-content: center;
+    align-items: center;
 }
 
 .axe {
@@ -217,19 +277,27 @@ h1 {
 
 /* video */
 
-#prevention {
+.titleMap {
+    text-align: center;
+}
+
+#preventionStyle {
     margin: auto;
+    margin-top: 50vh;
 }
 
 .phoneNumber {
-    font-size: 10vw;
+    /* font-size: 10vw;
     transform: translate(-50%, -50%);
     margin-left: 50vw;
-    margin-top: 50vh;
+    margin-top: 50vh; */
+    font-size: 8rem;
+    margin: auto;
+    width: fit-content;
     position: relative;
 }
 
-#prevention p {
+#preventionStyle p {
     margin: auto;
     width: fit-content;
 }
@@ -240,12 +308,12 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 50vh;
 }
 
 .lecteurVid video {
     border: 1px solid white;
     margin: 2vw;
-    margin-top: 50vh;
 }
 
 .pauseDiv {
@@ -264,21 +332,51 @@ progress {
     font-size: 1.5vw;
 }
 
-progress[value] {
+progress {
     -webkit-appearance: none;
     appearance: none;
     border-radius: 10px;
 }
 
-progress[value]::-webkit-progress-bar {
-    background-color: "FFE589";
+progress::-webkit-progress-bar {
+    border-radius: 10px;
+}
+
+progress::-webkit-progress-value {
+    background-color: yellow;
+    border-radius: 10px;
 }
 
 
 /* hommage */
 
-.titleHommage {
+.hommage {
+    margin-top: 50vh;
+    position: relative;
+}
+
+.strokeTextHommage {
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
     position: absolute;
+    font-size: 5rem;
+    top: 5%;
+    left: 1.5%;
+}
+
+.titleHommage {
+    /* position: absolute;
+    top: 52%;
+    left: 5%; */
+    position: relative;
+    margin: auto;
+    width: fit-content;
+    font-size: 5rem;
+}
+
+.titleHommage h2 {
+    position: absolute;
+    font-size: 7vw;
     top: 52%;
     left: 5%;
 }
@@ -286,15 +384,158 @@ progress[value]::-webkit-progress-bar {
 
 /* nuage annee */
 
-.annee {
-    cursor: pointer;
-    font-size: 3rem;
+.prenom {
+    opacity: 0;
+    font-size: 0.7rem;
 }
 
-.prenom {
-    display: none;
+.annee {
+    cursor: pointer;
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: absolute;
+    z-index: 3000;
+}
+
+.annee:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 5px;
+    bottom: 0;
+    left: 0;
+    background-color: #FFE589;
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+}
+
+.annee:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+
+/* 
+.annee:hover {
+    text-decoration: underline;
+    text-decoration: #FFE589;
+} */
+
+
+/* parce que l'id ne peut pas commencer par un nombre donc on doit l'écrire sous cette forme "#\3[premier chiffre] [suite des chiffres] */
+
+#\32 016 {
+    left: 10vw;
+    top: 25vh;
+}
+
+#\32 017 {
+    left: 15vw;
+    top: 50vh;
+}
+
+#\32 018 {
+    left: 30vw;
+    top: 35vh;
+}
+
+#\32 019 {
+    left: 40vw;
+    top: 60vh;
+}
+
+#\32 020 {
+    left: 35vw;
+    top: 10vh;
+}
+
+#\32 021 {
+    left: 50vw;
+    top: 20vh;
+}
+
+#\32 022 {
+    left: 60vw;
+    top: 40vh;
+}
+
+
+/* à ajouter */
+
+.hommageInstruction {
+    text-align: center;
 }
 
 #nuage {
-    max-height: 500px;
+    height: 80vh;
+    margin-bottom: 50vh;
+}
+
+
+/* conclusion */
+
+.conclusion {
+    margin: 50vh 0;
+}
+
+
+/* mentions légales */
+
+.mentions p {
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.mentionsTexte {
+    margin: 10vh 0;
+}
+
+.invisible {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+
+/* animation au scroll */
+
+.reveal [class*="reveal-"] {
+    opacity: 0;
+    transform: translateY(30px);
+}
+
+[class*="reveal-"] {
+    transition: 1s cubic-bezier(0.5, 0, 0, 1);
+}
+
+.reveal-2 {
+    transition-delay: 0.1s;
+}
+
+.reveal-3 {
+    transition-delay: 0.2s;
+}
+
+.reveal-4 {
+    transition-delay: 0.3s;
+}
+
+@media screen and(width<950px) {}
+
+@media screen and(width<700px) {}
+
+@media screen and (max-width:400px) {
+    main {
+        margin: auto;
+    }
+    .navSuite {
+        right: 0;
+    }
+    .graph {
+        flex-direction: column-reverse;
+    }
 }
