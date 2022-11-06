@@ -9,8 +9,8 @@
     <meta name="description" content="Ce site est un projet étudiant qui répertorie et met en visuel des données concernant les féminicide qui ont lieu en France depuis 2016. Vous trouverez aussi des Informations a propos de ce qu'est le féminicide ainsi qu'un numéro national vous premettant d'alerter les autorités compétente.">
     <meta name="twitter:card" content="summary"></meta>
     <link rel="canonical" href="http://127.0.0.1:5500/index.html">
-    <link rel="favicon" href="medias/logo_FE.svg">
-    <title>Féminicide</title>
+    <link rel="icon" type="icon" href="medias/logo.svg">
+    <title>Dataviz</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,10 +28,9 @@
 </head>
 
 <body>
+    <span id="homePage"></span>
+
     <nav>
-        <div class="logo" id="homePage">
-            <img src="medias/logo_FE.svg" alt="">
-        </div>
         <div class="navSuite">
             <ul>
                 <li>
@@ -52,7 +51,7 @@
     <a href="#homePage"><img src="medias/goBackHome.svg" alt="Retour à l'accueil" class="backHome" data-aos="fade-in" data-aos-delay="1"></a>
     <main>
         <div class="intro">
-            <img src="medias/feminicide.jpg" alt=" ">
+            <img src="medias/feminicide.jpg" class="introImg" alt=" ">
 
             <div class="title">
                 <h1 class=>FÉMINICIDE</h1>
@@ -60,35 +59,37 @@
             </div>
         </div>
 
-        <div class="intro-text" id="info">
-            <div class="feminicide-def" data-aos="fade-up" data-aos-delay="1">
+        <span id="info"></span>
+
+        <div class="introText">
+            <div class="feminicideDef" data-aos="fade-up" data-aos-delay="1">
                 <h2 class="reveal-2">qu'est-ce que le féminicide ?</h2>
                 <p class="reveal-3">Le féminicide se définit par le meurtre d’une ou plusieurs filles / femmes pour la raison qu’elles sont des personnes de sexe féminin. Cette nuance est très importante car l’assassinat d’une femme n’est qualifié de féminicide que lorsque
-                    le motif est lié à son genre. Ce qui signifie qu’un homicide involontaire ou tout autre mobile ne constituerait pas un féminicide. Ce terme a commencé à apparaître en 2014 dans le monde du droit français.
+                    le motif est lié à son genre. Ce qui signifie qu’un homicide involontaire où tout autre mobile ne constituerait pas un féminicide. Ce terme a commencé à apparaître en 2014 dans le monde du droit français.
                 </p>
             </div>
-            <div class="feminicide-pourquoi" data-aos="fade-up" data-aos-delay="1">
+            <div class="feminicidePourquoi" data-aos="fade-up" data-aos-delay="1">
                 <h2 class="reveal-2">pourquoi faut-il en parler ?</h2>
-                <p class="reveal-3">Alors que le nombre de féminicide a nettement augmenté durant la crise du COVID-19 et continue de s’accroître de jour en jour. Nous ne pouvons plus rester muet face à cette situation et c’est pourquoi nous avons crée ce site : afin de
+                <p class="reveal-3">Alors que le nombre de féminicide a nettement augmenté durant la crise du COVID-19 et continue de s’accroître de jour en jour. Nous ne pouvons plus rester muet face à cette situation et c’est pourquoi nous avons créé ce site : afin de
                     sensibiliser le monde et mettre un terme à l’ignorance sur le féminicide en y exposant plusieurs statistiques.
                 </p>
             </div>
         </div>
-        <div class="Moyenne" data-aos="fade-up" data-aos-delay="1">
-            <div class="counter-container">
+        <div class="moyenne" data-aos="fade-up" data-aos-delay="1">
+            <div>
                 <div class="counter" data-target="86">
                     0
                     <span class="strokeTextAvr" aria-label="none"></span>
                 </div>
 
-                <p class="text-counter">Féminicide en moyenne par an depuis 2016</p>
+                <p class="textCounter">féminicides en moyenne par an depuis 2016</p>
             </div>
         </div>
 
         <div class="graphTitle">
-            <h3 data-aos="fade-up" data-aos-delay="1">Graphique montrant l'évolution du nombre de cas de féminicide en France de janvier 2016 à octobre 2022</h3>
+            <p data-aos="fade-up" data-aos-delay="1"><b>Graphique montrant l'évolution du nombre de cas de féminicide en France de janvier 2016 à octobre 2022</b></p>
             <div class="graph" data-aos="fade-up" data-aos-delay="1">
-                <svg width="99vmin" height="99vmin" viewbox="-50 -300 900 777" data-aos="fade-up" data-aos-delay="1">
+                <svg viewbox="-50 -300 900 300" data-aos="fade-up" data-aos-delay="1">
                 <defs>
                     <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3" markerHeight="3"
                         orient="auto">
@@ -107,18 +108,19 @@
                 <p data-aos="fade-up" data-aos-delay="1">Alors que le féminicide ne comptait que 39 victimes en 2016, on observe une effrayante hausse du nombre de cas en 2017 atteignant 144 femmes.<br>En 2019, on atteint un pic de 157 victimes, dont les mobiles sont souvent liés à des disputes
                     conjugales et des séparations.<br>Bien que le nombre baisse, ces violences ne cesseront pas en 2020, c’est d’ailleurs cette année qui mettra en lumière les violences conjugales à domicile, pendant le confinement. On comptera 104 femmes
                     décédées…
-                    <br> A été recensé en 2021, 114 féminicides, comme pour les années précédentes, les disputes et les séparations non acceptées sont les causes du passage à l’acte.
-                    <br> Enfin, depuis le début de 2022 jusque septembre, le fléau ne s’arrête pas et on comptera 86 femmes décédées. Néanmoins les cas de féminicide ayant légèrement diminués, 2022 sera peut-être l’année qui marquera la baisse de ce cauchemar.
+                    <br> Ont été recensés en 2021, 114 féminicides, comme pour les années précédentes, les disputes et les séparations non acceptées sont les causes du passage à l’acte.
+                    <br> Enfin, depuis le début de 2022 jusqu'en septembre, le fléau ne s’arrête pas et on comptera 86 femmes décédées. Néanmoins les cas de féminicide ayant légèrement diminué, 2022 sera peut-être l’année qui marquera la baisse de ce
+                    cauchemar.
                 </p>
             </div>
         </div>
 
-        <h3 class="titleMap" data-aos="fade-up" data-aos-delay="1">Carte situant les féminicides de janvier 2016 à octobre 2022</h3>
         <div class="reveal">
             <div data-aos="fade-up" data-aos-delay="1" id="myMap"></div>
         </div>
+        <h3 class="titleMap" data-aos="fade-up" data-aos-delay="1">Carte situant les féminicides de janvier 2016 à octobre 2022</h3>
 
-        <div id=prevention></div>
+        <span id="prevention"></span>
 
         <div class="reveal" id="preventionStyle">
             <div class="phoneNumber reveal-2">
@@ -128,49 +130,100 @@
             <p class="reveal-3">Numéro d'appel pour les femmes victimes de violences</p>
         </div>
 
-        <div class="lecteurVid" data-aos="fade-up" data-aos-delay="1">
-            <h3>Emprise et féminicide : quand la domination psychologique dans le couple peut tuer - Le Monde</h3>
-            <video src="medias/Emprise et féminicide quand la domination psychologique dans le couple peut tuer.mp4" width="800" height="450" alt="Vidéo de témoigages de femme et de spécialiste en féminicide par Le Monde">
-            </video>
-            <progress max="100" value="0"></progress>
+        <div class="faireText" id="info">
+            <div class="feminicideFaire" data-aos="fade-up" data-aos-delay="1">
+                <h2 class="reveal-2">que faire ?</h2>
+                <p class="reveal-3">Nous devons aider ces femmes en situation difficile. Il existe quelques moyens afin de leur apporter assistance mais aussi de les accompagner notamment après avoir été victime d’une tentative. Si la police est toujours joignable avec le
+                    numéro 17, il existe un numéro pour les femmes victimes de violences : le 3919 accessible 24h/24 et 7 jours sur 7.
 
-            <div class="boutonLecteur">
-                <button id="play_pause">‖▶</button>
-                <label>
+                    <br>Ne gardons pas le silence, il tue.
+                </p>
+            </div>
+
+
+            <div class="lecteurVid" data-aos="fade-up" data-aos-delay="1">
+                <h3>Emprise et féminicide : quand la domination psychologique dans le couple peut tuer - Le Monde</h3>
+                <video src="medias/Emprise et féminicide quand la domination psychologique dans le couple peut tuer_1.mp4" class="video" alt="Vidéo de témoigages de femme et de spécialiste en féminicide par Le Monde">
+            </video>
+                <progress max="100" value="0"></progress>
+
+                <div class="boutonLecteur">
+                    <button id="play_pause">‖▶</button>
+                    <label class="volumeText">
                     Volume : <input id="volume" type="range" min="0" max="1" step="0.1" value="1">
                 </label>
+                </div>
             </div>
-        </div>
 
-        <div class="hommage" id="hommage">
-            <div class="titleHommage">
-                HOMMAGE
-                <span class="strokeTextHommage" aria-label="none">HOMMAGE</span>
+            <span id="hommage"></span>
+
+            <div class="hommage">
+                <div class="titleHommage">
+                    HOMMAGE
+                    <span class="strokeTextHommage" aria-label="none">HOMMAGE</span>
+                </div>
+                <p class="hommageInstruction">Cliquez sur une année pour révéler les noms de toutes les victimes de l'année correspondante.</p>
             </div>
-            <h3 class="hommageInstruction">Cliquez sur une année pour révéler les noms de toutes les victimes de l'année correspondante.</h3>
-        </div>
 
-        <div class="reveal" id="nuage">
-            <div class="annee reveal-2" id="2016">2016</div>
-            <div class="annee reveal-4" id="2017">2017</div>
-            <div class="annee reveal-3" id="2018">2018</div>
-            <div class="annee reveal-3" id="2019">2019</div>
-            <div class="annee reveal-3" id="2020">2020</div>
-            <div class="annee reveal-4" id="2021">2021</div>
-            <div class="annee reveal-2" id="2022">2022</div>
-        </div>
-
-        <div class="conclusion reveal">
-            <h2 class="reveal-2">que dire ?</h2>
-            <p class="reveal-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus a repudiandae, perspiciatis eaque aut facilis eligendi sunt inventore. Animi quasi cum labore expedita, ab error amet repellendus nemo? Obcaecati, consequatur?</p>
-        </div>
-
-        <div class="mentions">
-            <p>mentions légales</p>
-            <div class="mentionsTexte invisible">
-                du blabla :)))
+            <div class="reveal" id="nuage">
+                <div class="annee reveal-2" id="a2016">2016</div>
+                <div class="annee reveal-4" id="a2017">2017</div>
+                <div class="annee reveal-3" id="a2018">2018</div>
+                <div class="annee reveal-3" id="a2019">2019</div>
+                <div class="annee reveal-3" id="a2020">2020</div>
+                <div class="annee reveal-4" id="a2021">2021</div>
+                <div class="annee reveal-2" id="a2022">2022</div>
             </div>
-        </div>
+
+            <div class="conclusion reveal">
+                <h2 class="reveal-2">que dire ?</h2>
+                <p class="reveal-3">Ces différentes statistiques nous montrent une très grande insécurité chez les femmes depuis les dernières années. De nombreuses femmes décédées avaient déposé des plaintes ou une main courante.<br> <br>Il y avait aussi la présence de
+                    drogue ou d’alcool chez les auteurs définition d’insalubrité et de troubles liés aux substances. De plus nous pouvons nous questionner sur l’impunité des meurtriers.<br> <br>En effet, le féminicide est considéré comme un crime avec
+                    une peine de 30 ans de prison pour meurtre. Néanmoins, l’action de l’État et des autorités semblent très faibles et nous avons très peu d’informations à ce sujet. Nous sommes en droit de nous demander si ces peines sont réellement
+                    encourues.
+                    <br> <br>Bien qu’il s’agisse d’un sujet compliqué, la communication à propos du féminicide et de la protection des femmes est très importante, car il s’agit d’un sujet toujours d’actualité et qu’il faut en parler pour éveiller les
+                    consciences dans le but de porter assistance aux femmes.</p>
+            </div>
+
+            <div class="mentions">
+                <p class="mention">mentions légales</p>
+                <div class="mentionsTexte invisible">
+                    <h3>Dataviz</h3>
+                    <p>
+                        Un projet réalisé par des MMI2 Clara MANY, Noam SEBAHOUN & Pagnarith KOK SREY.
+                        <br>Un projet réalisé dans le cadre de la formation BUT MMI à Champs-Sur-Marne. <br>IUT Marne-la-Vallée : 2 rue Albert Einstein, Champs-Sur-Marne 77420 <br>Téléphone : 01 60 95 85 85
+                        <br>
+                        <br><b>Editeurs & Habillage du site </b>
+                        <br>Clara MANY Noam SEBAHOUN Pagnarith KOK SREY
+                        <br>
+                        <br><b>Hébergeur</b><br>Github Siège social : 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis <br>
+
+                        <br><b>Encadrement</b>
+                        <br>Gaëlle CHARPENTIER
+                        <br> Jean-Mary CLERY
+                        <br> Philippe GAMBETTE
+                        <br> Laurent BULTEAU
+                        <br> Frédéric POISSON
+                        <br>
+                        <br> <b>Crédits Données</b> : <a href="https://www.feminicides.fr/" class="mentionLink">www.feminicides.fr</a> <br><b>Vidéo</b> : "Emprise et féminicide : quand la domination psychologique dans le couple peut tuer - Le Monde"
+                        <br><b>Photos</b> : Iris Legendre **Propriété intellectuelle** <br>
+                        <br>Les marques, logos, signes ainsi que tous les contenus du site (textes, images, son…) font l’objet d’une protection par le Code de la propriété intellectuelle et plus particulièrement par le droit d’auteur. <br>
+                        <br> L’Utilisateur doit solliciter l’autorisation préalable du site pour toute reproduction, publication, copie des différents contenus. Il s’engage à une utilisation des contenus du site dans un cadre strictement privé : toute
+                        utilisation à des fins commerciales et publicitaires est strictement interdite. <br><br>Toute représentation totale ou partielle de ce site par quelque procédé que ce soit, sans l’autorisation expresse de l’exploitant du site Internet
+                        constituerait une contrefaçon sanctionnée par l’article L 335-2 et suivants du Code de la propriété intellectuelle.
+                        <br><br>Il est rappelé conformément à l’article L122-5 du Code de propriété intellectuelle que l’Utilisateur qui reproduit, copie ou publie le contenu protégé doit citer l’auteur et sa source.
+                        <br><br>Toute reproduction de ces images reste sous la responsabilité de l’Utilisateur.<br>Les images décoratives et informatives utilisées sur ce site sont entièrement libres de droit et/ou sous licence Creative Commons, et restent
+                        dans le cadre d’un projet étudiant : aucune image ne sera utilisée à des fins commerciales. <br>Les sources des images diffusées sur le site <a href="https://noamseb.github.io/DataViz/" class="mentionLink">https://noamseb.github.io/DataViz/</a>sont
+                        réputées fiables mais le site ne garantit pas qu’il soit exempt de défauts, d’erreurs ou d’omissions. Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. <br>
+                        <br>Le site <a href="https://noamseb.github.io/DataViz/" class="mentionLink">https://noamseb.github.io/DataViz/</a> ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après
+                        la publication. <br>De même, le site ne peut être tenu responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site. L’Utilisateur s’assure de garder son mot de passe secret. <br>Toute divulgation
+                        du mot de passe, quelle que soit sa forme, est interdite. Le site décline toute responsabilité. <br>
+                        <br> Le site <a href="https://noamseb.github.io/DataViz/" class="mentionLink">https://noamseb.github.io/DataViz/</a> ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter l’ordinateur ou tout matériel informatique
+                        de l’Internaute, suite à une utilisation, à l’accès, ou au téléchargement provenant de ce site. La responsabilité du site ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d’un tiers.
+                    </p>
+
+                </div>
+            </div>
     </main>
 
 

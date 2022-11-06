@@ -1,3 +1,4 @@
+//chargement de AOS qui permet d'animer les éléments du sites
 AOS.init();
 
 //fetch de tout les fichiers de données afin de pouvoir utilisé leurs contenus
@@ -13,7 +14,7 @@ Promise.all([
     initApp(data16, data17, data18, data19, data20, data21, data22);
 
 });
-
+// initialisation d'une fonction random qui choisi un valeur au hasard compris entre une valeur minimal et maximale
 function random(min, max) {
     let n;
     do {
@@ -23,6 +24,7 @@ function random(min, max) {
 }
 
 function initApp(data16, data17, data18, data19, data20, data21, data22) {
+
     //correction du nombre de victime en 2016 après vérification sur internet
     //stockage de données dans un tableau
     let data_paires = [
@@ -35,7 +37,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
     ]
     let pointX1 = 700 / data_paires.length
     let pointX2 = pointX1 + (1000 / data_paires.length)
-    console.log(data16)
+        // Code du graphique qui prend en compte les données stocké dans le tableau data_paires
     d3.select("#dessin")
         .selectAll("g")
         .data(data_paires)
@@ -55,33 +57,27 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
         .style("stroke-width", "4")
     d3.select
 
+    // attribution de valeurs aux axes x et y du graphique
     const axesB = d3.axisBottom(d3.scaleLinear().domain([2016, 2022]).range([0, 700]))
         .ticks(7)
         .tickFormat(d3.format('d'));
     const axesL = d3.axisLeft(d3.scaleLinear().domain([0, 300]).range([0, -300]))
         .ticks(7)
 
-
     d3.select("#dessin")
         .append("g")
         .call(axesB)
-        .style("font-size", "1vw")
+        .style("font-size", "1rem")
 
     d3.select("#dessin")
         .append("g")
         .call(axesL)
-        .style("font-size", "1vw")
+        .style("font-size", "1rem")
 
-
+    // calcul de la moyenne de féminicide par ans depuis 2016 grâce au valeurs comprises dans le tableau
     let myArray = [123, data16.length, data17.length, data18.length, data19.length, data20.length, data21.length, data22.length];
     let a = ArrayAvg(myArray);
     const avr = Math.ceil(a)
-
-
-    // document.querySelector('.strokeTextAvr').textContent = JSON.stringify(avr, null, 2);
-    // console.log(avr)
-
-    // code pour le nuage de prénom
 
     let allArray = [data16, data17, data18, data19, data20, data21, data22];
     let annee = 2016;
@@ -93,7 +89,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
             .data(array)
             .enter()
             .append("div")
-            .attr("class", "prenom pr" + annee)
+            .attr("class", "prenom pra" + annee)
             .text(d => d.name.split(/[ ,]/)[0])
             .style("position", "absolute")
             .style("top", d => random(5, 95) + "%")
@@ -105,10 +101,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
         if (coordinates.length > 1) {
             coordinates[0] = parseFloat(coordinates[0])
             coordinates[1] = parseFloat(coordinates[1])
-            console.log(element)
-            console.log(coordinates)
             var marker = L.marker(coordinates).addTo(mapObject);
-            // console.log(marker)
             marker.bindPopup("<b>" + element.name + " ( " + element.age + " ) <br>" + element.ville + "<br>" + element.departement);
         }
     });
@@ -156,7 +149,6 @@ function ArrayAvg(myArray) {
 
 
 // lecteur vidéo
-
 const media = document.querySelector("video");
 const btn = document.querySelector("button");
 const volume = document.querySelector("input");
@@ -187,14 +179,16 @@ function timeProgress() {
     progress.value = (media.currentTime * 100 / media.duration);
 }
 progress.addEventListener('click', (event) => {
-    // console.log(event.offsetX)
     media.currentTime = event.offsetX;
     progress.value = (media.currentTime * 100 / media.duration)
 });
 
 // script pour le nuage de prénom
-
 d3.selectAll('.annee').on("click", function(e, d) {
+    d3.selectAll(".annee")
+        .style("text-decoration", "none")
+    d3.selectAll(`#${this.id}`)
+        .style("text-decoration", "underline #FFE589 7px")
     d3.selectAll(".prenom")
         .transition()
         .duration(1000)
@@ -216,7 +210,6 @@ document.querySelector('.mentions').addEventListener('click', function(e) {
     } else {
         m.classList.replace('visible', 'invisible')
     }
-
 })
 
 // pour l'apparition au scroll
@@ -251,10 +244,8 @@ function counter() {
     var count = setInterval(function() {
         var c = parseInt($('.counter').text());
         $('.counter').text((++c).toString());
-        // console.log(duration)
         if (c == 100) {
             duration += 100
-                // console.log(duration)
         }
 
         if (c == 112) {

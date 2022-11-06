@@ -22,27 +22,17 @@ h2 {
 }
 
 p {
-    font-size: 1.4vw;
+    font-size: 1rem;
     font-weight: 300;
     margin: 0.5vw 3vw;
 }
 
-.logo {
-    font-size: 4vw;
-    margin-left: 2vw;
-}
-
-.logo img {
+.backHome {
     width: 4vw;
     height: auto;
-}
-
-.backHome {
-    width: 5vw;
-    height: auto;
     position: fixed;
-    bottom: 5vh;
-    right: 5vw;
+    bottom: 3vw;
+    right: 3vw;
     cursor: pointer;
 }
 
@@ -105,12 +95,14 @@ p {
 
 .year p {
     margin: auto;
+    font-size: 1rem;
 }
 
 main {
     max-width: 80vw;
     margin: auto;
     top: 0;
+    padding-bottom: 10vh;
 }
 
 
@@ -120,9 +112,14 @@ main {
     position: relative;
     width: fit-content;
     margin: auto;
+    margin-top: 10vh;
 }
 
-.intro img {
+.introText {
+    margin-top: 10vw;
+}
+
+.introImg {
     width: 60vw;
     transform: translate(-50%, -50%);
     margin-left: 50%;
@@ -163,24 +160,33 @@ h1 {
 
 /* intro texte */
 
-.feminicide-def {
+.feminicideDef {
     margin-right: 10vw;
     margin-bottom: 7vw;
 }
 
-.feminicide-pourquoi {
+.feminicidePourquoi {
     margin-left: 10vw;
 }
 
-.feminicide-pourquoi h2 {
+.feminicidePourquoi h2 {
     text-align: right;
+}
+
+.feminicideFaire {
+    margin-right: 10vw;
+    margin-bottom: 7vw;
+}
+
+.faireText {
+    margin-top: 10vw;
 }
 
 
 /* moyenne */
 
-.Moyenne {
-    margin-top: 50vh;
+.moyenne {
+    margin-top: 20vw;
 }
 
 .counter {
@@ -190,7 +196,7 @@ h1 {
     position: relative;
 }
 
-.Moyenne p {
+.moyenne p {
     margin: auto;
     /* transform: translate(-50%, -50%);
     margin-left: 50%; */
@@ -217,13 +223,13 @@ h1 {
     pointer-events: none;
 }
 
-.text-counter {
+.textCounter {
     position: relative;
-    opacity: 0;
+    text-align: center;
     font-size: 2.2em;
 }
 
-.text-counter.active {
+.textCounter.active {
     transition: ease-in-out 0.5s;
     transition-delay: 0.5s;
     opacity: 100;
@@ -233,8 +239,12 @@ h1 {
 /* graph-year */
 
 .graphTitle {
-    margin-top: 50vh;
+    margin: 10vw 0;
     text-align: center;
+}
+
+.graphTitle>p {
+    margin-bottom: 20px;
 }
 
 .graph {
@@ -243,16 +253,16 @@ h1 {
 }
 
 .graph svg {
-    width: 100%;
+    width: 80vw;
     justify-content: center;
     align-items: center;
 }
 
 .graph p {
     width: 50%;
-    font-size: 1vw;
-    justify-content: center;
-    align-items: center;
+    font-size: 1rem;
+    text-align: start;
+    margin-left: 0;
 }
 
 .axe {
@@ -283,18 +293,15 @@ h1 {
 
 #preventionStyle {
     margin: auto;
-    margin-top: 50vh;
+    margin-top: 20vw;
 }
 
 .phoneNumber {
-    /* font-size: 10vw;
-    transform: translate(-50%, -50%);
-    margin-left: 50vw;
-    margin-top: 50vh; */
     font-size: 8rem;
     margin: auto;
     width: fit-content;
     position: relative;
+    padding-bottom: 2vh;
 }
 
 #preventionStyle p {
@@ -308,12 +315,14 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 50vh;
+    margin-top: 20vw;
 }
 
 .lecteurVid video {
     border: 1px solid white;
     margin: 2vw;
+    width: 70vw;
+    height: auto;
 }
 
 .pauseDiv {
@@ -324,7 +333,7 @@ h1 {
 }
 
 progress {
-    width: 800px;
+    width: 70vw;
     margin: 1vw;
 }
 
@@ -343,15 +352,19 @@ progress::-webkit-progress-bar {
 }
 
 progress::-webkit-progress-value {
-    background-color: yellow;
+    background-color: rgb(255, 229, 137);
     border-radius: 10px;
+}
+
+.volumeText {
+    font-size: 1rem;
 }
 
 
 /* hommage */
 
 .hommage {
-    margin-top: 50vh;
+    margin-top: 30vw;
     position: relative;
 }
 
@@ -416,46 +429,39 @@ progress::-webkit-progress-value {
 }
 
 
-/* 
-.annee:hover {
-    text-decoration: underline;
-    text-decoration: #FFE589;
-} */
-
-
 /* parce que l'id ne peut pas commencer par un nombre donc on doit l'écrire sous cette forme "#\3[premier chiffre] [suite des chiffres] */
 
-#\32 016 {
+#a2016 {
     left: 10vw;
     top: 25vh;
 }
 
-#\32 017 {
+#a2017 {
     left: 15vw;
     top: 50vh;
 }
 
-#\32 018 {
+#a2018 {
     left: 30vw;
     top: 35vh;
 }
 
-#\32 019 {
+#a2019 {
     left: 40vw;
     top: 60vh;
 }
 
-#\32 020 {
+#a2020 {
     left: 35vw;
     top: 10vh;
 }
 
-#\32 021 {
+#a2021 {
     left: 50vw;
     top: 20vh;
 }
 
-#\32 022 {
+#a2022 {
     left: 60vw;
     top: 40vh;
 }
@@ -469,14 +475,14 @@ progress::-webkit-progress-value {
 
 #nuage {
     height: 80vh;
-    margin-bottom: 50vh;
+    margin: 10vw 0;
 }
 
 
 /* conclusion */
 
 .conclusion {
-    margin: 50vh 0;
+    margin: 10vw 0;
 }
 
 
@@ -488,16 +494,41 @@ progress::-webkit-progress-value {
     cursor: pointer;
 }
 
+.mentions .mention:hover {
+    text-decoration: underline;
+}
+
 .mentionsTexte {
     margin: 10vh 0;
+    text-align: start;
+}
+
+.mentionsTexte p {
+    text-align: start;
+    font-size: default;
+    font-weight: 300;
+}
+
+.mentionLink {
+    text-decoration: underline;
+    color: white;
+}
+
+.mentionLink:hover {
+    text-decoration: underline #FFE589;
+    color: #FFE589;
 }
 
 .invisible {
     display: none;
+    max-height: 2vh;
+    transition: max-height 1s;
 }
 
 .visible {
     display: block;
+    max-height: 100vh;
+    transition: max-height 1s;
 }
 
 
@@ -524,18 +555,47 @@ progress::-webkit-progress-value {
     transition-delay: 0.3s;
 }
 
-@media screen and(width<950px) {}
 
-@media screen and(width<700px) {}
+/* media query */
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:1000px) {
+    .graph {
+        flex-direction: column;
+    }
+    .graph p {
+        width: 100%;
+    }
+    .graphTitle>p {
+        margin-bottom: 0;
+    }
+    .graph svg {
+        height: 50vw;
+    }
+}
+
+@media screen and (max-width:700px) {
     main {
         margin: auto;
     }
     .navSuite {
         right: 0;
     }
-    .graph {
-        flex-direction: column-reverse;
+    .textCounter {
+        font-size: 1.2rem;
+    }
+    h2 {
+        font-size: 1.15rem;
+    }
+    .titleHommage {
+        font-size: 2.5rem;
+    }
+    .strokeTextHommage {
+        font-size: 2.5rem;
+    }
+    .annee {
+        font-size: 1.5rem;
+    }
+    .prenom {
+        font-size: 0.57rem;
     }
 }
