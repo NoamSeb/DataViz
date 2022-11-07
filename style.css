@@ -11,7 +11,7 @@ html {
 body {
     margin: 0;
     background-color: black;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     font-family: 'Raleway', sans-serif;
     color: white;
 }
@@ -121,14 +121,11 @@ main {
 
 .introImg {
     width: 60vw;
-    transform: translate(-50%, -50%);
-    margin-left: 50%;
-    margin-top: 35%;
 }
 
 .title {
     position: absolute;
-    top: 52%;
+    top: 77%;
     left: 5%;
 }
 
@@ -140,12 +137,12 @@ h1 {
 
 .strokeTextTitle {
     color: white;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 0.3px white;
     -webkit-text-fill-color: transparent;
     position: absolute;
     font-size: 7vw;
-    top: 30%;
-    left: 1.5%;
+    bottom: 22%;
+    left: 2%;
 }
 
 .introCircle {
@@ -206,12 +203,12 @@ h1 {
 .strokeTextNumber,
 .strokeTextAvr {
     color: white;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 0.3px white;
     -webkit-text-fill-color: transparent;
     position: absolute;
     font-size: 8rem;
     top: 5%;
-    left: 1.5%;
+    left: 2%;
 }
 
 .counter:after {
