@@ -81,7 +81,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
 
     let allArray = [data16, data17, data18, data19, data20, data21, data22];
     let annee = 2016;
-
+    //Affichage des prénom en fonction de l'année sélectionner
     for (let array of allArray) {
         d3.select("#nuage")
             .style("position", "relative")
@@ -96,6 +96,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
             .style("left", d => random(5, 95) + "%")
         annee++
     }
+    // Placement de tous les marqueur sur la carte grâce aux coordonees dans les fichiers JSON
     d3.merge(allArray).forEach(element => {
         var coordinates = element.coordonnees.split(',')
         if (coordinates.length > 1) {
@@ -109,6 +110,7 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
     var markersCluster = new L.MarkerClusterGroup();
 
     var cities = getCities();
+    // Ajout des information dans la pop up du marker
     for (var i = 0; i < cities.length; i++) {
         var latLng = new L.LatLng(cities[i][1], cities[i][2]);
         var marker = new L.Marker(latLng, { title: cities[i][0] });
@@ -149,38 +151,41 @@ function ArrayAvg(myArray) {
 
 
 // lecteur vidéo
-const media = document.querySelector("video");
+const vid = document.querySelector("video");
 const btn = document.querySelector("button");
 const volume = document.querySelector("input");
 const progress = document.querySelector("progress");
 const pause = document.querySelector(".pauseDiv")
 
+// fonction qui permet de mettre en pause ou de mettre en lecture
 function playPause(e) {
-    if (media.paused == false) {
-        media.pause()
+    if (vid.paused == false) {
+        vid.pause()
         pause.style.display = "block"
     } else {
-        media.play()
+        vid.play()
     }
 }
 
 btn.addEventListener("click", playPause);
-media.addEventListener("click", playPause);
+vid.addEventListener("click", playPause);
 
-media.volume = 0.7
+vid.volume = 0.7
 volume.value = 0.7
+    // Fonction qui permet de modifier le volume de la video
 volume.addEventListener("input", function() {
-    media.volume = volume.value
+    vid.volume = volume.value
 })
 
-media.addEventListener("timeupdate", timeProgress)
-
+vid.addEventListener("timeupdate", timeProgress)
+    // Fonction qui permet d'avancer la vidéo en cliquant sur la progress bar
 function timeProgress() {
-    progress.value = (media.currentTime * 100 / media.duration);
+    progress.value = (vid.currentTime * 100 / vid.duration);
 }
+// Script qui vise à récupéré les coordonees du curseur pour adapter l'avance au clic
 progress.addEventListener('click', (event) => {
-    media.currentTime = event.offsetX;
-    progress.value = (media.currentTime * 100 / media.duration)
+    vid.currentTime = event.offsetX;
+    progress.value = (vid.currentTime * 100 / vid.duration)
 });
 
 // script pour le nuage de prénom
@@ -220,6 +225,7 @@ const options = {
     threshold
 }
 
+// script pour que le texte appraissent progressivement lors du scroll
 const handleIntersect = function(entries, observer) {
     entries.forEach(function(entry) {
         if (entry.intersectionRatio > threshold) {
@@ -237,7 +243,7 @@ window.addEventListener("DOMContentLoaded", function() {
     })
 })
 
-
+//fonction qui permet de faire un décompte qui va de 0 au nombre moyen de féminicide par ans
 function counter() {
 
     var duration = 16;
