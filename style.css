@@ -144,13 +144,51 @@ h1 {
     left: 2%;
 }
 
-.introCircle {
+.irisLegendre {
     position: absolute;
-    width: 100vw;
-    margin: auto;
-    right: 0;
-    top: 0;
-    z-index: -1;
+    margin-left: 45vw;
+}
+
+.linkInsta {
+    color: white;
+}
+
+.linkInsta:hover {
+    color: #FFE589;
+}
+
+.scroll-down-arrow {
+    background-image: url(medias/scroll.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.scroll-down-link {
+    position: absolute;
+    cursor: pointer;
+    height: 60px;
+    width: 60px;
+    margin: 0px 0 0 -40px;
+    left: 50%;
+    bottom: 15px;
+    color: #FFF;
+    -webkit-animation: fade_move_down 2s ease-in-out infinite;
+    -moz-animation: fade_move_down 2s ease-in-out infinite;
+    animation: fade_move_down 2s ease-in-out infinite;
+}
+
+@keyframes fade_move_down {
+    0% {
+        -webkit-transform: translate(0, -20px);
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        -webkit-transform: translate(0, 20px);
+        opacity: 0;
+    }
 }
 
 
@@ -273,10 +311,40 @@ h1 {
 
 /* carte */
 
-#myMap {
-    height: 80vh;
-    max-width: 80vw;
+.mapContent {
     margin: auto;
+}
+
+.mapScroll {
+    width: 70vw;
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: solid 1px red;
+    z-index: 1000;
+    position: absolute;
+}
+
+.mapScroll:hover {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.touchMap {
+    display: none;
+}
+
+.mapScroll img {
+    z-index: 1000;
+    position: absolute;
+    width: 30vw;
+    height: 30vh;
+}
+
+#myMap {
+    height: 70vh;
+    max-width: 70vw;
     border: 1px solid white;
 }
 
@@ -289,7 +357,8 @@ h1 {
 
 #preventionStyle {
     margin: auto;
-    margin-top: 20vw;
+    margin-top: 8vw;
+    margin-bottom: 20vw;
 }
 
 .phoneNumber {
@@ -306,55 +375,16 @@ h1 {
     text-align: center;
 }
 
-.lecteurVid {
-    width: 100%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.feminicideFaire {
     margin-top: 20vw;
 }
 
-.lecteurVid video {
-    border: 1px solid white;
-    margin: 2vw;
-    width: 70vw;
-    height: auto;
+video {
+    margin: auto;
 }
 
-.pauseDiv {
-    background-color: rgba(105, 105, 105, 0.5);
-    color: white;
-    font-size: 2vw;
-    display: none;
-}
-
-progress {
-    width: 70vw;
-    margin: 1vw;
-}
-
-.boutonLecteur {
-    font-size: 1.5vw;
-}
-
-progress {
-    -webkit-appearance: none;
-    appearance: none;
-    border-radius: 10px;
-}
-
-progress::-webkit-progress-bar {
-    border-radius: 10px;
-}
-
-progress::-webkit-progress-value {
-    background-color: rgb(255, 229, 137);
-    border-radius: 10px;
-}
-
-.volumeText {
-    font-size: 1rem;
+iframe {
+    margin: auto;
 }
 
 
@@ -485,6 +515,10 @@ progress::-webkit-progress-value {
 
 /* mentions légales */
 
+.mentions {
+    margin-top: 20vw;
+}
+
 .mentions p {
     text-align: center;
     font-weight: bold;
@@ -568,6 +602,16 @@ progress::-webkit-progress-value {
     .graph svg {
         height: 50vw;
     }
+    iframe {
+        width: 80vw;
+        height: 50vh;
+    }
+    .clickMap {
+        display: none;
+    }
+    .touchMap {
+        display: block;
+    }
 }
 
 @media screen and (max-width:700px) {
@@ -594,5 +638,9 @@ progress::-webkit-progress-value {
     }
     .prenom {
         font-size: 0.57rem;
+    }
+    iframe {
+        width: 80vw;
+        height: 50vh;
     }
 }

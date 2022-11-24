@@ -115,6 +115,8 @@ function initApp(data16, data17, data18, data19, data20, data21, data22) {
         var latLng = new L.LatLng(cities[i][1], cities[i][2]);
         var marker = new L.Marker(latLng, { title: cities[i][0] });
         markersCluster.addLayer(marker);
+        marker.style.backgroundcolor = "#FFE589"
+
     }
 
     map.addLayer(markersCluster);
@@ -146,47 +148,6 @@ function ArrayAvg(myArray) {
     }
     return summ / ArrayLen;
 }
-
-
-
-
-// lecteur vidéo
-const vid = document.querySelector("video");
-const btn = document.querySelector("button");
-const volume = document.querySelector("input");
-const progress = document.querySelector("progress");
-const pause = document.querySelector(".pauseDiv")
-
-// fonction qui permet de mettre en pause ou de mettre en lecture
-function playPause(e) {
-    if (vid.paused == false) {
-        vid.pause()
-        pause.style.display = "block"
-    } else {
-        vid.play()
-    }
-}
-
-btn.addEventListener("click", playPause);
-vid.addEventListener("click", playPause);
-
-vid.volume = 0.7
-volume.value = 0.7
-    // Fonction qui permet de modifier le volume de la video
-volume.addEventListener("input", function() {
-    vid.volume = volume.value
-})
-
-vid.addEventListener("timeupdate", timeProgress)
-    // Fonction qui permet d'avancer la vidéo en cliquant sur la progress bar
-function timeProgress() {
-    progress.value = (vid.currentTime * 100 / vid.duration);
-}
-// Script qui vise à récupéré les coordonees du curseur pour adapter l'avance au clic
-progress.addEventListener('click', (event) => {
-    vid.currentTime = event.offsetX;
-    progress.value = (vid.currentTime * 100 / vid.duration)
-});
 
 // script pour le nuage de prénom
 d3.selectAll('.annee').on("click", function(e, d) {
@@ -263,3 +224,9 @@ function counter() {
     }, duration)
 }
 counter()
+
+let stopMap = document.querySelector('.mapScroll');
+
+stopMap.addEventListener('click', function(e) {
+    stopMap.style.display = "none";
+})
