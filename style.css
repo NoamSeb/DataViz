@@ -319,7 +319,6 @@ h1 {
     width: 70vw;
     height: 70vh;
     background-color: rgba(0, 0, 0, 0.4);
-    border: solid 1px red;
     z-index: 1000;
     position: absolute;
 }
